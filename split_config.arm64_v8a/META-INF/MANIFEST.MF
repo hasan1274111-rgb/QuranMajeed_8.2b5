@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: qv8IVue+rn1M7HR0hSee7Gb0eRA=
+
+Name: lib/arm64-v8a/libPrayerTime.so
+SHA1-Digest: rzzW6HUilK1OHAdAjszNxCPtoc4=
+
+Name: lib/arm64-v8a/libQuranData1.so
+SHA1-Digest: 4D6qhmqoo+yES0i4NgDo0PGHOj0=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA1-Digest: 18F/y0SzCm7+idQ2qhAqvlLgCKY=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: OvtsAigTwNSwsze1LDv8J3CaOEw=
+
+Name: lib/arm64-v8a/libcrashlytics-common.so
+SHA1-Digest: Oy4jH4ehz+CfOuqpqwQPnbtN4B0=
+
+Name: lib/arm64-v8a/libcrashlytics-handler.so
+SHA1-Digest: ulMlzKd02TNN01014H/iQMTX/h4=
+
+Name: lib/arm64-v8a/libcrashlytics-trampoline.so
+SHA1-Digest: Dtj0L2vO1Ct4NEPjIJe3ifN0NOE=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: R9C9SFJhdVTl5PhmHysmQLOEggY=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: CV4WlQQMDBlkJLNYR0xKgZjKOsk=
+
+Name: lib/arm64-v8a/libquranmajeed.so
+SHA1-Digest: cNrgS2F27eyaMOwLstPwKiAIkZo=
+
+Name: lib/arm64-v8a/libwoff2decoder.so
+SHA1-Digest: 3aXbYY5hQAgu1bczKRoMBkAAfc4=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

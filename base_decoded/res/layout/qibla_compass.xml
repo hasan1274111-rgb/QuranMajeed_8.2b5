@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ad" android:layout_below="@id/status_bar">
+        <RelativeLayout android:background="?topbar_bg" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize">
+            <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_centerVertical="true">
+                <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+            </RelativeLayout>
+            <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:textColor="?topbar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qibla_compass_title" android:layout_centerInParent="true" />
+            <ImageView android:id="@id/btnQiblaMap" android:background="?selectableItemBackgroundBorderless" android:padding="12.0dip" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="fill_parent" android:layout_marginRight="5.0dip" android:src="@drawable/ic_qibla_map_globe" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/qibla_map_cd_open" android:layout_marginEnd="5.0dip" android:layout_alignParentEnd="true" app:tint="?topbar_title" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_alignParentLeft="true" android:layout_marginStart="10.0dip" android:layout_alignParentStart="true">
+                <ImageButton android:id="@id/prayer_time" android:background="@null" android:layout_width="@dimen/icon_image_size" android:layout_height="@dimen/icon_image_size" android:src="?selectableItemBackground" />
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textColor="?android:textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/prayer_times" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true">
+                <CheckBox android:id="@id/rotation" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width_small" android:layout_height="@dimen/dash_check_height_small" android:layout_marginTop="15.0dip" android:button="@color/fui_transparent" />
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textColor="?android:textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/uses_compass" />
+            </LinearLayout>
+            <View android:id="@id/right_divider" android:background="@color/grey_light" android:layout_width="1.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:layout_toLeftOf="@id/right" android:layout_alignTop="@id/right" android:layout_alignBottom="@id/right" android:layout_toStartOf="@id/right" />
+            <View android:id="@id/left_divider" android:background="@color/grey_light" android:layout_width="1.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="0.0dip" android:layout_toRightOf="@id/left" android:layout_alignTop="@id/left" android:layout_alignBottom="@id/left" android:layout_toEndOf="@id/left" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/right_divider" android:layout_toRightOf="@id/left_divider" android:layout_alignBottom="@id/right" android:layout_centerVertical="true" android:layout_toStartOf="@id/right_divider" android:layout_toEndOf="@id/left_divider">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/mDefaultProgressTextSize" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/city_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" />
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:id="@id/txtDegrees" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/city_name" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <View android:id="@id/top_line" android:background="@color/bgcHL2" android:layout_width="2.0dip" android:layout_height="0.0dip" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="20.0dip" android:textColor="?android:textColorPrimary" android:id="@id/txtnotice" android:padding="20.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_compass_feature_found_text" android:textAlignment="center" android:autoSizeTextType="uniform" />
+            <RelativeLayout android:id="@id/compass_rotate" android:background="@color/fui_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                <RelativeLayout android:id="@id/compass_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:layout_centerInParent="true">
+                    <ImageView android:id="@id/imgCompass" android:layout_width="350.0dip" android:layout_height="350.0dip" android:src="?compass_crop_img" android:layout_centerInParent="true" />
+                    <RelativeLayout android:id="@id/kaaba_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                        <ImageView android:id="@id/jaenamaz" android:background="@null" android:layout_width="280.0dip" android:layout_height="280.0dip" android:layout_centerInParent="true" />
+                        <ImageView android:id="@id/kaaba_pointer" android:background="@null" android:layout_width="280.0dip" android:layout_height="280.0dip" android:layout_centerInParent="true" />
+                        <RelativeLayout android:id="@id/shadow" android:layout_width="40.0dip" android:layout_height="60.0dip">
+                            <ImageView android:id="@id/shadow_img" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@null" android:layout_alignParentTop="true" android:alpha="0.7" />
+                        </RelativeLayout>
+                        <ImageView android:id="@id/mauqam_ibrahim" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@null" />
+                    </RelativeLayout>
+                </RelativeLayout>
+                <ImageView android:id="@id/sun" android:background="@null" android:visibility="invisible" android:layout_width="40.0dip" android:layout_height="40.0dip" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <com.google.android.material.button.MaterialButton android:textSize="16.0sp" android:textColor="?topbar_title" android:id="@id/btnQiblaMapBottom" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="16.0dip" android:minHeight="48.0dip" android:text="@string/qibla_map_title" android:textAllCaps="false" android:paddingStart="24.0dip" android:paddingEnd="24.0dip" app:backgroundTint="?topbar_bg" app:cornerRadius="24.0dip" app:icon="@drawable/ic_qibla_map_globe" app:iconGravity="textStart" app:iconPadding="8.0dip" app:iconTint="?topbar_title" />
+    </LinearLayout>
+    <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+</RelativeLayout>

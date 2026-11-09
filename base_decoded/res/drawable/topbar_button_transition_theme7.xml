@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/menu_button_selector_theme7" />
+    <item android:drawable="@drawable/menu_button_bg_theme7_borderless" />
+</transition>

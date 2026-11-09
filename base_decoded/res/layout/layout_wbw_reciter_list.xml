@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/wbw_list_main" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/status_bar">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize">
+            <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+                <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+            </RelativeLayout>
+            <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Select Word By Word Reciter" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/search_view" android:background="@drawable/white_rounded_shape" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip">
+            <androidx.appcompat.widget.AppCompatEditText android:textColor="?android:textColorPrimary" android:id="@id/search_edt" android:background="@color/fui_transparent" android:padding="5.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/seacrh" android:drawableLeft="@android:drawable/ic_search_category_default" android:drawablePadding="10.0dip" android:layout_toLeftOf="@id/clear_btn" android:inputType="text" android:imeOptions="actionDone" android:layout_toStartOf="@id/clear_btn" />
+            <Button android:id="@id/clear_btn" android:background="@null" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <ListView android:id="@id/listView1" android:padding="5.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@color/fui_transparent" android:dividerHeight="0.0dip" />
+    </LinearLayout>
+</RelativeLayout>

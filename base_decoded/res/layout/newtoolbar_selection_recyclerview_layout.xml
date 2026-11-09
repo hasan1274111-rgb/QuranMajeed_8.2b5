@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/new_toolbar_selection_toolbar_image_view" android:padding="@dimen/hiad_7_dp" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/ic_play_new" android:scaleType="fitXY" />
+    <TextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:id="@id/new_toolbar_selection_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/play_newToolbarStr" android:layout_centerVertical="true" android:layout_marginStart="@dimen/hiad_5_dp" android:layout_toEndOf="@id/new_toolbar_selection_toolbar_image_view" />
+    <ImageView android:id="@id/touchView" android:padding="@dimen/hiad_text_15_sp" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginTop="@dimen/hiad_5_dp" android:src="@drawable/ic_baseline_dehaze_24" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    <View android:background="@color/BlueBackground" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/new_toolbar_selection_toolbar_image_view" />
+</RelativeLayout>

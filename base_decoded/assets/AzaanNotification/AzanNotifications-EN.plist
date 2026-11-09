@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fajr</key>
+	<array>
+		<string>Those who go to the masjid during the night, they will have perfect light on the Day of Judgement.</string>
+		<string>He who observes the two cool times of prayer (Fajr &amp; Asr) will enter paradise.</string>
+		<string>It is time for Fajr. Start your day being in front of the Most Merciful.</string>
+		<string>Whoever prays Fajr in congregation, it is as if he has prayed the entire night.</string>
+		<string>If they knew the virtue of Isha and Fajr, they would come to them even if they had to crawl.</string>
+		<string>It is time for Fajr. Let’s stand in true devotion to Allah.</string>
+	</array>
+	<key>zohr</key>
+	<array>
+		<string>It is time for Zuhr. Lets stand in true devotion to Allah.</string>
+		<string>Whoever prays four Rak’ah before Zuhr and four afterwards, Allah will forbid him to the Fire.</string>
+		<string>Whoever prays four Rak‘ahs before Zuhr, it is as if he has prayed Tahajjud at night.</string>
+		<string>Seek Allah&apos;s help with patience and Salaat - Surah Al Baqarah: Aya 45</string>
+		<string>Salaat offered five times a day, with the grace of Allah, washes away all the sins.</string>
+		<string>Whenever the Prophet ﷺ faced any difficulty, he would resort to Salaat.</string>
+	</array>
+	<key>asr</key>
+	<array>
+		<string>Whoever misses the Asr Salah, it is as if he has lost all his family and wealth.</string>
+		<string>Observe the ˹five obligatory˺ Salah, especially the middle (Asr) Salah—and stand in true devotion to Allah - Surah Al Baqarah: Aya 238</string>
+		<string>No one will enter Hellfire who prays before sunrise and before sunset.</string>
+		<string>He who observes the two cool times of prayer (Fajr &amp; Asr) will enter paradise.</string>
+		<string>Prophet ﷺ said, &quot;A person who performs his salaat with Jamaat for 40 days, without missing the first takbir, recieves two awards: one for deliverance from Hell and the other for freedom from Hypocrisy.&quot;</string>
+		<string>Establish regular Salah, for Salah restrains from shameful and unjust deeds - Surah Al Ankabut: Aya 45</string>
+	</array>
+	<key>maghrib</key>
+	<array>
+		<string>It was the sunnah of our Prophet ﷺ to hasten Maghrib Salah.</string>
+		<string>It is time for Maghrib. Lets stand in true devotion to Allah.</string>
+		<string>Prophet ﷺ said: My Ummah will remain upon goodness, as long as they do not delay Maghrib until the stars become apparent.</string>
+		<string>The Holy Prophet ﷺ often said, &quot;The comfort of my eyes is in salaat.&quot;</string>
+		<string>Salaat is the partition between Imaan and Kufr. May Allah bless all Muslims.</string>
+		<string>When a person performs wudhu correctly and then leaves for the masjid, for each step taken, he gets one blessing and has one sin wiped.</string>
+	</array>
+	<key>isha</key>
+	<array>
+		<string>Those·who go to the masjid during the night, they will have perfect light on the Day of Judgement.</string>
+		<string>It is time for Isha. Make your day end in front of the Most Merciful.</string>
+		<string>It is time for Isha. Lets stand in true devotion to Allah.</string>
+		<string>Whoever prays Isha in congregation, it is as if he has stood in prayer for half the night.</string>
+		<string>Whoever prays twelve Rak‘ahs during the day and night, a house will be built for him in Paradise: four Rak‘ahs before Zuhr, two Rak‘ahs after it, two Rak‘ahs after Maghrib, two Rak‘ahs after Isha, and two Rak‘ahs before Fajr.</string>
+		<string>The first deed for which a person will be held accountable on the Day of Judgment is his Salah (prayer). If it is correct, he will be successful and saved, but if it is corrupt, he will fail and be ruined.</string>
+	</array>
+</dict>
+</plist>

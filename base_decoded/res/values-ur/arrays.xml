@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarms">
+        <item>None</item>
+        <item>Silent Notification</item>
+        <item>صرف وائبریشن</item>
+        <item>Default Sound</item>
+        <item>Long Beep</item>
+        <item>Mishari Alafasy</item>
+        <item>Mishari Alafasy (Full Adhan)</item>
+        <item>Madinah</item>
+        <item>Madinah (Full Adhan)</item>
+        <item>Makkah</item>
+        <item>Makkah (Full Adhan)</item>
+        <item>Istanbul</item>
+        <item>Istanbul (Full Adhan)</item>
+        <item>Alaqsa Masjid</item>
+        <item>Alaqsa Masjid (Full Adhan)</item>
+    </string-array>
+    <string-array name="arr_playback_speed">
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="asrmethod">
+        <item>خود بخود</item>
+        <item>شافیع</item>
+        <item>حنفی</item>
+    </string-array>
+    <string-array name="ayatDelay_array">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatDelay_array_Display">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatRepeat_array">
+        <item>Once</item>
+        <item>2 times</item>
+        <item>3 times</item>
+        <item>4 times</item>
+        <item>5 times</item>
+        <item>6 times</item>
+        <item>7 times</item>
+        <item>8 times</item>
+        <item>9 times</item>
+        <item>10 times</item>
+        <item>11 times</item>
+        <item>12 times</item>
+        <item>13 times</item>
+        <item>14 times</item>
+        <item>15 times</item>
+        <item>16 times</item>
+        <item>17 times</item>
+        <item>18 times</item>
+        <item>19 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+    <string-array name="ayatRepeat_array_Display">
+        <item>Once</item>
+        <item>2 times</item>
+        <item>3 times</item>
+        <item>4 times</item>
+        <item>5 times</item>
+        <item>6 times</item>
+        <item>7 times</item>
+        <item>8 times</item>
+        <item>9 times</item>
+        <item>10 times</item>
+        <item>11 times</item>
+        <item>12 times</item>
+        <item>13 times</item>
+        <item>14 times</item>
+        <item>15 times</item>
+        <item>16 times</item>
+        <item>17 times</item>
+        <item>18 times</item>
+        <item>19 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>عام</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2X</item>
+    </string-array>
+    <string-array name="fajrishamethod">
+        <item>خود بخود</item>
+        <item>مصری جنرل اتھارٹی آف سروے</item>
+        <item>اسلامک سائنسز یونیورسٹی، کراچی</item>
+        <item>ام القراء یونیورسٹی ، مکہ</item>
+        <item>شمالی امریکہ کی اسلامی سوسایٹی</item>
+        <item>مسلم ورلڈ لیگ</item>
+        <item>مذہبی امور کی صدارت، ترکی</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>اپنی مرضی کے مطابق</item>
+    </string-array>
+    <string-array name="fajrishamethod_display">
+        <item>خود بخود</item>
+        <item>مصری جنرل اتھارٹی آف سروے</item>
+        <item>اسلامک سائنسز یونیورسٹی، کراچی</item>
+        <item>ام القراء یونیورسٹی ، مکہ</item>
+        <item>شمالی امریکہ کی اسلامی سوسایٹی</item>
+        <item>مسلم ورلڈ لیگ</item>
+        <item>مذہبی امور کی صدارت، ترکی</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>اپنی مرضی کے مطابق</item>
+    </string-array>
+    <string-array name="highlattitude">
+        <item>خود بخود</item>
+        <item>کوئی نہیں</item>
+        <item>آدھی رات کو</item>
+        <item>ایک ساتویں رات</item>
+        <item>زاویہ پر مبنی</item>
+    </string-array>
+    <string-array name="landing_page_options">
+        <item>ڈیش بورڈ</item>
+        <item>@string/landing_page_app_pro</item>
+    </string-array>
+    <string-array name="landing_page_options_full">
+        <item>ڈیش بورڈ</item>
+        <item>@string/landing_page_app</item>
+    </string-array>
+    <string-array name="locale">
+        <item>Default</item>
+        <item>Arabic</item>
+        <item>Urdu</item>
+    </string-array>
+    <string-array name="menu_sura">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>الأنعام</item>
+        <item>الأعراف</item>
+        <item>الأنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>الإسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>الأنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>الأحزاب</item>
+        <item>سبأ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصافات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>الأحقاف</item>
+        <item>محمد</item>
+        <item>الفتح</item>
+        <item>الحجرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الطور</item>
+        <item>النجم</item>
+        <item>القمر</item>
+        <item>الرحمن</item>
+        <item>الواقعة</item>
+        <item>الحديد</item>
+        <item>المجادلة</item>
+        <item>الحشر</item>
+        <item>الممتحنة</item>
+        <item>الصف</item>
+        <item>الجمعة</item>
+        <item>المنافقون</item>
+        <item>التغابن</item>
+        <item>الطلاق</item>
+        <item>التحريم</item>
+        <item>الملك</item>
+        <item>القلم</item>
+        <item>الحاقة</item>
+        <item>المعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>المزمل</item>
+        <item>المدثر</item>
+        <item>القيامة</item>
+        <item>الإنسان</item>
+        <item>المرسلات</item>
+        <item>النبأ</item>
+        <item>النازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطففين</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الطارق</item>
+        <item>الأعلى</item>
+        <item>الغاشية</item>
+        <item>الفجر</item>
+        <item>البلد</item>
+        <item>الشمس</item>
+        <item>الليل</item>
+        <item>الضحى</item>
+        <item>الشرح</item>
+        <item>التين</item>
+        <item>العلق</item>
+        <item>القدر</item>
+        <item>البينة</item>
+        <item>الزلزلة</item>
+        <item>العاديات</item>
+        <item>القارعة</item>
+        <item>التكاثر</item>
+        <item>العصر</item>
+        <item>الهمزة</item>
+        <item>الفيل</item>
+        <item>قريش</item>
+        <item>الماعون</item>
+        <item>الكوثر</item>
+        <item>الكافرون</item>
+        <item>النصر</item>
+        <item>المسد</item>
+        <item>الإخلاص</item>
+        <item>الفلق</item>
+        <item>الناس</item>
+    </string-array>
+    <string-array name="namaz_alarm_titles">
+        <item>Tahajud</item>
+        <item>Ishraq</item>
+        <item>Duha / Chasht</item>
+        <item>Zawal</item>
+        <item>Awabeen</item>
+        <item>Suhoor</item>
+        <item>Suhoor End</item>
+        <item>Iftar</item>
+        <item>Custom Title</item>
+    </string-array>
+    <string-array name="namaz_names">
+        <item>فجر</item>
+        <item>طلوع</item>
+        <item>ظہر</item>
+        <item>عصر</item>
+        <item>مغرب</item>
+        <item>عشاء</item>
+    </string-array>
+    <string-array name="namaz_names_not_transtable">
+        <item>Fajr</item>
+        <item>Sunrise</item>
+        <item>Zohr</item>
+        <item>Asr</item>
+        <item>Maghrib</item>
+        <item>Isha</item>
+    </string-array>
+    <string-array name="playback_speed_Display">
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="qmview_options">
+        <item>Webview</item>
+        <item>XwalkView</item>
+    </string-array>
+    <string-array name="range_array">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="range_array_Display">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="sdcard_paths">
+        <item>/storage/sdcard1</item>
+        <item>/storage/extsdcard</item>
+        <item>/storage/sdcard0/external_sdcard</item>
+        <item>/mnt/extsdcard</item>
+        <item>/storage/extSdCard</item>
+        <item>/mnt/sdcard/external_sd</item>
+        <item>/mnt/external_sd</item>
+        <item>/mnt/media_rw/sdcard1</item>
+        <item>/removable/microsd</item>
+        <item>/mnt/emmc</item>
+        <item>/storage/external_SD</item>
+        <item>/storage/ext_sd</item>
+        <item>/storage/removable/sdcard1</item>
+        <item>/data/sdext</item>
+        <item>/data/sdext2</item>
+        <item>/data/sdext3</item>
+        <item>/data/sdext4</item>
+        <item>/emmc</item>
+        <item>/mnt/sdcard/external_sd</item>
+        <item>/mnt/external_sd</item>
+        <item>/sdcard/sd</item>
+        <item>/mnt/sdcard/bpemmctest</item>
+        <item>/mnt/sdcard/_ExternalSD</item>
+        <item>/mnt/sdcard-ext</item>
+        <item>/mnt/Removable/MicroSD</item>
+        <item>/Removable/MicroSD</item>
+        <item>/mnt/external1</item>
+        <item>/mnt/extSdCard</item>
+        <item>/mnt/extsd</item>
+        <item>/mnt/extSdCard</item>
+    </string-array>
+    <string-array name="storagemode">
+        <item>Internal Storage</item>
+        <item>SD Card Storage</item>
+    </string-array>
+    <string-array name="timezone">
+        <item>-2</item>
+        <item>-1.5</item>
+        <item>-1</item>
+        <item>-0.5</item>
+        <item>None</item>
+        <item>+0.5</item>
+        <item>+1</item>
+        <item>+1.5</item>
+        <item>+2</item>
+    </string-array>
+</resources>

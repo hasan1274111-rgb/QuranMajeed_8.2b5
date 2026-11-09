@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64.0dip</dimen>
+    <dimen name="translate_text_size">25.0sp</dimen>
+    <dimen name="bottom_settings_margin">10.0dip</dimen>
+    <dimen name="dash_tip_detail_textsize">18.0sp</dimen>
+    <dimen name="dash_tip_textsize">20.0sp</dimen>
+    <dimen name="dash_top_header_height">300.0dip</dimen>
+    <dimen name="font_view_margin">5.0dip</dimen>
+    <dimen name="full_version_title_size">21.0sp</dimen>
+    <dimen name="more_app_margin">50.0dip</dimen>
+    <dimen name="onboarding_button_title">30.0dip</dimen>
+    <dimen name="onboarding_details">15.0dip</dimen>
+    <dimen name="onboarding_margin">35.0dip</dimen>
+    <dimen name="onboarding_namaz_name_margin">20.0dip</dimen>
+    <dimen name="onboarding_terms">24.0dip</dimen>
+    <dimen name="onboarding_title">32.0dip</dimen>
+    <dimen name="subscription_desc_text_size">13.0dip</dimen>
+    <dimen name="subscription_text_size">15.0dip</dimen>
+    <dimen name="tip_video_height">600.0dip</dimen>
+</resources>

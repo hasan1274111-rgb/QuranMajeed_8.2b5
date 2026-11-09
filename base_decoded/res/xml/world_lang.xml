@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <languages>
+        <language code="en" name="English" />
+        <language code="zh" name="中文" />
+        <language code="hi" name="हिन्दी" />
+        <language code="es" name="Español" />
+        <language code="fr" name="Français" />
+        <language code="ar" name="العربية" />
+        <language code="bn" name="বাংলা" />
+        <language code="ru" name="Русский" />
+        <language code="pt" name="Português" />
+        <language code="ur" name="اردو" />
+        <language code="id" name="Bahasa Indonesia" />
+        <language code="de" name="Deutsch" />
+        <language code="ja" name="日本語" />
+        <language code="pa" name="ਪੰਜਾਬੀ" />
+        <language code="sw" name="Kiswahili" />
+        <language code="tr" name="Türkçe" />
+        <language code="vi" name="Tiếng Việt" />
+        <language code="ko" name="한국어" />
+        <language code="ta" name="தமிழ்" />
+        <language code="it" name="Italiano" />
+        <language code="fa" name="فارسی" />
+        <language code="mr" name="मराठी" />
+        <language code="te" name="తెలుగు" />
+        <language code="th" name="ไทย" />
+        <language code="gu" name="ગુજરાતી" />
+        <language code="pl" name="Polski" />
+        <language code="ro" name="Română" />
+        <language code="nl" name="Nederlands" />
+        <language code="uk" name="Українська" />
+        <language code="ml" name="മലയാളം" />
+        <language code="kn" name="ಕನ್ನಡ" />
+        <language code="am" name="አማርኛ" />
+        <language code="ha" name="Hausa" />
+        <language code="yo" name="Yorùbá" />
+        <language code="zu" name="isiZulu" />
+    </languages>
+</resources>

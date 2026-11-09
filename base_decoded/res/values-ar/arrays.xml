@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarms">
+        <item>لا شيء</item>
+        <item>إعلام صامت</item>
+        <item>اهتزاز فقط</item>
+        <item>الصوت الافتراضي</item>
+        <item>طويل بيب</item>
+        <item>مشاري العفاسي</item>
+        <item>مشاري العفاسي (آذان كامل)</item>
+        <item>المدينة المنورة</item>
+        <item>المدينة المنورة (آذان كامل)</item>
+        <item>المكرمة مكه</item>
+        <item>مكة المكرمة (آذان كامل)</item>
+        <item>اسطنبول</item>
+        <item>اسطنبول (آذان كامل)</item>
+        <item>مسجد الاقصى</item>
+        <item>مسجد الاقصى (آذان كامل)</item>
+    </string-array>
+    <string-array name="asrmethod">
+        <item>تلقائي</item>
+        <item>الشافعي</item>
+        <item>الحنفي</item>
+    </string-array>
+    <string-array name="ayatDelay_array">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatDelay_array_Display">
+        <item>لا تأخير</item>
+        <item>نصف المدة آية</item>
+        <item>المدة آية</item>
+        <item>١ ث</item>
+        <item>٢ ث</item>
+        <item>٣ ث</item>
+        <item>٤ ث</item>
+        <item>٥ ث</item>
+        <item>٦ ث</item>
+        <item>٧ ث</item>
+        <item>٨ ث</item>
+        <item>٩ ث</item>
+        <item>١٠ ث</item>
+    </string-array>
+    <string-array name="ayatRepeat_array">
+        <item>ا مرة</item>
+        <item>٢ مرات</item>
+        <item>٣ مرات</item>
+        <item>٤ مرات</item>
+        <item>٥ مرات</item>
+        <item>٦ مرات</item>
+        <item>٧ مرات</item>
+        <item>٨ مرات</item>
+        <item>٩ مرات</item>
+        <item>١٠ مرات</item>
+        <item>١١ مرات</item>
+        <item>١٢ مرات</item>
+        <item>١٣ مرات</item>
+        <item>١٤ مرات</item>
+        <item>١٥ مرات</item>
+        <item>١٦ مرات</item>
+        <item>١٧ مرات</item>
+        <item>١٨ مرات</item>
+        <item>١٩ مرات</item>
+        <item>٢٠ مرات</item>
+        <item>٢٥ مرات</item>
+        <item>٣٠ مرات</item>
+        <item>٣٥ مرات</item>
+        <item>٤٠ مرات</item>
+        <item>٤٥ مرات</item>
+        <item>٥٠ مرات</item>
+    </string-array>
+    <string-array name="ayatRepeat_array_Display">
+        <item>ذات مرة</item>
+        <item>٢ مرات</item>
+        <item>٣ مرات</item>
+        <item>٤ مرات</item>
+        <item>٥ مرات</item>
+        <item>٦ مرات</item>
+        <item>٧ مرات</item>
+        <item>٨ مرات</item>
+        <item>٩ مرات</item>
+        <item>١٠ مرات</item>
+        <item>١١ مرات</item>
+        <item>١٢ مرات</item>
+        <item>١٣ مرات</item>
+        <item>١٤ مرات</item>
+        <item>١٥ مرات</item>
+        <item>١٦ مرات</item>
+        <item>١٧ مرات</item>
+        <item>١٨ مرات</item>
+        <item>١٩ مرات</item>
+        <item>٢٠ مرات</item>
+        <item>٢٥ مرات</item>
+        <item>٣٠ مرات</item>
+        <item>٣٥ مرات</item>
+        <item>٤٠ مرات</item>
+        <item>٤٥ مرات</item>
+        <item>٥٠ مرات</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>أسرع بـ 0.25 مرة</item>
+        <item>أسرع بـ 0.5 مرات</item>
+        <item>أسرع بـ 0.75 مرة</item>
+        <item>عادية</item>
+        <item>أسرع بـ 1.25 مرة</item>
+        <item>أسرع بـ 1.5 مرة</item>
+        <item>أسرع بمرتين</item>
+    </string-array>
+    <string-array name="fajrishamethod">
+        <item>تلقائي</item>
+        <item>الهيئة المصرية العامة للاستطلاع</item>
+        <item>جامعة العلوم الإسلامية, كراتشي</item>
+        <item>جامعة أم القرى, مكة المكرمة</item>
+        <item>الجمعية الإسلامية لأمريكا الشمالية</item>
+        <item>رابطة العالم الإسلامي</item>
+        <item>رئاسة الشؤون الدينية، تركيا</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="fajrishamethod_display">
+        <item>تلقاءي</item>
+        <item>الهيئة العامة المصرية للمسح</item>
+        <item>جامعة العلوم الإسلامية، كراتشي</item>
+        <item>جامعة أم القرى، مكة المكرمة</item>
+        <item>الجمعية الإسلامية لأمريكا الشمالية</item>
+        <item>الدوري العالم الإسلامي</item>
+        <item>رئاسة الشؤون الدينية، تركيا</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="highlattitude">
+        <item>تلقائي</item>
+        <item>لا يوجد</item>
+        <item>منتصف الليل</item>
+        <item>سبع الليل</item>
+        <item>استناداً على الزاوية</item>
+    </string-array>
+    <string-array name="landing_page_options">
+        <item>لوحة التحكم</item>
+        <item>@string/landing_page_app_pro</item>
+    </string-array>
+    <string-array name="landing_page_options_full">
+        <item>لوحة التحكم</item>
+        <item>@string/landing_page_app</item>
+    </string-array>
+    <string-array name="locale">
+        <item>الافتراضي</item>
+        <item>العربية</item>
+        <item>الاردية</item>
+    </string-array>
+    <string-array name="menu_sura">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>الأنعام</item>
+        <item>الأعراف</item>
+        <item>الأنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>الإسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>الأنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>الأحزاب</item>
+        <item>سبأ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصافات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>الأحقاف</item>
+        <item>محمد</item>
+        <item>الفتح</item>
+        <item>الحجرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الطور</item>
+        <item>النجم</item>
+        <item>القمر</item>
+        <item>الرحمن</item>
+        <item>الواقعة</item>
+        <item>الحديد</item>
+        <item>المجادلة</item>
+        <item>الحشر</item>
+        <item>الممتحنة</item>
+        <item>الصف</item>
+        <item>الجمعة</item>
+        <item>المنافقون</item>
+        <item>التغابن</item>
+        <item>الطلاق</item>
+        <item>التحريم</item>
+        <item>الملك</item>
+        <item>القلم</item>
+        <item>الحاقة</item>
+        <item>المعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>المزمل</item>
+        <item>المدثر</item>
+        <item>القيامة</item>
+        <item>الإنسان</item>
+        <item>المرسلات</item>
+        <item>النبأ</item>
+        <item>النازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطففين</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الطارق</item>
+        <item>الأعلى</item>
+        <item>الغاشية</item>
+        <item>الفجر</item>
+        <item>البلد</item>
+        <item>الشمس</item>
+        <item>الليل</item>
+        <item>الضحى</item>
+        <item>الشرح</item>
+        <item>التين</item>
+        <item>العلق</item>
+        <item>القدر</item>
+        <item>البينة</item>
+        <item>الزلزلة</item>
+        <item>العاديات</item>
+        <item>القارعة</item>
+        <item>التكاثر</item>
+        <item>العصر</item>
+        <item>الهمزة</item>
+        <item>الفيل</item>
+        <item>قريش</item>
+        <item>الماعون</item>
+        <item>الكوثر</item>
+        <item>الكافرون</item>
+        <item>النصر</item>
+        <item>المسد</item>
+        <item>الإخلاص</item>
+        <item>الفلق</item>
+        <item>الناس</item>
+    </string-array>
+    <string-array name="namaz_alarm_titles">
+        <item>التهجد</item>
+        <item>الشروق</item>
+        <item>الضحى</item>
+        <item>الزوال</item>
+        <item>الأوابين</item>
+        <item>السحور</item>
+        <item>نهاية السحور</item>
+        <item>الإفطار</item>
+        <item>عنوان مخصص</item>
+    </string-array>
+    <string-array name="namaz_names">
+        <item>الفجر</item>
+        <item>شروق الشمس</item>
+        <item>الظهر</item>
+        <item>العصر</item>
+        <item>المغرب</item>
+        <item>العشاء</item>
+    </string-array>
+    <string-array name="range_array">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="range_array_Display">
+        <item>السورة</item>
+        <item>الجز</item>
+        <item>الجز</item>
+        <item>صفحة</item>
+        <item>١ آية</item>
+        <item>٢ آية</item>
+        <item>٣ آية</item>
+        <item>٤ آية</item>
+        <item>٥ آية</item>
+        <item>٦ آية</item>
+        <item>٧ آية</item>
+        <item>٨ آية</item>
+        <item>٩ آية</item>
+        <item>١٠ آية</item>
+        <item>١١ آية</item>
+        <item>١٢ آية</item>
+        <item>١٣ آية</item>
+        <item>١٤ آية</item>
+        <item>١٥ آية</item>
+        <item>١٦ آية</item>
+        <item>١٧ آية</item>
+        <item>١٨ آية</item>
+        <item>١٩ آية</item>
+        <item>٢٠ آية</item>
+    </string-array>
+    <string-array name="storagemode">
+        <item>التخزين الداخلي</item>
+        <item>Card SD تخزين</item>
+    </string-array>
+    <string-array name="timezone">
+        <item>-2</item>
+        <item>-1.5</item>
+        <item>-1</item>
+        <item>-0.5</item>
+        <item>None</item>
+        <item>+0.5</item>
+        <item>+1</item>
+        <item>+1.5</item>
+        <item>+2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/engagement_card" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" app:cardBackgroundColor="?cell_color" app:cardCornerRadius="5.0dip" app:cardElevation="7.0dip" app:cardUseCompatPadding="true">
+        <LinearLayout android:orientation="vertical" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="@dimen/hiad_5_dp" android:text="@string/quran_engagement_time_title" android:paddingEnd="@dimen/hiad_5_dp" />
+                <View android:layout_gravity="center" android:background="@color/disable_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/engagement_view" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center|top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+                    <RelativeLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/yourthisweektext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/yours_this_week" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                        <RelativeLayout android:id="@id/progress_view_center" android:layout_width="fill_parent" android:layout_height="@dimen/progressview_dash_height_view" android:layout_below="@id/yourthisweektext" android:layout_centerInParent="true">
+                            <com.pakdata.QuranMajeed.Views.ProgressViewDash android:id="@id/progress_view" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+                    <View android:id="@id/lines" android:background="@color/disable_grey" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" />
+                    <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/sadqa_jaria_gift_pool" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/quran_sadqa_jaria_gift_pool" />
+                        <ImageView android:layout_width="fill_parent" android:layout_height="222.0dip" android:src="?sadqa_jaria_purchase_drawable" />
+                        <View android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="10.0">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/btnLinearLayout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="5.0">
+                        <View android:id="@id/btnGoogleLoginExtra" android:visibility="gone" android:layout_width="150.0sp" android:layout_height="31.0sp" />
+                        <androidx.appcompat.widget.AppCompatButton android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/whiteAlways" android:ellipsize="end" android:gravity="center" android:id="@id/btnGoogleLogin" android:background="@drawable/purchase_now_shape" android:layout_width="120.0dip" android:layout_height="30.0dip" android:text="@string/quran_sadqa_jaria_link_google_login" />
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/txt_user_active_time" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" />
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/txt_time_yours" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_marginBottom="2.0dip" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="5.0">
+                        <androidx.appcompat.widget.AppCompatButton android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/whiteAlways" android:ellipsize="end" android:gravity="center" android:id="@id/perchase_now" android:background="@drawable/purchase_now_shape" android:layout_width="120.0dip" android:layout_height="30.0dip" android:text="@string/purchase_gift" android:lines="1" />
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textColor="?new_bgcHL" android:id="@id/txt_user_reading_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="engagement time" />
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textColor="?android:textColorPrimary" android:id="@id/txt_copies_gifted" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_marginBottom="2.0dip" android:text="0 Quran copies gifted" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:padding="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-15.0dip" android:weightSum="10.0">
+                    <View android:background="@color/disable_grey" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/loginView" android:paddingBottom="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_textsize_medium" android:textColor="#ff808080" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="15.0dip" android:text="@string/quran_sadqa_jaria_link_google_details" android:layout_marginStart="8.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

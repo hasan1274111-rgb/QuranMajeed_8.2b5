@@ -1,0 +1,37 @@
+
+.page {
+  background-size: 100% 1.822em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+}
+
+#page1, #page2 {
+  background-size: 100% 1.822em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+}
+
+.page-usmanic {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}
+
+#page1-usmanic, #page2-usmanic {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}
+
+/*
+js for updating font resize;
+$('.page').css("background-size" , "100% ". window.getComputedStyle(document.getElementsByClassName("qry0")[0]).lineHeight);
+*/
+
+/*  individual page can be modified.*/
+
+/*
+#page1 {
+  background-size: 100% 1.67em;
+  background-image: linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+                                    linear-gradient(#eee .05em, transparent .05em);
+}
+*/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@null" android:enabled="true" android:shortcutId="open_qibla" android:shortcutShortLabel="@string/qibla_compass_title">
+        <intent android:targetPackage="com.pakdata.QuranMajeed" android:action="qc" android:targetClass="com.pakdata.QuranMajeed.QuranMajeed" />/> </shortcut>
+    <shortcut android:icon="@null" android:enabled="true" android:shortcutId="open_prayer_times" android:shortcutShortLabel="@string/prayer_times">
+        <intent android:targetPackage="com.pakdata.QuranMajeed" android:action="pt" android:targetClass="com.pakdata.QuranMajeed.QuranMajeed" />/> </shortcut>
+    <shortcut android:icon="@drawable/reading_bk_filled" android:enabled="true" android:shortcutId="read_qm_bookmark" android:shortcutShortLabel="@string/reading_bookmark">
+        <intent android:targetPackage="com.pakdata.QuranMajeed" android:action="qm_bookmark" android:targetClass="com.pakdata.QuranMajeed.QuranMajeed" />/> </shortcut>
+    <shortcut android:icon="@drawable/trash_icon" android:enabled="true" android:shortcutId="qm_uninstall" android:shortcutShortLabel="@string/uninstall">
+        <intent android:targetPackage="com.pakdata.QuranMajeed" android:action="ins" android:targetClass="com.pakdata.QuranMajeed.UninstallApp.Controller.UninstallFeedbackActivity" />
+    </shortcut>
+</shortcuts>

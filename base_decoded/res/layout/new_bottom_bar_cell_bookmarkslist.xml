@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/bookmarklist_layout_new" android:layout_width="@null" android:layout_height="@null" android:layout_margin="@null"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/mainLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:layout_gravity="center" android:id="@id/bookmarkbtn_new" android:background="@color/fui_transparent" android:focusable="true" android:clickable="true" android:layout_width="@dimen/new_toolbar_icon_size" android:layout_height="@dimen/new_toolbar_icon_size" android:foreground="?selectableItemBackgroundBorderless" android:src="@drawable/ic_list_bookmark_new" android:scaleType="centerInside" />
+        <TextView android:textSize="@null" android:textColor="?NewToolbarIconsTextColor" android:layout_gravity="center" android:id="@id/text" android:layout_width="@null" android:layout_height="wrap_content" android:text="@string/bookmarks" android:maxLines="1" android:textAlignment="center" />
+    </LinearLayout>
+</LinearLayout>

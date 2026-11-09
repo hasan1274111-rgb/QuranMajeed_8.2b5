@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Dashboard "Features" (More) screen: array-of-arrays.
+  Each element is one section: { section = FeatureCategory key, items = ordered FeatureId keys }.
+  Hybrid contract — this file owns section grouping + order; code (FeatureCatalog)
+  maps each key to its icon / title / navigation. Reorder or regroup here without
+  touching code; add a brand-new runtime icon via the live-icons plist instead.
+-->
+<plist version="1.0">
+<array>
+    <dict>
+        <key>section</key>
+        <string>QURAN</string>
+        <key>items</key>
+        <array>
+            <string>READ_QURAN</string>
+            <string>LISTEN_QURAN</string>
+            <string>TAJWEED</string>
+            <string>HIFZ</string>
+            <string>RECITE_SYNC</string>
+            <string>WORD_BY_WORD</string>
+            <string>VISUAL_QURAN</string>
+            <string>TOUCH_CLOTH</string>
+            <string>PLAYLIST</string>
+            <string>QURAN_ACADEMY</string>
+            <string>QURAN_TV</string>
+        </array>
+    </dict>
+    <dict>
+        <key>section</key>
+        <string>PRAYER</string>
+        <key>items</key>
+        <array>
+            <string>PRAYER_TIME</string>
+            <string>QIBLA</string>
+            <string>TASBEEH</string>
+            <string>DUA</string>
+            <string>INFLIGHT_PRAYER</string>
+            <string>ZAKAT_TRACKER</string>
+            <string>HAJJ</string>
+        </array>
+    </dict>
+    <dict>
+        <key>section</key>
+        <string>PLACES_TRAVEL</string>
+        <key>items</key>
+        <array>
+            <string>MASJID_LOCATOR</string>
+            <string>HALAL_PLACES</string>
+            <string>MAKKAH_LIVE</string>
+            <string>MADINA_LIVE</string>
+        </array>
+    </dict>
+    <dict>
+        <key>section</key>
+        <string>ISLAMIC_KNOWLEDGE</string>
+        <key>items</key>
+        <array>
+            <string>ALLAH_NAMES</string>
+            <string>ISLAMIC_CALENDAR</string>
+        </array>
+    </dict>
+    <dict>
+        <key>section</key>
+        <string>APP_SETTINGS</string>
+        <key>items</key>
+        <array>
+            <string>LANGUAGE</string>
+            <string>CONTENT_UPDATE</string>
+            <string>GO_PREMIUM</string>
+            <string>SHARE</string>
+        </array>
+    </dict>
+    <dict>
+        <key>section</key>
+        <string>OTHERS</string>
+        <key>items</key>
+        <array>
+            <string>BLOG</string>
+            <string>TIPS</string>
+            <string>ECARDS</string>
+            <string>ADVERTISE</string>
+        </array>
+    </dict>
+</array>
+</plist>

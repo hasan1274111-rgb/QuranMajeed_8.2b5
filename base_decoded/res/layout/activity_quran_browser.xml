@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/web_main" android:focusable="false" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="10.0" android:layout_above="@id/ad" android:layout_below="@id/status_bar">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:gravity="center_vertical" android:id="@id/actionBarView" android:background="?topbar_bg" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip">
+                <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+                    <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+                </RelativeLayout>
+                <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+                <TextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:layout_weight="1.0" android:layout_centerInParent="true" />
+                <ImageView android:paddingRight="5.0dip" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_margin="2.0dip" android:src="@null" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:paddingEnd="5.0dip" />
+            </RelativeLayout>
+            <ProgressBar android:id="@id/progress" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerInParent="true" />
+            <WebView android:id="@id/webview" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/actionBarView" />
+        </RelativeLayout>
+    </LinearLayout>
+    <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+</RelativeLayout>

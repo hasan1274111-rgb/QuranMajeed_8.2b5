@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.pakdata.QuranMajeed.SwipeLayout.SwipeLayoutn android:orientation="vertical" android:id="@id/swipe" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:touchscreenBlocksFocus="false" app:dragEdge="right" app:mode="normal"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/btnDelete" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageButton android:background="@null" android:padding="0.0dip" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="10.0dip" android:src="?selectableItemBackground" android:keepScreenOn="false" android:backgroundTint="@color/on_surface_qm" />
+    </LinearLayout>
+    <androidx.cardview.widget.CardView android:id="@id/bk" android:layout_width="fill_parent" android:layout_height="wrap_content" app:cardBackgroundColor="?cell_color" app:cardCornerRadius="8.0dip" app:cardElevation="1.0dip" app:cardUseCompatPadding="true">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="@android:color/tertiary_text_light" android:gravity="start" android:id="@id/nameText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_toLeftOf="@id/buttonsLay" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_marginStart="5.0dip" android:layout_toStartOf="@id/buttonsLay" android:layout_alignParentStart="true" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/buttonsLay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="45.0dip" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/audio_selector" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginRight="10.0dip" android:src="@null" android:layout_weight="1.0" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="Icon" android:layout_marginEnd="10.0dip" />
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/tickMarkImg" android:visibility="visible" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0" android:layout_centerVertical="true" android:layout_marginEnd="10.0dip" />
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/audio_icon" android:visibility="invisible" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginRight="10.0dip" android:tint="@color/whiteAlways" android:layout_weight="1.0" android:layout_centerVertical="true" android:layout_marginEnd="10.0dip" />
+                <ImageView android:id="@id/download" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginRight="10.0dip" android:src="@null" android:layout_weight="1.0" android:layout_centerVertical="true" />
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</com.pakdata.QuranMajeed.SwipeLayout.SwipeLayoutn>

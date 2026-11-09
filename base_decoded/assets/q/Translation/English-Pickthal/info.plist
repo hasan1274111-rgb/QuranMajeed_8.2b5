@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>English-Pickthal</string>
+	<key>fontFile</key>
+	<string>Georgia</string>
+	<key>isOtf</key>
+	<string>0</string>
+	<key>isRtl</key>
+	<string>0</string>
+	<key>splitRatio</key>
+	<string>0.57</string>
+	<key>scaleRatio</key>
+	<string>0.6</string>
+	<key>audio</key>
+	<string>Eng-Pickthal</string>
+	<key>size</key>
+	<string></string>
+	<key>sort</key>
+	<integer>10</integer>
+</dict>
+</plist>

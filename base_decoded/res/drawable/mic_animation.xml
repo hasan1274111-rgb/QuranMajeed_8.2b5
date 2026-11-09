@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="50" android:drawable="@drawable/record_button0" />
+    <item android:duration="50" android:drawable="@drawable/record_button1" />
+    <item android:duration="50" android:drawable="@drawable/record_button2" />
+    <item android:duration="50" android:drawable="@drawable/record_button3" />
+    <item android:duration="50" android:drawable="@drawable/record_button4" />
+    <item android:duration="50" android:drawable="@drawable/record_button5" />
+    <item android:duration="50" android:drawable="@drawable/record_button6" />
+    <item android:duration="50" android:drawable="@drawable/record_button7" />
+    <item android:duration="50" android:drawable="@drawable/record_button8" />
+    <item android:duration="50" android:drawable="@drawable/record_button9" />
+    <item android:duration="50" android:drawable="@drawable/record_button10" />
+    <item android:duration="50" android:drawable="@drawable/record_button11" />
+    <item android:duration="50" android:drawable="@drawable/record_button12" />
+    <item android:duration="50" android:drawable="@drawable/record_button13" />
+    <item android:duration="50" android:drawable="@drawable/record_button14" />
+    <item android:duration="50" android:drawable="@drawable/record_button15" />
+    <item android:duration="50" android:drawable="@drawable/record_button16" />
+    <item android:duration="50" android:drawable="@drawable/record_button17" />
+    <item android:duration="50" android:drawable="@drawable/record_button18" />
+    <item android:duration="50" android:drawable="@drawable/record_button19" />
+</animation-list>

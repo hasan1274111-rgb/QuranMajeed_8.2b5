@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/hiad_20_dp" android:width="80.0dip" android:viewportWidth="251.0" android:viewportHeight="177.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?background_bottom_bar" android:pathData="M250.75,1H233.75C217.18,1 203.75,14.43 203.75,31V89.02V145.26C203.75,161.83 190.32,175.26 173.75,175.26H119.75H78.75C62.18,175.26 48.75,161.83 48.75,145.26V89.02V31.51C48.75,14.94 35.32,1.51 18.75,1.51H0" android:strokeColor="?NewToolbarIconsTextColor" android:strokeWidth="2.0" android:strokeAlpha="0.3" />
+</vector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/reciter_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-10.0dip" android:layoutDirection="locale" ads:cardBackgroundColor="?cell_color" ads:cardCornerRadius="5.0dip" ads:cardElevation="7.0dip" ads:cardUseCompatPadding="true" xmlns:ads="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/recierTitle" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_reciters" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+            <View android:id="@id/reciter_view" android:background="@color/disable_grey" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_toRightOf="@id/recierTitle" android:layout_centerInParent="true" android:layout_toStartOf="@id/reciter_offline" android:layout_toEndOf="@id/recierTitle" />
+            <FrameLayout android:id="@id/reciter_offline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textStyle="bold" android:textColor="@color/bgcHL" android:id="@id/offlineaudioreciter" android:background="?android:selectableItemBackground" android:padding="@dimen/hiad_10_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/offline_audio" />
+            </FrameLayout>
+        </RelativeLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/cardViewReciter" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/recierTitle" android:layout_alignParentLeft="true" android:layoutDirection="locale" android:layout_alignParentStart="true" />
+        <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/lay" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerInParent="true" android:layout_alignParentStart="true">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textColor="@color/bgcHL" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/photos" />
+                <CheckBox android:id="@id/check_reciter_photos" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width_small" android:layout_height="@dimen/dash_check_height_small" android:layout_marginLeft="10.0dip" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackgroundBorderless" android:layout_marginStart="10.0dip" />
+            </LinearLayout>
+            <View android:background="@color/disable_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_toLeftOf="@id/reciter_show_all_view" android:layout_toRightOf="@id/lay" android:layout_centerInParent="true" android:layout_toStartOf="@id/reciter_show_all_view" android:layout_toEndOf="@id/lay" />
+            <FrameLayout android:id="@id/reciter_show_all_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/dash_text_size" android:textStyle="bold" android:textColor="@color/bgcHL" android:id="@id/reciter_more_options" android:background="?android:selectableItemBackground" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/show_all" />
+            </FrameLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

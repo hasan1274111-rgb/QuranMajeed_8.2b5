@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/menulayout" android:background="?QMBackgroundHL" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="70.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.7">
+                <ImageButton android:id="@id/rewind_audio_btn" android:background="?button_selector_background" android:layout_width="51.0dip" android:layout_height="51.0dip" android:src="@drawable/ic_fast_rewind" android:scaleType="centerInside" android:layout_marginStart="@dimen/hiad_20_dp" app:tint="?header_text_color" />
+                <TextView android:textColor="?header_text_color" android:layout_gravity="center_vertical" android:id="@id/time_passed_Audio" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" android:layout_marginStart="@dimen/hiad_10_dp" />
+                <ImageButton android:id="@id/play_audio_btn" android:background="?button_selector_background" android:visibility="gone" android:layout_width="51.0dip" android:layout_height="51.0dip" android:src="@drawable/ic_play_arrow" android:scaleType="centerInside" android:layout_marginStart="@dimen/hiad_10_dp" app:tint="?header_text_color" />
+                <ImageButton android:id="@id/pause_audio_btn" android:background="?button_selector_background" android:layout_width="51.0dip" android:layout_height="51.0dip" android:src="@drawable/ic_baseline_pause" android:scaleType="centerInside" android:layout_marginStart="@dimen/hiad_10_dp" app:tint="?header_text_color" />
+                <TextView android:textColor="?header_text_color" android:layout_gravity="center_vertical" android:id="@id/totalDuration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" android:layout_marginStart="@dimen/hiad_10_dp" />
+                <ImageButton android:id="@id/fast_forward_audio_btn" android:background="?button_selector_background" android:layout_width="51.0dip" android:layout_height="51.0dip" android:src="@drawable/ic_fast_forward" android:scaleType="centerInside" android:layout_marginStart="@dimen/hiad_10_dp" app:tint="?header_text_color" />
+            </LinearLayout>
+            <ImageButton android:id="@id/close_player_tab" android:background="?button_selector_background" android:layout_width="51.0dip" android:layout_height="51.0dip" android:src="@drawable/ic_baseline_close_24" android:scaleType="centerInside" android:layout_weight="0.1" android:layout_centerVertical="true" android:layout_marginStart="@dimen/hiad_10_dp" android:layout_marginEnd="@dimen/hiad_10_dp" android:layout_alignParentEnd="true" app:tint="?header_text_color" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

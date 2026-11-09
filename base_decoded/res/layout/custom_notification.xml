@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/custom_messages" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/imgIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:scaleType="fitCenter" android:layout_alignParentStart="true" />
+            <LinearLayout android:orientation="vertical" android:id="@id/txtLayoutMiddle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toStartOf="@id/deleteNotification" android:layout_toEndOf="@id/imgIcon">
+                <TextView android:textSize="17.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/titleMain" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/quran_sadqa_jaria_gift_pool" android:maxLines="3" />
+            </LinearLayout>
+            <ImageButton android:layout_gravity="start" android:id="@id/deleteNotification" android:background="?android:selectableItemBackground" android:paddingBottom="10.0dip" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@null" android:scaleType="fitStart" android:tint="@color/on_surface_qm" android:paddingStart="10.0dip" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0dip" android:textColor="?android:textColorPrimary" android:id="@id/TitleDetail" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="15.0dip" android:text="@string/quran_sadqa_jaria_gift_pool" />
+            </LinearLayout>
+            <RelativeLayout android:gravity="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginStart="10.0dip">
+                <Button android:textSize="18.0dip" android:textStyle="bold" android:textColor="?new_bgcHL" android:id="@id/ViewNotification" android:background="?android:selectableItemBackground" android:padding="@dimen/hiad_10_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/view" />
+            </RelativeLayout>
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:gravity="right" android:id="@id/NotificationTime" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="2 minutes ago" android:layout_marginStart="10.0dip" android:layout_marginEnd="0.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

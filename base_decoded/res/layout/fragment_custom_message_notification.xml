@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/custom_notification_main" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/status_bar">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip">
+            <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_centerVertical="true">
+                <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:background="?selectableItemBackgroundBorderless" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:rotation="@integer/backBtnRotation" />
+            </RelativeLayout>
+            <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/notifications" android:layout_weight="1.0" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/ad" android:animateLayoutChanges="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:layout_above="@id/ad">
+                <androidx.recyclerview.widget.RecyclerView android:id="@id/NotificationListView" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:divider="@color/fui_transparent" android:fadeScrollbars="false" />
+            </LinearLayout>
+            <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

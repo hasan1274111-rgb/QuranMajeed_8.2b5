@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="0.0dip" android:layout_marginBottom="4.0dip" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:orientation="horizontal" android:background="@android:color/transparent" android:focusable="true" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_margin="@dimen/hiad_8_dp" android:touchscreenBlocksFocus="false" app:cardCornerRadius="10.0dip" app:cardElevation="8.0dip">
+        <LinearLayout android:orientation="horizontal" android:background="@drawable/gradiant_card" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+            <androidx.cardview.widget.CardView android:orientation="horizontal" android:focusable="true" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.15" android:touchscreenBlocksFocus="false" app:cardBackgroundColor="?cell_color" app:cardCornerRadius="10.0dip" app:cardElevation="0.0dip">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/hiad_8_dp" android:weightSum="1.0">
+                    <ImageView android:id="@id/imageView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.7" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:srcCompat="@null" />
+                    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/hiad_2_dp" android:layout_weight="0.3">
+                        <TextView android:textSize="@dimen/hiad_16_dp" android:textStyle="bold" android:textColor="@color/er_green_light" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/er_dash_heading" />
+                        <TextView android:textSize="@dimen/hiad_12_dp" android:textColor="?android:textColorPrimary" android:id="@id/desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Continue Your Streak" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <LinearLayout android:gravity="end|center" android:orientation="horizontal" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.87" android:layout_marginEnd="@dimen/hiad_8_dp">
+                <ImageView android:id="@id/forward" android:layout_width="25.0dip" android:layout_height="25.0dip" app:srcCompat="@null" app:tint="@color/whiteAlways" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/engagement_reward_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="100.0dip" />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

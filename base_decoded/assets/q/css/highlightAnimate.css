@@ -1,0 +1,31 @@
+/**
+ * highlightAnimate.css
+ * Styles for the word-by-word highlight animation during recitation.
+ */
+
+.word-hl-overlay {
+    position: absolute;
+    background-color: rgba(255, 220, 100, 0.40);
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: -1;
+    transition: left 0.2s ease, top 0.2s ease, width 0.2s ease, height 0.2s ease;
+    opacity: 1;
+}
+.word-hl-overlay.fade-out {
+    opacity: 0;
+    transition: left 0.2s ease, top 0.2s ease, width 0.2s ease, height 0.2s ease, opacity 0.3s ease-out;
+}
+
+.word-hl-linger {
+    position: absolute;
+    background-color: rgba(255, 220, 100, 0.30);
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 1;
+    transition: opacity 1s ease-out;
+}
+.word-hl-linger.fade-out {
+    opacity: 0;
+}

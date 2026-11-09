@@ -1,0 +1,36 @@
+
+.page {
+  background-size: 100% 1.822em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  box-sizing: border-box;
+}
+
+#page1, #page2 {
+  background-size: 100% 1.822em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+}
+	.pagebreak-usmanic {
+    	background-image: url("../page-break-png");
+    	background-color:rgba(67, 2, 189, 0);
+    	background-position:50% 0%;
+    	background-size: contain;
+
+
+        background-repeat:no-repeat;
+        margin-bottom: -3px;
+        margin-top: 8px;
+        text-align-last: center !important;
+    	}
+
+
+.page-usmanic {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}
+
+#page1-usmanic, #page2-usmanic {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fajr</key>
+	<array>
+		<string>Diejenigen, die in der Nacht zur Moschee gehen, werden am Tag des Gerichts vollkommenes Licht haben.</string>
+		<string>Wer die beiden kühlen Gebetszeiten (im Morgengrauen und nach Einbruch der Nacht) einhält, wird ins Paradies eintreten.</string>
+		<string>Es ist Zeit für das Fajr-Gebet. Beginne deinen Tag vor dem Allerbarmer.</string>
+		<string>Wer das Fajr-Gebet in Gemeinschaft verrichtet, ist, als hätte er die ganze Nacht gebetet.</string>
+		<string>Wenn sie die Tugend von Isha und Fajr kennen würden, kämen sie selbst dann, wenn sie kriechen müssten.</string>
+		<string>Es ist Zeit für das Fajr-Gebet. Lasst uns in aufrichtiger Hingabe zu Allah stehen.</string>
+	</array>
+	<key>zohr</key>
+	<array>
+		<string>Es ist Zeit für das Zuhr-Gebet. Lasst uns in aufrichtiger Hingabe zu Allah stehen.</string>
+		<string>Wer vier Rakʿah vor dem Zuhr-Gebet und vier danach betet, dem wird Allah das Höllenfeuer verbieten.</string>
+		<string>Wer vier Rakʿah vor dem Zuhr-Gebet betet, ist, als hätte er in der Nacht das Tahajjud-Gebet verrichtet.</string>
+		<string>Sucht Hilfe bei Allah durch Geduld und Gebet. - Sure Al-Baqarah: Vers 45</string>
+		<string>Das fünfmal am Tag verrichtete Gebet löscht mit der Gnade Allahs alle Sünden aus.</string>
+		<string>Wann immer der Prophet ﷺ auf eine Schwierigkeit stieß, wandte er sich dem Gebet zu.</string>
+	</array>
+	<key>asr</key>
+	<array>
+		<string>Wer das Asr-Gebet verpasst, ist, als hätte er seine gesamte Familie und seinen Besitz verloren.</string>
+		<string>Verrichtet die fünf verpflichtenden Gebete, insbesondere das mittlere Gebet (Asr), und steht in wahrer Hingabe zu Allah. - Sure Al-Baqarah: Vers 238</string>
+		<string>Niemand wird in die Hölle eintreten, der vor Sonnenaufgang und vor Sonnenuntergang betet.</string>
+		<string>Wer die beiden kühlen Gebetszeiten (Fajr und Asr) einhält, wird ins Paradies eintreten.</string>
+		<string>Der Prophet ﷺ sagte: „Eine Person, die 40 Tage lang ihr Gebet in der Gemeinschaft verrichtet, ohne den ersten Takbir zu verpassen, erhält zwei Belohnungen: eine für die Errettung vor der Hölle und eine für die Befreiung von der Heuchelei.“</string>
+		<string>Verrichte das Gebet regelmäßig, denn das Gebet hält von schändlichen und ungerechten Taten ab. - Sure Al-Ankabut: Vers 45</string>
+	</array>
+	<key>maghrib</key>
+	<array>
+		<string>Es war die Sunnah unseres Propheten ﷺ, das Maghrib-Gebet zu beschleunigen.</string>
+		<string>Es ist Zeit für das Maghrib-Gebet. Lasst uns in aufrichtiger Hingabe zu Allah stehen.</string>
+		<string>Der Prophet ﷺ sagte: „Meine Ummah wird im Guten bleiben, solange sie das Maghrib-Gebet nicht verzögern, bis die Sterne sichtbar werden.“</string>
+		<string>Der Heilige Prophet ﷺ sagte oft: &quot;Der Trost meiner Augen liegt im Gebet.&quot;</string>
+		<string>Das Gebet ist die Trennlinie zwischen Iman und Kufr. Möge Allah alle Muslime segnen.</string>
+		<string>Wenn eine Person die Gebetswaschung korrekt durchführt und dann zur Moschee geht, erhält sie mit jedem Schritt einen Segen und eine Sünde wird getilgt.</string>
+	</array>
+	<key>isha</key>
+	<array>
+		<string>Diejenigen, die in der Nacht zur Moschee gehen, werden am Tag des Gerichts vollkommenes Licht haben.</string>
+		<string>Es ist Zeit für das Isha-Gebet. Beende deinen Tag vor dem Allerbarmer.</string>
+		<string>Es ist Zeit für das Isha-Gebet. Lasst uns in aufrichtiger Hingabe zu Allah stehen.</string>
+		<string>Wer das Isha-Gebet in Gemeinschaft verrichtet, ist, als hätte er die halbe Nacht im Gebet verbracht.</string>
+		<string>Wer zwölf Rakʿah am Tag und in der Nacht betet, dem wird ein Haus im Paradies gebaut: vier Rakʿah vor dem Zuhr, zwei Rakʿah danach, zwei Rakʿah nach Maghrib, zwei Rakʿah nach Isha und zwei Rakʿah vor Fajr.</string>
+		<string>Die erste Tat, für die eine Person am Tag des Gerichts zur Rechenschaft gezogen wird, ist ihr Gebet (Salah). Wenn es richtig ist, wird sie erfolgreich sein und gerettet werden, aber wenn es verdorben ist, wird sie scheitern und zugrunde gehen.</string>
+	</array>
+</dict>
+</plist>

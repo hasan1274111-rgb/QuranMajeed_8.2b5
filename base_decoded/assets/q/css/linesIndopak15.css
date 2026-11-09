@@ -1,0 +1,67 @@
+.qry,.qry0{
+    display:inline;
+    font-family:"PDMS_IndoPak";
+    margin: 0 auto !important;
+    font-size:revert;
+}
+
+.pagebreaklines15LinesIndo {
+    	background-image: url("../page-break-png");
+    	background-color:rgba(67, 2, 189, 0);
+    	background-position:50% 0%;
+    	background-size: contain;
+        background-repeat:no-repeat;
+        text-align-last: center !important;
+    	}
+.list-chunk {
+
+
+}
+.details {
+
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:10px;
+  margin-right:0px;
+}
+.page br{
+    display: none !important;
+}
+
+.textlines {
+    text-align: center !important;
+    text-align-last: center !important;
+    line-height: 1.3em !important;
+    height: 1.3em;
+    overflow: visible;
+}
+.textlines[id="line1"] {
+    box-shadow: inset 0 4px 4px -2px rgba(0, 0, 0, 0.2);
+}
+.pageNumberNew {
+    line-height: 1.3em !important;
+    height: 1.3em;
+    overflow: hidden;
+    }
+#page1, #page2 {
+  background-size: 100% 1.3em;
+  background-image: linear-gradient(#d7dede 1px, transparent 1px);
+  background-position: 0px 0.35em;
+}
+.page {
+  background-size: 100% 1.3em;
+  background-image: linear-gradient(#d7dede 1px, transparent 1px);
+  background-position: 0px 0.25em;
+  box-sizing: border-box;
+  overflow: visible;
+}
+#test .textlines {
+    height: auto;
+}
+
+/* Android-specific: adjust marks vertical position */
+.android .marks,
+.android .marks2,
+.android .marks3 {
+    margin-top: 10px;
+}

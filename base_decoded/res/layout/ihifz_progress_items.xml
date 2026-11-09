@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/swipe" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:cardBackgroundColor="?cell_color" app:dragEdge="right" app:mode="normal"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:layout_gravity="bottom" android:background="@color/lightgray" android:layout_width="fill_parent" android:layout_height="@dimen/hiad_2_dp" />
+    <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:id="@id/count_marks_cell" android:background="@drawable/border_red_rounded" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/hiad_10_dp" android:layout_alignParentEnd="true" app:cardCornerRadius="4.0dip">
+            <TextView android:textSize="13.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/marks_count_sura" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="5" android:textAlignment="center" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/main_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/hiad_text_15_sp" android:textColor="@color/grey_light" android:layout_gravity="center_vertical" android:id="@id/surah" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1 Fatiha" android:layout_marginStart="@dimen/hiad_10_dp" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/progresstick" android:layout_width="@dimen/hiad_20_dp" android:layout_height="@dimen/hiad_20_dp" android:src="@drawable/gray_tick" android:layout_marginStart="@dimen/hiad_5_dp" />
+            <TextView android:textSize="@dimen/hiad_text_15_sp" android:textColor="@color/grey_light" android:layout_gravity="center_vertical" android:id="@id/surah_progress" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="14% (1 of 7)" android:layout_marginStart="@dimen/hiad_5_dp" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/hiad_text_12_sp" android:textColor="@color/grey_light" android:ellipsize="end" android:id="@id/selected_ayas_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ayas: 12, 22, 23" android:maxLines="1" android:layout_below="@id/main_layout" android:layout_marginStart="@dimen/hiad_10_dp" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

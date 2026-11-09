@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarms">
+        <item>None</item>
+        <item>Silent Notification</item>
+        <item>Vibration Only</item>
+        <item>Default Sound</item>
+        <item>Long Beep</item>
+        <item>Mishari Alafasy</item>
+        <item>Mishari Alafasy (Full Adhan)</item>
+        <item>Madinah</item>
+        <item>Madinah (Full Adhan)</item>
+        <item>Makkah</item>
+        <item>Makkah (Full Adhan)</item>
+        <item>Istanbul</item>
+        <item>Istanbul (Full Adhan)</item>
+        <item>Alaqsa Masjid</item>
+        <item>Alaqsa Masjid (Full Adhan)</item>
+    </string-array>
+    <string-array name="arr_playback_speed">
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="asrmethod">
+        <item>Auto</item>
+        <item>Shafi</item>
+        <item>Hanafi</item>
+    </string-array>
+    <string-array name="ayatDelay_array">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatDelay_array_Display">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatRepeat_array">
+        <item>Once</item>
+        <item>2 times</item>
+        <item>3 times</item>
+        <item>4 times</item>
+        <item>5 times</item>
+        <item>6 times</item>
+        <item>7 times</item>
+        <item>8 times</item>
+        <item>9 times</item>
+        <item>10 times</item>
+        <item>11 times</item>
+        <item>12 times</item>
+        <item>13 times</item>
+        <item>14 times</item>
+        <item>15 times</item>
+        <item>16 times</item>
+        <item>17 times</item>
+        <item>18 times</item>
+        <item>19 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+    <string-array name="ayatRepeat_array_Display">
+        <item>Once</item>
+        <item>2 times</item>
+        <item>3 times</item>
+        <item>4 times</item>
+        <item>5 times</item>
+        <item>6 times</item>
+        <item>7 times</item>
+        <item>8 times</item>
+        <item>9 times</item>
+        <item>10 times</item>
+        <item>11 times</item>
+        <item>12 times</item>
+        <item>13 times</item>
+        <item>14 times</item>
+        <item>15 times</item>
+        <item>16 times</item>
+        <item>17 times</item>
+        <item>18 times</item>
+        <item>19 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_arch">
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>arm</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>x86</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>aarch64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+        <item>x86_64</item>
+    </string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_build_id">
+        <item>e283a5d576720e0e470f82e2f369394fe9bf3e71</item>
+        <item>bc42840fe1ecd21fea5628bef2ba391f5db74eb2</item>
+        <item>57881550a199e85debc6a073a34cb4ab3cb99183</item>
+        <item>d2ef3427981dc8b976e37fd009ccbd8f0c62cb79</item>
+        <item>97a85900d9bb2d693f25dbace48d183e9fe55087</item>
+        <item>8e97299dcad91f08b141d2c086167c461c289a3f</item>
+        <item>fa98a997cdd9b43f190a4bd20f3dad441b4062f0</item>
+        <item>c95315a8e9e84e5341b38c351f86136697fe5ac2</item>
+        <item>39e9b7ea73558de4</item>
+        <item>c2c541cc4337a0fc28271329ef238d6bddf6d70d</item>
+        <item>73abbf38b4a307bc49942a724ca4b8f99380f79c</item>
+        <item>e30d6c60c618f4308fb29a9dc0ed8eaacd5d756f</item>
+        <item>297b3cf2ce02e235e88aa5b42c6e314951f045e3</item>
+        <item>a01dd574c34ad0fa4cd4dc1c2d949a01665655fb</item>
+        <item>6669cf91f0992b67b4614f9e7b75b59451610918</item>
+        <item>2967c89ccc9b63d2803e1f9b903bb4fbeb5271bb</item>
+        <item>23aee02e98404fd08c1e4b689ccd5ef7ea84f25f</item>
+        <item>56b3f97a7efb05fc89674cf68f6c27847a93860b</item>
+        <item>07beaa0b1bb6d2ec4714272ae4e10e5cb4ff62c8</item>
+        <item>95926c6fd165bef9</item>
+        <item>cf60dc0a5664876a021857e4948f6798ee0ca150</item>
+        <item>726ac2984ce24929182bd8477762db38085ae7f8</item>
+        <item>d52bee3831b968c55c5f707cee8dbcc2d160405f</item>
+        <item>8ad4cae07bdf408f575ecc61c22e3a066f62ed18</item>
+        <item>cb6cf1587bb065061f3bfafe1aaed07c1d0f28f0</item>
+        <item>c4554fa07f655dcecf6f6e71cfe88acff2e98138</item>
+        <item>c70ebdb1d0ebd498da8f29e262ec17669c7c2441</item>
+        <item>7befe631535aa853c4f4ac1293e49dcea34c9b6e</item>
+        <item>a7846ae06d6bf6cf63fa7c5e056b5de493c71567</item>
+        <item>0341e66bce8ce16c7c962c0e6105908c2026d6bf</item>
+        <item>0c0c8488b45cfe73</item>
+        <item>17db37bd6770ac00dd2d1d2828839fd23a7959a3</item>
+        <item>71001524235963d609d3bbd369ad6b83e5bc658d</item>
+        <item>33d518564051c4d7d69368636c6e44d6c9354bca</item>
+        <item>9fa916b683ee147f1d805b8c8cd0f1d0d14196d3</item>
+        <item>2e2552abba79bd43ea1abaa44dd247e7a4177020</item>
+        <item>9ebeb1fdd4dc27a04f7ed59e62374a6c971c4afb</item>
+        <item>f27c0733b56698361a37d76d4f304d441b10f08d</item>
+        <item>0f8f9b5a33c8898dc08ae1688f9b1d3d10ff68ab</item>
+        <item>f3e82b0a78f4c567cca77fe6c132199d806987d1</item>
+        <item>1c393baa7b86f85c8d2c008144af079fc1fb7edc</item>
+        <item>4c36e0fbea3a57f5</item>
+        <item>c6ef0802be059f5f59b23f1205d040dbc5b1ccad</item>
+        <item>cc40ed536f04709c394b7ae2e690799165b3bc01</item>
+    </string-array>
+    <string-array name="com.google.firebase.crashlytics.build_ids_lib">
+        <item>libquranmajeed.so</item>
+        <item>libQuranData1.so</item>
+        <item>libcrashlytics-common.so</item>
+        <item>libwoff2decoder.so</item>
+        <item>libcrashlytics.so</item>
+        <item>libc++_shared.so</item>
+        <item>libandroidx.graphics.path.so</item>
+        <item>libcrashlytics-handler.so</item>
+        <item>libPrayerTime.so</item>
+        <item>libdatastore_shared_counter.so</item>
+        <item>libcrashlytics-trampoline.so</item>
+        <item>libquranmajeed.so</item>
+        <item>libQuranData1.so</item>
+        <item>libcrashlytics-common.so</item>
+        <item>libwoff2decoder.so</item>
+        <item>libcrashlytics.so</item>
+        <item>libc++_shared.so</item>
+        <item>libandroidx.graphics.path.so</item>
+        <item>libcrashlytics-handler.so</item>
+        <item>libPrayerTime.so</item>
+        <item>libdatastore_shared_counter.so</item>
+        <item>libcrashlytics-trampoline.so</item>
+        <item>libquranmajeed.so</item>
+        <item>libQuranData1.so</item>
+        <item>libcrashlytics-common.so</item>
+        <item>libwoff2decoder.so</item>
+        <item>libcrashlytics.so</item>
+        <item>libc++_shared.so</item>
+        <item>libandroidx.graphics.path.so</item>
+        <item>libcrashlytics-handler.so</item>
+        <item>libPrayerTime.so</item>
+        <item>libdatastore_shared_counter.so</item>
+        <item>libcrashlytics-trampoline.so</item>
+        <item>libquranmajeed.so</item>
+        <item>libQuranData1.so</item>
+        <item>libcrashlytics-common.so</item>
+        <item>libwoff2decoder.so</item>
+        <item>libcrashlytics.so</item>
+        <item>libc++_shared.so</item>
+        <item>libandroidx.graphics.path.so</item>
+        <item>libcrashlytics-handler.so</item>
+        <item>libPrayerTime.so</item>
+        <item>libdatastore_shared_counter.so</item>
+        <item>libcrashlytics-trampoline.so</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="fajrishamethod">
+        <item>Auto</item>
+        <item>Egyptian General Authority of Survey</item>
+        <item>University of Islamic Sciences, Karachi</item>
+        <item>Umm al-Qura University, Makkah</item>
+        <item>Islamic Society of North America</item>
+        <item>Muslim World League</item>
+        <item>Presidency of Religious Affairs, Turkey</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="fajrishamethod_display">
+        <item>Auto</item>
+        <item>Egyptian General Authority of Survey</item>
+        <item>University of Islamic Sciences, Karachi</item>
+        <item>Umm al-Qura University, Makkah</item>
+        <item>Islamic Society of North America</item>
+        <item>Muslim World League</item>
+        <item>Presidency of Religious Affairs, Turkey</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="highlattitude">
+        <item>Auto</item>
+        <item>None</item>
+        <item>Midnight</item>
+        <item>One-Seventh Night</item>
+        <item>Angle Based</item>
+    </string-array>
+    <string-array name="landing_page_options">
+        <item>Dashboard</item>
+        <item>@string/landing_page_app_pro</item>
+    </string-array>
+    <string-array name="landing_page_options_full">
+        <item>Dashboard</item>
+        <item>@string/landing_page_app</item>
+    </string-array>
+    <string-array name="locale">
+        <item>Default</item>
+        <item>Arabic</item>
+        <item>Urdu</item>
+    </string-array>
+    <string-array name="menu_sura">
+        <item>Al-Fatiha</item>
+        <item>Al-Baqara</item>
+        <item>Al-E-Imran</item>
+        <item>An-Nisa</item>
+        <item>Al-Maeda</item>
+        <item>Al-Anaam</item>
+        <item>Al-Araf</item>
+        <item>Al-Anfal</item>
+        <item>Al-Tawba</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Al-Rad</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta-Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mumenoon</item>
+        <item>Al-Noor</item>
+        <item>Al-Furqan</item>
+        <item>Al-Shuara</item>
+        <item>Al-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-Ankaboot</item>
+        <item>Al-Room</item>
+        <item>Luqman</item>
+        <item>As-Sajda</item>
+        <item>Al-Ahzab</item>
+        <item>Saba</item>
+        <item>Fatir</item>
+        <item>Ya-Seen</item>
+        <item>As-Saaffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiya</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujraat</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqia</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadila</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahina</item>
+        <item>As-Saff</item>
+        <item>Al-Jumua</item>
+        <item>Al-Munafiqoon</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haaqqa</item>
+        <item>Al-Maarij</item>
+        <item>Nooh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyama</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba</item>
+        <item>An-Naziat</item>
+        <item>Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Burooj</item>
+        <item>At-Tariq</item>
+        <item>Al-Ala</item>
+        <item>Al-Ghashiya</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Lail</item>
+        <item>Ad-Dhuha</item>
+        <item>Ash-Sharh</item>
+        <item>At-Tin</item>
+        <item>Al-Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyina</item>
+        <item>Al-Zalzala</item>
+        <item>Al-Adiyat</item>
+        <item>Al-Qaria</item>
+        <item>At-Takathur</item>
+        <item>Al-Asr</item>
+        <item>Al-Humaza</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Maun</item>
+        <item>Al-Kauther</item>
+        <item>Al-Kafiroon</item>
+        <item>An-Nasr</item>
+        <item>Al-Masadd</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </string-array>
+    <string-array name="namaz_alarm_titles">
+        <item>Tahajud</item>
+        <item>Ishraq</item>
+        <item>Duha / Chasht</item>
+        <item>Zawal</item>
+        <item>Awabeen</item>
+        <item>Suhoor</item>
+        <item>Suhoor End</item>
+        <item>Iftar</item>
+        <item>Custom Title</item>
+    </string-array>
+    <string-array name="namaz_names">
+        <item>@string/fajr</item>
+        <item>@string/sunrise</item>
+        <item>@string/zohr</item>
+        <item>@string/asr</item>
+        <item>@string/maghrib</item>
+        <item>@string/isha</item>
+    </string-array>
+    <string-array name="namaz_names_custom_alarm">
+        <item>@string/fajr</item>
+        <item>@string/sunrise</item>
+        <item>@string/zohr</item>
+        <item>@string/asr</item>
+        <item>@string/maghrib</item>
+        <item>@string/isha</item>
+        <item>@string/custom_time</item>
+    </string-array>
+    <string-array name="namaz_names_not_transtable">
+        <item>Fajr</item>
+        <item>Sunrise</item>
+        <item>Zohr</item>
+        <item>Asr</item>
+        <item>Maghrib</item>
+        <item>Isha</item>
+    </string-array>
+    <string-array name="playback_speed_Display">
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>2.0</item>
+    </string-array>
+    <string-array name="qmview_options">
+        <item>Webview</item>
+        <item>XwalkView</item>
+    </string-array>
+    <string-array name="range_array">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="range_array_Display">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="sdcard_paths">
+        <item>/storage/sdcard1</item>
+        <item>/storage/extsdcard</item>
+        <item>/storage/sdcard0/external_sdcard</item>
+        <item>/mnt/extsdcard</item>
+        <item>/storage/extSdCard</item>
+        <item>/mnt/sdcard/external_sd</item>
+        <item>/mnt/external_sd</item>
+        <item>/mnt/media_rw/sdcard1</item>
+        <item>/removable/microsd</item>
+        <item>/mnt/emmc</item>
+        <item>/storage/external_SD</item>
+        <item>/storage/ext_sd</item>
+        <item>/storage/removable/sdcard1</item>
+        <item>/data/sdext</item>
+        <item>/data/sdext2</item>
+        <item>/data/sdext3</item>
+        <item>/data/sdext4</item>
+        <item>/emmc</item>
+        <item>/mnt/sdcard/external_sd</item>
+        <item>/mnt/external_sd</item>
+        <item>/sdcard/sd</item>
+        <item>/mnt/sdcard/bpemmctest</item>
+        <item>/mnt/sdcard/_ExternalSD</item>
+        <item>/mnt/sdcard-ext</item>
+        <item>/mnt/Removable/MicroSD</item>
+        <item>/Removable/MicroSD</item>
+        <item>/mnt/external1</item>
+        <item>/mnt/extSdCard</item>
+        <item>/mnt/extsd</item>
+        <item>/mnt/extSdCard</item>
+    </string-array>
+    <string-array name="storagemode">
+        <item>Internal Storage</item>
+        <item>SD Card Storage</item>
+    </string-array>
+    <string-array name="timezone">
+        <item>-2</item>
+        <item>-1.5</item>
+        <item>-1</item>
+        <item>-0.5</item>
+        <item>None</item>
+        <item>+0.5</item>
+        <item>+1</item>
+        <item>+1.5</item>
+        <item>+2</item>
+    </string-array>
+</resources>

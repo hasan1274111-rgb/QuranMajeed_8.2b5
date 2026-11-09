@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/landing_page_card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-10.0dip" android:layoutDirection="locale" ads:cardBackgroundColor="?cell_color" ads:cardCornerRadius="5.0dip" ads:cardElevation="7.0dip" ads:cardUseCompatPadding="true" xmlns:ads="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/landing_page_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/landing_page" />
+            <View android:background="@color/disable_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+        </LinearLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="?android:textColorPrimary" android:id="@id/selected_page_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/landing_page_text" android:layout_centerVertical="true" />
+            <Spinner android:id="@id/spinner_landingpage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?android:selectableItemBackground" android:layout_centerVertical="true" android:layoutDirection="locale" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/selected_page_text" android:backgroundTint="@color/on_surface_qm" />
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

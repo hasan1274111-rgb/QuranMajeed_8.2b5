@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/drawer_layout" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/main_layout_general" />
+    <ViewStub android:id="@id/stub" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+    <LinearLayout android:gravity="center" android:id="@id/progressLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_gravity="center" android:id="@id/progressBar_cyclic" android:visibility="visible" android:layout_width="60.0dip" android:layout_height="60.0dip" android:minWidth="40.0dip" android:minHeight="40.0dip" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <RelativeLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="0.5">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/onboarding_title" android:textColor="@color/whiteAlways" android:gravity="bottom" android:id="@id/lines_15_pinchzoom" android:background="@drawable/lines_15_layout" android:padding="15.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/_15_lines" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <RelativeLayout android:orientation="vertical" android:id="@id/auto_scroll_progress_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="0.75">
+            <LinearLayout android:orientation="vertical" android:background="@drawable/auto_scroll_progress_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/onboarding_details" android:textColor="@color/whiteAlways" android:gravity="bottom" android:id="@id/auto_scroll_progress_view_text" android:padding="10.0dip" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/share_aya_container" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.01" />
+</FrameLayout>

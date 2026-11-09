@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Picker" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:textColorPrimary">@color/on_surface_qm</item>
+    </style>
+    <style name="ChromeLock" parent="@style/ChromeLockBase">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorControlActivated">@color/dashboard_accent</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color0</item>
+        <item name="icon_accent">@color/dashboard_accent</item>
+        <item name="outline_button_border">@color/chrome_outline</item>
+    </style>
+    <style name="ChromeLockPreferenceOverlay" parent="@style/PreferenceThemeOverlay">
+        <item name="preferenceCategoryTitleTextColor">@color/dashboard_accent</item>
+    </style>
+    <style name="MyTimePickerWidgetStyle" parent="@android:style/Widget.Material.TimePicker">
+        <item name="android:headerBackground">?bgcHL</item>
+        <item name="android:numbersTextColor">@color/on_surface_qm</item>
+        <item name="android:numbersSelectorColor">?bgcHL</item>
+        <item name="android:amPmTextColor">?cell_color</item>
+    </style>
+    <style name="RadioButton">
+        <item name="android:textColor">@color/whiteAlways</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:minWidth">70.0dip</item>
+        <item name="android:minHeight">33.0dip</item>
+        <item name="itemTextColor">@color/whiteAlways</item>
+    </style>
+    <style name="SettingsDialog" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/SettingsDialogAnimation</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="buttonStyle">@style/normalButton</item>
+        <item name="colorPrimaryDark">?cell_color_top</item>
+    </style>
+    <style name="SpinnerTheme" parent="@android:style/Widget.Spinner">
+        <item name="android:colorBackground">?cell_color</item>
+        <item name="android:backgroundTint">@color/on_surface_qm</item>
+    </style>
+    <style name="TabDialog" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/SettingsDialogAnimation</item>
+        <item name="android:background">#00ffffff</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.Material3.DayNight" parent="@style/Theme.Material3.Dark" />
+    <style name="Theme.Material3.DayNight.BottomSheetDialog" parent="@style/Theme.Material3.Dark.BottomSheetDialog" />
+    <style name="Theme.Material3.DayNight.Dialog" parent="@style/Theme.Material3.Dark.Dialog" />
+    <style name="Theme.Material3.DayNight.Dialog.Alert" parent="@style/Theme.Material3.Dark.Dialog.Alert" />
+    <style name="Theme.Material3.DayNight.Dialog.MinWidth" parent="@style/Theme.Material3.Dark.Dialog.MinWidth" />
+    <style name="Theme.Material3.DayNight.DialogWhenLarge" parent="@style/Theme.Material3.Dark.DialogWhenLarge" />
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="@style/Theme.Material3.Dark.NoActionBar" />
+    <style name="Theme.Material3.DayNight.SideSheetDialog" parent="@style/Theme.Material3.Dark.SideSheetDialog" />
+    <style name="Theme.Material3.DynamicColors.DayNight" parent="@style/Theme.Material3.DynamicColors.Dark" />
+    <style name="Theme.Material3.DynamicColors.DayNight.NoActionBar" parent="@style/Theme.Material3.DynamicColors.Dark.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/Theme.MaterialComponents.BottomSheetDialog" />
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@style/Theme.MaterialComponents.Dialog" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@style/Theme.MaterialComponents.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Alert.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@style/Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@style/Theme.MaterialComponents.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@style/Theme.MaterialComponents.Dialog.FixedSize.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@style/Theme.MaterialComponents.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@style/Theme.MaterialComponents.Dialog.MinWidth.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@style/Theme.MaterialComponents.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@style/Theme.MaterialComponents.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.NoActionBar.Bridge" />
+    <style name="Theme.QuranMajeed" parent="@style/Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:statusBarColor">?colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@style/ThemeOverlay.AppCompat.Dark" />
+    <style name="ThemeOverlay.Material3.DynamicColors.DayNight" parent="@style/ThemeOverlay.Material3.DynamicColors.Dark" />
+    <style name="TimePicker" parent="@style/Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textColorSecondary">@color/on_surface_qm</item>
+        <item name="android:textColor">@color/on_surface_qm</item>
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <item name="colorAccent">?bgcHL</item>
+        <item name="colorPrimary">?bgcHL</item>
+        <item name="colorPrimaryDark">?bgcHL</item>
+        <item name="theme">@style/MyTimePickerWidgetStyle</item>
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@style/Widget.MaterialComponents.ActionBar.Surface" />
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.AppBarLayout.Surface" />
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomAppBar" />
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomNavigationView" />
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="@style/Widget.MaterialComponents.NavigationRailView" />
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.TabLayout" />
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@style/Widget.MaterialComponents.Toolbar.Surface" />
+    <style name="full_image_dialog" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimaryDark">@color/solid_green</item>
+    </style>
+    <style name="myTheme" parent="@style/Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColorPrimary">@color/whiteAlways</item>
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:popupMenuStyle">@style/Widget.QM.PopupMenu</item>
+        <item name="android:statusBarColor">@color/solid_green</item>
+        <item name="android:colorBackgroundFloating">@color/surface_qm</item>
+        <item name="buttonStyle">@style/normalButton</item>
+        <item name="checkboxStyle">@style/Widget.AppCompat.CompoundButton.CheckBox</item>
+        <item name="collapsingToolbarLayoutStyle">@style/Widget.QM.CollapsingToolbar</item>
+        <item name="colorControlActivated">@color/bgcHL</item>
+        <item name="colorPrimary">@color/bgcHL</item>
+        <item name="colorPrimaryDark">@color/solid_green</item>
+        <item name="radioButtonStyle">@style/Widget.AppCompat.CompoundButton.RadioButton</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+        <item name="viewInflaterClass">androidx.appcompat.app.AppCompatViewInflater</item>
+    </style>
+    <style name="theme_id_0" parent="@style/Theme.QM.Palette.0">
+        <item name="android:textColorPrimary">@color/whiteAlways</item>
+        <item name="CurrentTextColor">@color/whiteAlways</item>
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="cell_color_top">@color/cell_color0_top</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color0</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme0_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+        <item name="top_bar_time_color">@color/top_bar_time_clr</item>
+    </style>
+    <style name="theme_id_1" parent="@style/Theme.QM.Palette.1">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorAccent">@color/cell_color1_darkPrimary</item>
+        <item name="colorPrimary">@color/cell_color1</item>
+        <item name="colorPrimaryDark">@color/cell_color1</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color1</item>
+        <item name="dashboard_background">@color/cell_color1</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme1_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_2" parent="@style/Theme.QM.Palette.2">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color2</item>
+        <item name="colorPrimaryDark">@color/cell_color2</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color2</item>
+        <item name="dashboard_background">@color/cell_color2</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme2_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_3" parent="@style/Theme.QM.Palette.3">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color3</item>
+        <item name="colorPrimaryDark">@color/cell_color3</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color3</item>
+        <item name="dashboard_background">@color/cell_color3</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_4" parent="@style/Theme.QM.Palette.4">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color4</item>
+        <item name="colorPrimaryDark">@color/cell_color4</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color4</item>
+        <item name="dashboard_background">@color/cell_color4</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme4_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_5" parent="@style/Theme.QM.Palette.5">
+        <item name="android:textColorPrimary">@color/whiteAlways</item>
+        <item name="android:textColorSecondary">@color/whiteAlways</item>
+        <item name="CurrentTextColor">@color/whiteAlways</item>
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color5</item>
+        <item name="colorPrimaryDark">@color/cell_color5</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color5</item>
+        <item name="dashboard_background">@color/cell_color5</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_6" parent="@style/Theme.QM.Palette.6">
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color6</item>
+        <item name="colorPrimaryDark">@color/cell_color6</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color6</item>
+        <item name="dashboard_background">#ff38443b</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme6_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_7" parent="@style/Theme.QM.Palette.7">
+        <item name="ButtonBgColor">@color/ButtonBgColor7</item>
+        <item name="ButtonBorderColor">@color/ButtonBorderColor7</item>
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="colorPrimary">@color/cell_color7</item>
+        <item name="colorPrimaryDark">@color/cell_color7</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color7</item>
+        <item name="dashboard_background">@color/cell_color7</item>
+        <item name="header_text_color">@color/whiteAlways</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme7_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_8" parent="@style/Theme.QM.Palette.8">
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="customTitleStrokeColor">@color/PurpleHightLight</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+    </style>
+    <style name="theme_id_9" parent="@style/Theme.QM.Palette.9">
+        <item name="android:textColorPrimary">@color/whiteAlways</item>
+        <item name="CurrentTextColor">@color/whiteAlways</item>
+        <item name="background_bottom_barCT">@color/on_surface_qm</item>
+        <item name="cell_color_top">@color/chrome_topbar_bg</item>
+        <item name="compass_crop_img">@drawable/compass_crop_n_dark</item>
+        <item name="dashboardNativeAdCellColor">@color/cell_color0</item>
+        <item name="header_text_color">@color/theme9_green</item>
+        <item name="menu_button_selector">@drawable/topbar_button_transition_theme0_dark</item>
+        <item name="new_LightbgcHL">@color/whiteAlways</item>
+        <item name="prayerTimeButtonsBackground">@drawable/dash_button_selected_dark</item>
+        <item name="sadqa_jaria_purchase_drawable">@null</item>
+        <item name="top_bar_time_color">@color/whiteAlways</item>
+    </style>
+</resources>

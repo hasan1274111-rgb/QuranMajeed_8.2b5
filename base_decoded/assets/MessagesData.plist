@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>colors</key>
+        <array>
+            <string>#0000</string>
+            <string>#000000FF</string>
+            <string>#FFFFFFFF</string>
+            <string>#F44336FF</string>
+            <string>#FFEBEEFF</string>
+            <string>#FFCDD2FF</string>
+            <string>#EF9A9AFF</string>
+            <string>#E57373FF</string>
+            <string>#EF5350FF</string>
+            <string>#E53935FF</string>
+            <string>#D32F2FFF</string>
+            <string>#C62828FF</string>
+            <string>#B71C1CFF</string>
+            <string>#FF8A80FF</string>
+            <string>#FF5252FF</string>
+            <string>#FF1744FF</string>
+            <string>#D50000FF</string>
+            <string>#FCE4ECFF</string>
+            <string>#F8BBD0FF</string>
+            <string>#F48FB1FF</string>
+            <string>#F06292FF</string>
+            <string>#EC407AFF</string>
+            <string>#E91E63FF</string>
+            <string>#D81B60FF</string>
+            <string>#C2185BFF</string>
+            <string>#AD1457FF</string>
+            <string>#880E4FFF</string>
+            <string>#FF80ABFF</string>
+            <string>#FF4081FF</string>
+            <string>#F50057FF</string>
+            <string>#C51162FF</string>
+            <string>#F3E5F5FF</string>
+            <string>#E1BEE7FF</string>
+            <string>#CE93D8FF</string>
+            <string>#BA68C8FF</string>
+            <string>#AB47BCFF</string>
+            <string>#9C27B0FF</string>
+            <string>#8E24AAFF</string>
+            <string>#7B1FA2FF</string>
+            <string>#6A1B9AFF</string>
+            <string>#4A148CFF</string>
+            <string>#EA80FCFF</string>
+            <string>#E040FBFF</string>
+            <string>#D500F9FF</string>
+            <string>#AA00FFFF</string>
+            <string>#EDE7F6FF</string>
+            <string>#D1C4E9FF</string>
+            <string>#B39DDBFF</string>
+            <string>#9575CDFF</string>
+            <string>#7E57C2FF</string>
+            <string>#673AB7FF</string>
+            <string>#5E35B1FF</string>
+            <string>#512DA8FF</string>
+            <string>#4527A0FF</string>
+            <string>#311B92FF</string>
+            <string>#B388FFFF</string>
+            <string>#7C4DFFFF</string>
+            <string>#651FFFFF</string>
+            <string>#6200EAFF</string>
+            <string>#E8EAF6FF</string>
+            <string>#C5CAE9FF</string>
+            <string>#9FA8DAFF</string>
+            <string>#7986CBFF</string>
+            <string>#5C6BC0FF</string>
+            <string>#3F51B5FF</string>
+            <string>#3949ABFF</string>
+            <string>#303F9FFF</string>
+            <string>#283593FF</string>
+            <string>#1A237EFF</string>
+            <string>#8C9EFFFF</string>
+            <string>#536DFEFF</string>
+            <string>#3D5AFEFF</string>
+            <string>#304FFEFF</string>
+            <string>#E3F2FDFF</string>
+            <string>#BBDEFBFF</string>
+            <string>#90CAF9FF</string>
+            <string>#64B5F6FF</string>
+            <string>#42A5F5FF</string>
+            <string>#2196F3FF</string>
+            <string>#1E88E5FF</string>
+            <string>#1976D2FF</string>
+            <string>#1565C0FF</string>
+            <string>#0D47A1FF</string>
+            <string>#82B1FFFF</string>
+            <string>#448AFFFF</string>
+            <string>#2979FFFF</string>
+            <string>#2962FFFF</string>
+            <string>#E1F5FEFF</string>
+            <string>#B3E5FCFF</string>
+            <string>#81D4FAFF</string>
+            <string>#4FC3F7FF</string>
+            <string>#29B6F6FF</string>
+            <string>#03A9F4FF</string>
+            <string>#039BE5FF</string>
+            <string>#0288D1FF</string>
+            <string>#0277BDFF</string>
+            <string>#01579BFF</string>
+            <string>#80D8FFFF</string>
+            <string>#40C4FFFF</string>
+            <string>#00B0FFFF</string>
+            <string>#0091EAFF</string>
+            <string>#E0F7FAFF</string>
+            <string>#B2EBF2FF</string>
+            <string>#80DEEAFF</string>
+            <string>#4DD0E1FF</string>
+            <string>#26C6DAFF</string>
+            <string>#00BCD4FF</string>
+            <string>#00ACC1FF</string>
+            <string>#0097A7FF</string>
+            <string>#00838FFF</string>
+            <string>#006064FF</string>
+            <string>#84FFFFFF</string>
+            <string>#18FFFFFF</string>
+            <string>#00E5FFFF</string>
+            <string>#00B8D4FF</string>
+            <string>#E0F2F1FF</string>
+            <string>#B2DFDBFF</string>
+            <string>#80CBC4FF</string>
+            <string>#4DB6ACFF</string>
+            <string>#26A69AFF</string>
+            <string>#009688FF</string>
+            <string>#00897BFF</string>
+            <string>#00796BFF</string>
+            <string>#00695CFF</string>
+            <string>#004D40FF</string>
+            <string>#A7FFEBFF</string>
+            <string>#64FFDAFF</string>
+            <string>#1DE9B6FF</string>
+            <string>#00BFA5FF</string>
+            <string>#E8F5E9FF</string>
+            <string>#C8E6C9FF</string>
+            <string>#A5D6A7FF</string>
+            <string>#81C784FF</string>
+            <string>#66BB6AFF</string>
+            <string>#4CAF50FF</string>
+            <string>#43A047FF</string>
+            <string>#388E3CFF</string>
+            <string>#2E7D32FF</string>
+            <string>#1B5E20FF</string>
+            <string>#B9F6CAFF</string>
+            <string>#69F0AEFF</string>
+            <string>#00E676FF</string>
+            <string>#00C853FF</string>
+            <string>#F1F8E9FF</string>
+            <string>#DCEDC8FF</string>
+            <string>#C5E1A5FF</string>
+            <string>#AED581FF</string>
+            <string>#9CCC65FF</string>
+            <string>#8BC34AFF</string>
+            <string>#7CB342FF</string>
+            <string>#689F38FF</string>
+            <string>#558B2FFF</string>
+            <string>#33691EFF</string>
+            <string>#CCFF90FF</string>
+            <string>#B2FF59FF</string>
+            <string>#76FF03FF</string>
+            <string>#64DD17FF</string>
+            <string>#F9FBE7FF</string>
+            <string>#F0F4C3FF</string>
+            <string>#E6EE9CFF</string>
+            <string>#DCE775FF</string>
+            <string>#D4E157FF</string>
+            <string>#CDDC39FF</string>
+            <string>#C0CA33FF</string>
+            <string>#AFB42BFF</string>
+            <string>#9E9D24FF</string>
+            <string>#827717FF</string>
+            <string>#F4FF81FF</string>
+            <string>#EEFF41FF</string>
+            <string>#C6FF00FF</string>
+            <string>#AEEA00FF</string>
+            <string>#FFFDE7FF</string>
+            <string>#FFF9C4FF</string>
+            <string>#FFF59DFF</string>
+            <string>#FFF176FF</string>
+            <string>#FFEE58FF</string>
+            <string>#FFEB3BFF</string>
+            <string>#FDD835FF</string>
+            <string>#FBC02DFF</string>
+            <string>#F9A825FF</string>
+            <string>#F57F17FF</string>
+            <string>#FFFF8DFF</string>
+            <string>#FFFF00FF</string>
+            <string>#FFEA00FF</string>
+            <string>#FFD600FF</string>
+            <string>#FFF8E1FF</string>
+            <string>#FFECB3FF</string>
+            <string>#FFE082FF</string>
+            <string>#FFD54FFF</string>
+            <string>#FFCA28FF</string>
+            <string>#FFC107FF</string>
+            <string>#FFB300FF</string>
+            <string>#FFA000FF</string>
+            <string>#FF8F00FF</string>
+            <string>#FF6F00FF</string>
+            <string>#FFE57FFF</string>
+            <string>#FFD740FF</string>
+            <string>#FFC400FF</string>
+            <string>#FFAB00FF</string>
+            <string>#FFF3E0FF</string>
+            <string>#FFE0B2FF</string>
+            <string>#FFCC80FF</string>
+            <string>#FFB74DFF</string>
+            <string>#FFA726FF</string>
+            <string>#FF9800FF</string>
+            <string>#FB8C00FF</string>
+            <string>#F57C00FF</string>
+            <string>#EF6C00FF</string>
+            <string>#E65100FF</string>
+            <string>#FFD180FF</string>
+            <string>#FFAB40FF</string>
+            <string>#FF9100FF</string>
+            <string>#FF6D00FF</string>
+            <string>#FBE9E7FF</string>
+            <string>#FFCCBCFF</string>
+            <string>#FFAB91FF</string>
+            <string>#FF8A65FF</string>
+            <string>#FF7043FF</string>
+            <string>#FF5722FF</string>
+            <string>#F4511EFF</string>
+            <string>#E64A19FF</string>
+            <string>#D84315FF</string>
+            <string>#BF360CFF</string>
+            <string>#FF9E80FF</string>
+            <string>#FF6E40FF</string>
+            <string>#FF3D00FF</string>
+            <string>#DD2C00FF</string>
+            <string>#EFEBE9FF</string>
+            <string>#D7CCC8FF</string>
+            <string>#BCAAA4FF</string>
+            <string>#A1887FFF</string>
+            <string>#8D6E63FF</string>
+            <string>#795548FF</string>
+            <string>#6D4C41FF</string>
+            <string>#5D4037FF</string>
+            <string>#4E342EFF</string>
+            <string>#3E2723FF</string>
+            <string>#FAFAFAFF</string>
+            <string>#F5F5F5FF</string>
+            <string>#EEEEEEFF</string>
+            <string>#E0E0E0FF</string>
+            <string>#BDBDBDFF</string>
+            <string>#9E9E9EFF</string>
+            <string>#757575FF</string>
+            <string>#616161FF</string>
+            <string>#424242FF</string>
+            <string>#212121FF</string>
+            <string>#ECEFF1FF</string>
+            <string>#CFD8DCFF</string>
+            <string>#B0BEC5FF</string>
+            <string>#90A4AEFF</string>
+            <string>#78909CFF</string>
+            <string>#607D8BFF</string>
+            <string>#546E7AFF</string>
+            <string>#455A64FF</string>
+            <string>#37474FFF</string>
+            <string>#263238FF</string>
+            <string>#000000FF</string>
+        </array>
+        <key>backgrounds</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>1</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>12</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>13</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>14</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>15</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>16</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>17</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>18</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>19</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>2</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>20</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>21</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>22</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>23</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>24</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>25</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>26</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>27</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>28</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>29</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>3</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>30</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>31</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>32</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>33</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>34</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>35</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>36</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>37</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>38</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>39</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>4</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>40</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>41</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>42</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>43</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>44</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>45</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>46</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>47</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>48</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>49</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>5</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>50</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>51</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>52</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>53</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>54</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>55</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>56</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>57</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>58</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>59</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>60</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>61</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>62</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>63</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>64</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>65</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>66</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>67</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>68</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>69</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>70</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>71</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>72</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>73</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>74</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>75</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>76</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>78</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>79</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>80</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>81</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>82</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>83</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>84</string>
+                <key>foregroundColor</key>
+                <string>#000000FF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>85</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>86</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>88</string>
+                <key>foregroundColor</key>
+                <string>#FFFFFFFF</string>
+            </dict>
+        </array>
+        <key>frames</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>100</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ayahsab ul Insan u An Yatruka Suda</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>101</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Innal Abrara Lafi Naeem</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>102</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Fa iza Azamta Fatawakal Alallah</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>103</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Surah Al-Ikhlas</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>13</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>14</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Fasayakfika Humullah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>15</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ḥawla wa-lā quwwata ʾillā bi-llāhi l-ʿalīyi l-aẓīm</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>16</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Fasaloo Ahlaz-zikr</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>17</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>18</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Subhan Allah Wabihamdih Subhan Allah Al Azeem</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>19</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>20</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Surah An-Nasr</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>201</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>202</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>203</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Masha'Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>204</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Subhan Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>205</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>206</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>207</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>208</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allāhu ʾAkbar</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>209</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ramadan Kareem</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Ramadan</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>21</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>210</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ramadan Kareem</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Ramadan</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>211</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>212</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>213</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>214</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Jumu'ah Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Jumu'ah</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>215</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ameen</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>22</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>23</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>24</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>25</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>26</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>27</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah Noor us Samawat Wal Ardh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>28</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Kalimat ash-Shahādah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>29</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Kalimat ash-Shahādah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>30</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Surah Al-Ikhlas</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>31</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>32</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Hoa Allah Allazi Lā ʾilāha ʾillā Hoo Alimul Ghaib Washahada Hoa Ar Rahman Ar Raheem</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>33</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Atee-Ullaha Wa Atee-Ur-Rasool</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>34</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>La-in Shakar-Tum La-Azeedan-Nakum</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>35</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Subhan Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>36</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>37</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Surah Al-Ikhlas</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>38</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ala Bi Zikri Allah Tatmainnul Quloob</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>39</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Khatam an-Nabiyyin</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>40</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>41</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>42</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>43</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Alhamdulillah</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>44</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ar-Rahman</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>46</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>47</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>48</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Talbiyah Prayer</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>49</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah Akbar</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>50</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Wa Qur Rabbi Zidni Elma</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>51</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Wa Jaa Rabbuk Wal Malaku Saffan Saffa</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>52</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>53</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>54</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>56</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Allah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>57</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāh</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>58</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>59</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>60</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>61</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Kullu Aamin Wa Antum b Khair</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>62</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>63</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>64</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>65</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Enter text here...</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Random</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>66</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ramadan Kareem</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Ramadan</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>67</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid al-Adha Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>68</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>69</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>71</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>72</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid Mubarak</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>73</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Astaghfirullah</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>74</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Eid al-Adha Mubarak</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Eid</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>75</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Hasbunallahu Wa Ni’mal Wakeel</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>76</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Iqra bismi Rabbi kal lazee khalaq</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>77</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Kalma and Durood</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>78</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Al Khulafa Al Arba'ah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>79</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Haza Min Fadhli Rabbi</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>80</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ḥawla wa-lā quwwata ʾillā bi-llāh</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>81</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Kalimat ash-Shahādah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>82</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>83</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Ala Bi Zikri Allah Tatmainnul Quloob</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>84</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Astaghfirullah</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>85</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Alħamdu lillāhi rabbil ālamīn</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>86</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Qul hu Allahu Ahad</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>87</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Yoma La Yanfau Malun Wala Banoon, Illa Man Ata Allah Bi Qalbin Saleem</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>88</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Inna Hazihi Ummatukum Ummatan Wahidah</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>89</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Zul-Jalali Wal-Ikram</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>90</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Lā ʾilāha ʾillā -llāh Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>91</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>92</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>93</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Bi-smi llāhi r-raḥmāni r-raḥīm</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>94</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>The foundation of wisdom is the fear of Allah Almighty.</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>95</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muhammad صلى الله عليه وسلم</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>96</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Muḥammadun rasūlu -llāh</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>97</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Salawat / Durood</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>98</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Salawat / Durood</string>
+                <key>opaque</key>
+                <true/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+
+
+            <dict>
+                <key>name</key>
+                <string>99</string>
+                <key>subtitle</key>
+                <string></string>
+                <key>title</key>
+                <string>Innama Yakhsh Allah Min Ebadih Al Ulama</string>
+                <key>opaque</key>
+                <false/>
+                <key>category</key>
+                <string>Islamic</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

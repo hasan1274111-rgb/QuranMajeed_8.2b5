@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/group_delete">
+        <item android:id="@id/sort_by_sura" android:title="@string/sort_by_sura" android:checkable="true" />
+        <item android:id="@id/sort_by_count" android:title="@string/sort_by_mostly_used" android:checkable="true" />
+        <item android:id="@id/sort_by_creation_date" android:title="@string/sort_by_date" android:checkable="true" />
+    </group>
+</menu>

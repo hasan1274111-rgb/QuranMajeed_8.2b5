@@ -1,0 +1,39 @@
+
+/*.show-ihifz-marker {
+  display: inline-block!important;
+}*/
+
+.hide-ihifz-marker {
+      display: none!important;
+}
+/* Hifz Mark Mistakes red */
+.ihifz-mark-mistakes-red {
+    margin:0px;
+    padding:0px;
+   /* global 92%+ browsers support */
+   border-radius: 35%;
+   box-shadow: inset 0 0 0 0px red;
+   background: url('./../red-mark.png');
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   min-height: 0vh;
+   }
+
+/* Hifz Mark Mistakes green */
+.ihifz-mark-mistakes-green {
+    margin:0px;
+    padding:0px;
+    border-radius: 35%;
+    box-shadow: inset 0 0 0 0px green;
+    background: url('./../green-mark.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 0vh;
+   }
+/* Hifz Mark Mistakes transparent */
+.ihifz-mark-mistakes-transparent{
+      margin:0px;
+      padding:0px;
+      border-radius: 35%;
+      box-shadow: inset 0 0 0 1px transparent;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@null" android:id="@id/btnMenuBuy" android:title="Favorite" android:iconTint="@color/blackAlways" app:showAsAction="always" />
+    <item android:icon="@null" android:id="@id/btnMenuAbout" android:title="Favorite" android:iconTint="@color/blackAlways" app:showAsAction="always" />
+</menu>

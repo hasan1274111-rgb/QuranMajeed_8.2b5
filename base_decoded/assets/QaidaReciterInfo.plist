@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fhar_qaida_audio</key>
+	<dict>
+		<key>title</key>
+		<string>Fatha, Damma, Qasra - Arabic</string>
+		<key>title_ar</key>
+		<string>الفتحة، الضمة، الكسرة - العربية</string>
+		<key>file_name</key>
+		<string>fhar_qaida_audio</string>
+		<key>reciter_num</key>
+		<string>2</string>
+		<key>reciter_tag</key>
+		<string>FH_AR_</string>
+	</dict>
+	<key>fhur_qaida_audio</key>
+	<dict>
+		<key>title</key>
+		<string>Zabar, Zer, Pesh - Indopak</string>
+		<key>title_ar</key>
+		<string>زبر، زير، پیش - الهند وباكستان</string>
+		<key>file_name</key>
+		<string>fhur_qaida_audio</string>
+		<key>reciter_num</key>
+		<string>4</string>
+		<key>reciter_tag</key>
+		<string>FH_UR_</string>
+	</dict>
+	<key>uaur_qaida_audio</key>
+	<dict>
+		<key>title</key>
+		<string>Child - Zabar, Zer, Pesh - Indopak</string>
+		<key>title_ar</key>
+		<string>الطفل - زبر، زير، پیش - الهند وباكستان</string>
+		<key>file_name</key>
+		<string>uaur_qaida_audio</string>
+		<key>reciter_num</key>
+		<string>3</string>
+		<key>reciter_tag</key>
+		<string>UA_UR_</string>
+	</dict>
+</dict>
+</plist>
+

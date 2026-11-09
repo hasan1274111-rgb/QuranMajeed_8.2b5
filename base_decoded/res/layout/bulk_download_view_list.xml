@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:id="@id/coordinatorlayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+        <LinearLayout android:orientation="vertical" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+                    <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+                </RelativeLayout>
+                <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/bulk_download" android:layout_weight="1.0" android:layout_centerInParent="true" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:id="@id/search_view_bulk" android:background="@drawable/white_rounded_shape" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_toLeftOf="@id/cancelBtn">
+                    <androidx.appcompat.widget.SearchView android:textColor="?cell_color" android:id="@id/search_edt" android:background="@color/fui_transparent" android:padding="5.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="55.0sp" android:hint="@string/seacrh" android:drawablePadding="10.0dip" android:inputType="text" android:imeOptions="actionDone" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/search_filter" android:background="@drawable/bulk_search_filter" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="1.0dip" android:layout_marginRight="10.0dip">
+                    <RadioGroup android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <androidx.appcompat.widget.AppCompatRadioButton android:textSize="13.0dip" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/rbLeft" android:background="@drawable/radio_button_selector" android:layout_width="0.0dip" android:layout_height="35.0dip" android:checked="true" android:button="@color/surface_qm" android:text="@string/setting_reciters" android:layout_weight="1.0" />
+                        <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="35.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+                        <androidx.appcompat.widget.AppCompatRadioButton android:textSize="13.0dip" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/rbRight" android:background="@drawable/radio_button_selector" android:layout_width="0.0dip" android:layout_height="35.0dip" android:checked="false" android:button="@color/surface_qm" android:text="@string/translation_title" android:layout_weight="1.0" />
+                    </RadioGroup>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="2.0">
+                <TextView android:textSize="16.0dip" android:textColor="?android:textColorPrimary" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="@string/phone_storage" android:layout_weight="1.75" android:layout_marginStart="@dimen/hiad_5_dp" />
+                <TextView android:textSize="15.0dip" android:id="@id/phone_space" android:background="@drawable/phone_space" android:padding="@dimen/hiad_5_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip" android:text="28.8 GB of 64 GB Used" android:layout_weight="0.25" android:textAlignment="center" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:background="@color/on_surface_qm" android:layout_width="fill_parent" android:layout_height="0.30000007sp" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="@id/mainRecyclerView" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/ad" android:layout_alignParentTop="true" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+                <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="120.0dip" android:width="120.0dip" android:viewportWidth="120.0" android:viewportHeight="120.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h120v120h-120z" />
+        <path android:fillColor="#ff616362" android:pathData="M101.87,17.02C96.39,11.67 89.93,7.43 82.83,4.5C75.72,1.57 68.15,0.07 60.46,0L60.2,36.2C66.59,36.26 72.39,38.8 76.63,42.98L101.87,17.02Z" />
+        <path android:fillColor="#ff818183" android:pathData="M120,59.22C119.87,51.52 118.3,43.96 115.37,36.91C112.43,29.8 108.13,23.41 102.78,17.93L76.96,43.3C81.13,47.54 83.74,53.28 83.8,59.67L120,59.22Z" />
+        <path android:fillColor="#ff8d8d8b" android:pathData="M83.8,60.2C83.74,66.59 81.2,72.39 77.02,76.63L102.98,101.87C108.33,96.39 112.57,89.93 115.5,82.83C118.43,75.72 119.93,68.15 120,60.46L83.8,60.2Z" />
+        <path android:fillColor="#ff9d9e99" android:pathData="M60.78,120C68.48,119.87 76.04,118.3 83.09,115.37C90.2,112.43 96.59,108.13 102.07,102.78L76.7,76.96C72.46,81.13 66.72,83.74 60.33,83.8L60.78,120Z" />
+        <path android:fillColor="#ff7f7d80" android:pathData="M18.13,102.98C23.61,108.33 30.07,112.57 37.17,115.5C44.28,118.43 51.85,119.93 59.54,120L59.8,83.8C53.41,83.74 47.61,81.2 43.37,77.02L18.13,102.98Z" />
+        <path android:fillColor="#ff89898b" android:pathData="M0,60.78C0.13,68.48 1.7,76.04 4.63,83.09C7.57,90.13 11.87,96.59 17.22,102.07L43.04,76.7C38.87,72.46 36.26,66.72 36.2,60.33L0,60.78Z" />
+        <path android:fillColor="#ff8c8c8e" android:pathData="M17.02,18.13C11.67,23.61 7.43,30.07 4.5,37.17C1.57,44.28 0.07,51.85 0,59.54L36.2,59.8C36.26,53.41 38.8,47.61 42.98,43.37L17.02,18.13Z" />
+        <path android:fillColor="#ff646168" android:pathData="M59.22,0C51.52,0.13 43.96,1.7 36.91,4.63C29.8,7.57 23.41,11.87 17.93,17.22L43.3,43.04C47.54,38.87 53.28,36.26 59.67,36.2L59.22,0Z" />
+        <path android:fillColor="#ffeaeaea" android:pathData="M60,81.85C72.07,81.85 81.85,72.07 81.85,60C81.85,47.93 72.07,38.15 60,38.15C47.93,38.15 38.15,47.93 38.15,60C38.15,72.07 47.93,81.85 60,81.85Z" />
+    </group>
+</vector>

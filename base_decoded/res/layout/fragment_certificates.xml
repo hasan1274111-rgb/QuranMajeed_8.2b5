@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="?QMBackground" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <RelativeLayout android:id="@id/mainView" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_below="@id/status_bar" android:elevation="5.0dip">
+        <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginRight="5.0dip" android:src="@null" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/certificates_text" android:layout_weight="1.0" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ad" android:layout_below="@id/mainView">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:gravity="center" android:id="@id/loadingText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="Loading.." />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/loadingText">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/img_cert2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" />
+                <ImageView android:id="@id/img_cert3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" />
+                <ImageView android:id="@id/img_cert4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" />
+                <ImageView android:id="@id/img_cert1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+</RelativeLayout>

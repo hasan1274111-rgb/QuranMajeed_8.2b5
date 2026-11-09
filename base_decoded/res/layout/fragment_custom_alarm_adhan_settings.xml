@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/status_bar">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/header" android:background="?topbar_bg" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip">
+            <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:layout_centerVertical="true">
+                <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+            </RelativeLayout>
+            <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toEndOf="@id/btnBack_view" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/namaz_alarm_titile" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <androidx.cardview.widget.CardView android:gravity="center_vertical" android:id="@id/list_card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_above="@id/ad" android:layout_below="@id/header" app:cardBackgroundColor="?cell_color" app:cardCornerRadius="10.0dip">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ListView android:id="@id/listView1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="false" android:divider="@color/dim_foreground_disabled_material_dark" android:dividerHeight="1.0dip" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/notify_layout" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+        <androidx.cardview.widget.CardView android:gravity="center_vertical" android:id="@id/notify_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_alignParentBottom="true" app:cardCornerRadius="10.0dip">
+            <LinearLayout android:orientation="vertical" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:background="#ffd0d0d7" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="3.0dip" />
+                <RelativeLayout android:id="@id/full_adhan" android:background="?list_selector_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <CheckBox android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:id="@id/full_adhan_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="7.0dip" android:button="@drawable/apptheme_btn_check_holo_light" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="7.0dip" android:layout_marginBottom="10.0dip" android:text="@string/full_adhan" android:layout_centerVertical="true" />
+                </RelativeLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</RelativeLayout>

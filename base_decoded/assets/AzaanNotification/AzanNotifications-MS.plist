@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fajr</key>
+	<array>
+		<string>Mereka yang pergi ke masjid pada waktu malam akan mendapat cahaya yang sempurna pada Hari Kiamat.</string>
+		<string>Sesiapa yang mengerjakan dua waktu solat yang sejuk (subuh dan selepas malam) akan masuk ke syurga.</string>
+		<string>Sudah masuk waktu Subuh. Mulakan harimu di hadapan Yang Maha Penyayang.</string>
+		<string>Sesiapa yang menunaikan solat Subuh secara berjemaah, seolah-olah dia telah bersolat sepanjang malam.</string>
+		<string>Jika mereka mengetahui kelebihan solat Isyak dan Subuh, mereka akan datang walaupun terpaksa merangkak.</string>
+		<string>Sudah masuk waktu Subuh. Mari kita berdiri dengan penuh keikhlasan kepada Allah.</string>
+	</array>
+	<key>zohr</key>
+	<array>
+		<string>Sudah masuk waktu Zohor. Mari kita berdiri dengan penuh keikhlasan kepada Allah.</string>
+		<string>Sesiapa yang menunaikan empat rakaat sebelum Zohor dan empat rakaat selepasnya, Allah akan mengharamkannya daripada api neraka.</string>
+		<string>Sesiapa yang menunaikan empat rakaat sebelum Zohor, seolah-olah dia telah bersolat Tahajud pada waktu malam.</string>
+		<string>Mohonlah pertolongan kepada Allah dengan sabar dan solat. - Surah Al-Baqarah: Ayat 45</string>
+		<string>Solat yang didirikan lima kali sehari, dengan rahmat Allah, menghapuskan semua dosa.</string>
+		<string>Setiap kali Nabi ﷺ menghadapi kesulitan, baginda akan beralih kepada solat.</string>
+	</array>
+	<key>asr</key>
+	<array>
+		<string>Sesiapa yang terlepas solat Asar, seolah-olah dia telah kehilangan seluruh keluarganya dan hartanya.</string>
+		<string>Dirikanlah solat lima waktu, terutama solat pertengahan (Asar), dan berdirilah dengan penuh keikhlasan kepada Allah. - Surah Al-Baqarah: Ayat 238</string>
+		<string>Niemand wird in die Hölle eintreten, der vor Sonnenaufgang und vor Sonnenuntergang betet.</string>
+		<string>Sesiapa yang mengerjakan dua waktu solat yang sejuk (subuh dan Asar) akan masuk ke syurga.</string>
+		<string>Nabi ﷺ bersabda: &quot;Seseorang yang menunaikan solat secara berjemaah selama 40 hari tanpa terlepas takbir pertama akan menerima dua ganjaran: satu untuk keselamatan dari neraka dan satu lagi untuk kebebasan dari sifat munafik.&quot;</string>
+		<string>Dirikanlah solat secara tetap, kerana solat mencegah perbuatan keji dan mungkar. - Surah Al-Ankabut: Ayat 45</string>
+	</array>
+	<key>maghrib</key>
+	<array>
+		<string>Adalah sunnah Nabi kita ﷺ untuk menyegerakan solat Maghrib.</string>
+		<string>Sudah masuk waktu Maghrib. Mari kita berdiri dengan penuh keikhlasan kepada Allah.</string>
+		<string>Nabi ﷺ bersabda: &quot;Umatku akan tetap berada dalam kebaikan selagi mereka tidak melewatkan solat Maghrib sehingga bintang-bintang kelihatan.&quot;</string>
+		<string>Nabi ﷺ sering berkata, “Ketenangan mataku terletak dalam solat.”</string>
+		<string>Solat adalah pemisah antara Iman dan Kufr. Semoga Allah memberkati semua Muslim.</string>
+		<string>Apabila seseorang berwuduk dengan sempurna dan kemudian pergi ke masjid, setiap langkah yang diambilnya akan mendapat satu keberkatan dan satu dosanya dihapuskan.</string>
+	</array>
+	<key>isha</key>
+	<array>
+		<string>Mereka yang pergi ke masjid pada waktu malam akan mendapat cahaya yang sempurna pada Hari Kiamat.</string>
+		<string>Sudah masuk waktu Isyak. Akhiri harimu di hadapan Yang Maha Penyayang.</string>
+		<string>Sudah masuk waktu Isyak. Mari kita berdiri dengan penuh keikhlasan kepada Allah.</string>
+		<string>Sesiapa yang menunaikan solat Isyak secara berjemaah, seolah-olah dia telah berdiri dalam solat selama separuh malam.</string>
+		<string>Sesiapa yang menunaikan dua belas rakaat pada siang dan malam, akan dibina baginya sebuah rumah di syurga: empat rakaat sebelum Zohor, dua rakaat selepasnya, dua rakaat selepas Maghrib, dua rakaat selepas Isyak, dan dua rakaat sebelum Subuh.</string>
+		<string>Amalan pertama yang akan dihisab pada Hari Kiamat adalah solatnya. Jika solatnya baik, maka dia akan berjaya dan selamat, tetapi jika solatnya rosak, maka dia akan gagal dan binasa.</string>
+	</array>
+</dict>
+</plist>

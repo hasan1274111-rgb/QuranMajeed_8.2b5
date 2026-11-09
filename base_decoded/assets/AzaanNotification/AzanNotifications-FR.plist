@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fajr</key>
+	<array>
+		<string>Ceux qui se rendent à la masjid pendant la nuit auront une lumière parfaite le Jour du Jugement.</string>
+		<string>Celui qui accomplit les deux prières aux moments frais (à l’aube et après la tombée de la nuit) entrera au Paradis.</string>
+		<string>C&apos;est l&apos;heure du Fajr. Commencez votre journée en étant devant le Très Miséricordieux.</string>
+		<string>Celui qui prie le Fajr en congrégation, c&apos;est comme s&apos;il avait prié toute la nuit.</string>
+		<string>S&apos;ils connaissaient la vertu de l&apos;Isha et du Fajr, ils viendraient même s&apos;ils devaient ramper.</string>
+		<string>C&apos;est l&apos;heure du Fajr. Levons-nous avec une véritable dévotion envers Allah.</string>
+	</array>
+	<key>zohr</key>
+	<array>
+		<string>C&apos;est l&apos;heure du Fajr. Levons-nous avec une véritable dévotion envers Allah.</string>
+		<string>Celui qui prie quatre Rak’ah avant le Zuhr et quatre après, Allah lui interdira le Feu.</string>
+		<string>Celui qui prie quatre Rak‘ahs avant le Zuhr, c&apos;est comme s&apos;il avait prié le Tahajjud pendant la nuit.</string>
+		<string>Cherchez l’aide d’Allah par la patience et la prière. - Sourate Al-Baqarah : Aya 45</string>
+		<string>La prière accomplie cinq fois par jour, par la grâce d’Allah, efface tous les péchés.</string>
+		<string>Chaque fois que le Prophète ﷺ faisait face à une difficulté, il se tournait vers la prière.</string>
+	</array>
+	<key>asr</key>
+	<array>
+		<string>Celui qui manque la prière d&apos;Asr, c&apos;est comme s&apos;il avait perdu toute sa famille et sa richesse.</string>
+		<string>Observez les cinq prières obligatoires, en particulier la prière du milieu (Asr), et tenez-vous avec une véritable dévotion envers Allah. - Sourate Al-Baqarah : Aya 238</string>
+		<string>Personne n’entrera en Enfer s’il prie avant le lever du soleil et avant son coucher.</string>
+		<string>Celui qui accomplit les deux prières aux moments frais (Fajr et Asr) entrera au Paradis.</string>
+		<string>Le Prophète ﷺ a dit, &quot;Une personne qui accomplit sa prière en Jamaat pendant 40 jours, sans manquer le premier takbir, reçoit deux récompenses : une pour la délivrance de l&apos;Enfer et l&apos;autre pour la libération de l&apos;hypocrisie.&quot;</string>
+		<string>Établis la prière régulière, car la prière empêche les actes honteux et injustes. - Sourate Al-Ankabut : Aya 45</string>
+	</array>
+	<key>maghrib</key>
+	<array>
+		<string>C&apos;était la sunnah de notre Prophète ﷺ de se hâter d&apos;accomplir la prière du Maghrib.</string>
+		<string>C&apos;est l&apos;heure du Maghrib. Levons-nous avec une véritable dévotion envers Allah.</string>
+		<string>Le Prophète ﷺ a dit: Mon Ummah restera dans le bien tant qu’ils ne retardent pas la prière du Maghrib jusqu&apos;à ce que les étoiles deviennent apparentes.</string>
+		<string>Le Saint Prophète ﷺ disait souvent, &quot;La prière est la joie de mes yeux.&quot;</string>
+		<string>La prière est la barrière entre l&apos;Iman et le Kufr. Qu&apos;Allah bénisse tous les musulmans.</string>
+		<string>Lorsqu&apos;une personne fait ses ablutions correctement puis se rend à la mosquée, à chaque pas qu&apos;il fait, il reçoit une bénédiction et un de ses péchés est effacé.</string>
+	</array>
+	<key>isha</key>
+	<array>
+		<string>Ceux qui vont à la mosquée pendant la nuit auront une lumière parfaite le Jour du Jugement.</string>
+		<string>C&apos;est l&apos;heure de l&apos;Isha. Terminez votre journée en étant devant le Très Miséricordieux.</string>
+		<string>C&apos;est l&apos;heure du Isha. Levons-nous avec une véritable dévotion envers Allah.</string>
+		<string>Celui qui prie l&apos;Isha en congrégation, c&apos;est comme s&apos;il avait prié pendant la moitié de la nuit.</string>
+		<string>Celui qui prie douze Rak‘ahs durant le jour et la nuit, une maison lui sera construite au Paradis : quatre Rak‘ahs avant Zuhr, deux Rak‘ahs après, deux Rak‘ahs après Maghrib, deux Rak‘ahs après Isha, et deux Rak‘ahs avant Fajr.</string>
+		<string>La première action pour laquelle une personne sera tenue responsable le Jour du Jugement est sa prière (Salah). Si elle est correcte, il réussira et sera sauvé, mais si elle est corrompue, il échouera et sera perdu.</string>
+	</array>
+</dict>
+</plist>

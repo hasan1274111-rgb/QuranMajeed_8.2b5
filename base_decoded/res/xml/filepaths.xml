@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="shared_images_files" path="images/" />
+    <external-cache-path name="shared_images_external" path="." />
+    <cache-path name="cache_images_files" path="." />
+    <external-path name="shared_images_path" path="." />
+    <external-files-path name="shared_imaged_file_external" path="." />
+    <files-path name="files" path="." />
+    <cache-path name="temp_ugc" path="UGCtemp/" />
+    <cache-path name="shared_images" path="images/" />
+    <cache-path name="shared_bookmarkImportExport" path="BookmarkImportExport/" />
+</paths>

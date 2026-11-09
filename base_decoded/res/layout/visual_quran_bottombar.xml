@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:background="?background_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="9.0" android:minHeight="?android:actionBarSize">
+        <RelativeLayout android:gravity="center" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_weight="1.0">
+            <ImageButton android:id="@id/playbtn" android:tag="stopped" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_play_new" android:scaleType="fitCenter" android:layout_centerHorizontal="true" />
+            <com.pakdata.QuranMajeed.Utility.ProgressWheel android:id="@id/progressWheel" android:visibility="invisible" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerHorizontal="true" style="@android:style/Widget.ProgressBar.Small" />
+        </RelativeLayout>
+        <ImageButton android:id="@id/btnReadingBookmark" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/reading_bk_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/listempty" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_add_bookmark_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/bookmarkbtn" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_list_bookmark_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/translationbtn" android:background="?button_selector_background" android:visibility="visible" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_translation_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/gotoAyat" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/gotoaya_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:layout_gravity="center" android:id="@id/tajweed_btn" android:background="?button_selector_background" android:visibility="gone" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_tajweed_unselect" android:scaleType="centerInside" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/sharingbtn" android:background="?button_selector_background" android:visibility="visible" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_share_new" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/btnBack" android:background="?button_selector_background" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/minimize_new" android:scaleType="fitCenter" android:layout_weight="1.0" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </LinearLayout>
+</RelativeLayout>

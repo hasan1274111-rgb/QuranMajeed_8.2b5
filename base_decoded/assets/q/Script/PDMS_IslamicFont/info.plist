@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Uthmanic-PDMS_IslamicFont</string>
+	<key>fontFile</key>
+	<string>_PDMS_IslamicFont_iphone</string>
+	<key>isOtf</key>
+	<string>1</string>
+	<key>isRtl</key>
+	<string>1</string>
+	<key>splitRatio</key>
+	<string>0</string>
+	<key>scaleRatio</key>
+	<string>0</string>
+	<key>isUthmanic</key>
+	<string>1</string>
+	<key>audio</key>
+	<string></string>
+	<key>size</key>
+	<string></string>
+	<key>zoom</key>
+	<string>1.0</string>
+	<key>isIndopak</key>
+	<string>0</string>
+</dict>
+</plist>

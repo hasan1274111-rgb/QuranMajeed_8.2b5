@@ -1,0 +1,27 @@
+
+.page {
+  background-size: 100% 1.9735em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+  margin: 0 auto;
+}
+
+#page1, #page2 {
+  background-size: 100% 1.9735em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}
+
+/* Android-specific: first textline gradient */
+.android .textlines[id="line1"] {
+    background-image: linear-gradient(black 1px, transparent 1px);
+}
+
+/*
+js for live testing;
+
+page = document.getElementsByClassName("page")
+
+page[0].style.backgroundSize = '100% 2.04em'
+
+*/

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="@dimen/hiad_text_12_sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/tabText" android:background="@drawable/tab_selector" android:paddingTop="@dimen/hiad_12_dp" android:paddingBottom="@dimen/hiad_12_dp" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingVertical="@dimen/hiad_12_dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

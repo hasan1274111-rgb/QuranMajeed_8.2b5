@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>Arabic Speech Recognition</title>
+</head>
+<body>
+<button onclick="startRecognition()">🎤 Start Speaking Arabic</button>
+<button onclick="stopRecognitionCompletely()">🛑 Stop</button>
+<div id="result" style="margin-top:20px;font-size:20px"></div>
+
+<script>
+    let recognition;
+    let isListening = false;
+
+    // Send ANY event to Android
+    function sendToAndroid(event, data = "") {
+        if (window.AndroidASR) {
+            window.AndroidASR.onEvent(event, data);
+        }
+    }
+
+    function startRecognition() {
+        // Notify Android
+        sendToAndroid("start_pressed");
+
+        AudioControl.prepareForRecognition();
+        if (isListening) return;
+
+        const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        if (!SpeechRecognition) {
+            alert("Speech Recognition not supported!");
+            sendToAndroid("error", "not_supported");
+            return;
+        }
+
+        recognition = new SpeechRecognition();
+        recognition.lang = "ar-SA";
+        recognition.continuous = true;
+        recognition.interimResults = true;
+
+        recognition.onstart = () => {
+            isListening = true;
+            console.log("Listening started...");
+            sendToAndroid("start");
+        };
+
+        recognition.onresult = (event) => {
+            let transcript = "";
+            for (let i = event.resultIndex; i < event.results.length; i++) {
+                transcript += event.results[i][0].transcript;
+            }
+
+            document.getElementById("result").innerText = transcript;
+
+            // Send transcript to Android
+            sendToAndroid("result", transcript);
+        };
+
+        recognition.onerror = (event) => {
+            console.error("Error:", event.error);
+
+            sendToAndroid("error", event.error);
+
+            if (event.error === "network" || event.error === "no-speech" || event.error === "aborted") {
+                stopRecognition();
+                startRecognition(); // auto-restart
+            }
+        };
+
+        recognition.onend = () => {
+            console.log("Recognition ended");
+            sendToAndroid("end");
+
+            if (isListening) {
+                startSafely(); // continuous mode
+            }
+        };
+
+        startSafely();
+    }
+
+    function stopRecognition() {
+        sendToAndroid("stop_pressed");
+
+        if (recognition) {
+            isListening = false;
+            recognition.stop();
+            AudioControl.restoreVolume();
+
+            sendToAndroid("stop");
+        }
+    }
+
+    function stopRecognitionCompletely() {
+        sendToAndroid("stop_completely_pressed");
+
+        if (recognition) {
+            isListening = false;
+            recognition.stop();
+            AudioControl.restoreOriginalAudioState();
+
+            sendToAndroid("stop_completely");
+        }
+    }
+
+    // Safe start with mute → start → unmute
+    function startSafely() {
+        if (window.AudioControl) AudioControl.prepareForRecognition();
+        sendToAndroid("info", "startSafely_called");
+
+        setTimeout(() => {
+            try {
+                sendToAndroid("info", "calling_recognition.start()");
+                recognition.start();
+                sendToAndroid("info", "recognition.start()_returned_ok");
+            } catch (e) {
+                sendToAndroid("error", "start_failed: " + e.message);
+            }
+        }, 50);
+
+        setTimeout(() => {
+            if (window.AudioControl) AudioControl.restoreVolume();
+        }, 500);
+    }
+
+    // Log API availability on load
+    (function() {
+        const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+        sendToAndroid("info", "SpeechRecognition_available:" + !!SR);
+    })();
+</script>
+</body>
+</html>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarms">
+        <item>None</item>
+        <item>Silent Notification</item>
+        <item>Только вибрация</item>
+        <item>Default Sound</item>
+        <item>Long Beep</item>
+        <item>Mishari Alafasy</item>
+        <item>Mishari Alafasy (Полный Азан)</item>
+        <item>Madinah</item>
+        <item>Madinah (Полный Азан)</item>
+        <item>Makkah</item>
+        <item>Makkah (Полный Азан)</item>
+        <item>Istanbul</item>
+        <item>Istanbul (Полный Азан)</item>
+        <item>Alaqsa Masjid</item>
+        <item>Alaqsa Masjid (Полный Азан)</item>
+    </string-array>
+    <string-array name="asrmethod">
+        <item>Auto</item>
+        <item>Shafi</item>
+        <item>Hanafi</item>
+    </string-array>
+    <string-array name="ayatDelay_array">
+        <item>No delay</item>
+        <item>Half of aya duration</item>
+        <item>Aya duration</item>
+        <item>1 secs</item>
+        <item>2 secs</item>
+        <item>3 secs</item>
+        <item>4 secs</item>
+        <item>5 secs</item>
+        <item>6 secs</item>
+        <item>7 secs</item>
+        <item>8 secs</item>
+        <item>9 secs</item>
+        <item>10 secs</item>
+    </string-array>
+    <string-array name="ayatDelay_array_Display">
+        <item>Без задержки</item>
+        <item>Половина продолжительности aya</item>
+        <item>Продолжительность Aya</item>
+        <item>1 секунд</item>
+        <item>2 секунд</item>
+        <item>3 секунд</item>
+        <item>4 секунд</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+    </string-array>
+    <string-array name="ayatRepeat_array">
+        <item>Once</item>
+        <item>2 times</item>
+        <item>3 times</item>
+        <item>4 times</item>
+        <item>5 times</item>
+        <item>6 times</item>
+        <item>7 times</item>
+        <item>8 times</item>
+        <item>9 times</item>
+        <item>10 times</item>
+        <item>11 times</item>
+        <item>12 times</item>
+        <item>13 times</item>
+        <item>14 times</item>
+        <item>15 times</item>
+        <item>16 times</item>
+        <item>17 times</item>
+        <item>18 times</item>
+        <item>19 times</item>
+        <item>20 times</item>
+        <item>25 times</item>
+        <item>30 times</item>
+        <item>35 times</item>
+        <item>40 times</item>
+        <item>45 times</item>
+        <item>50 times</item>
+    </string-array>
+    <string-array name="ayatRepeat_array_Display">
+        <item>однажды</item>
+        <item>2 раза</item>
+        <item>3 раза</item>
+        <item>4 раза</item>
+        <item>5 раза</item>
+        <item>6 раза</item>
+        <item>7 раза</item>
+        <item>8 раза</item>
+        <item>9 раза</item>
+        <item>10 раза</item>
+        <item>11 раза</item>
+        <item>12 раза</item>
+        <item>13 раза</item>
+        <item>14 раза</item>
+        <item>15 раза</item>
+        <item>16 раза</item>
+        <item>17 раза</item>
+        <item>18 раза</item>
+        <item>19 раза</item>
+        <item>20 раза</item>
+        <item>25 раза</item>
+        <item>30 раза</item>
+        <item>35 раза</item>
+        <item>40 раза</item>
+        <item>45 раза</item>
+        <item>50 раза</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25</item>
+        <item>0,5</item>
+        <item>0,75</item>
+        <item>Обычная</item>
+        <item>1,25</item>
+        <item>1,5</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="fajrishamethod">
+        <item>Auto</item>
+        <item>Egyptian General Authority of Survey</item>
+        <item>University of Islamic Sciences, Karachi</item>
+        <item>Umm al-Qura University, Makkah</item>
+        <item>Islamic Society of North America</item>
+        <item>Muslim World League</item>
+        <item>Presidency of Religious Affairs, Turkey</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="fajrishamethod_display">
+        <item>автоматический</item>
+        <item>Египетский генеральный орган обследования</item>
+        <item>Университет исламских наук, Карачи</item>
+        <item>Университет Умм-аль-Кура, Мекка</item>
+        <item>Исламское общество Северной Америки</item>
+        <item>Мусульманский мир</item>
+        <item>Управление по делам религии, Турция</item>
+        <item>@string/fi_method_tehran</item>
+        <item>@string/fi_method_jafari</item>
+        <item>@string/fi_method_france</item>
+        <item>@string/fi_method_russia</item>
+        <item>@string/fi_method_uk</item>
+        <item>@string/fi_method_morocco</item>
+        <item>@string/fi_method_jordan</item>
+        <item>@string/fi_method_singapore</item>
+        <item>@string/fi_method_jakim</item>
+        <item>@string/fi_method_kemenag</item>
+        <item>@string/fi_method_qatar</item>
+        <item>@string/fi_method_dubai</item>
+        <item>@string/fi_method_kuwait</item>
+        <item>@string/fi_method_mcw</item>
+        <item>изготовленный на заказ</item>
+    </string-array>
+    <string-array name="highlattitude">
+        <item>Auto</item>
+        <item>None</item>
+        <item>Midnight</item>
+        <item>One-Seventh Night</item>
+        <item>Angle Based</item>
+    </string-array>
+    <string-array name="locale">
+        <item>Default</item>
+        <item>Arabic</item>
+        <item>Urdu</item>
+    </string-array>
+    <string-array name="menu_sura">
+        <item>Аль-Фатиха</item>
+        <item>Аль-Бакара</item>
+        <item>"Аль 'Имран"</item>
+        <item>"Ан-Ниса'"</item>
+        <item>"Аль-Ма'ида"</item>
+        <item>"Аль-Ан'ам"</item>
+        <item>"Аль-А'раф"</item>
+        <item>Аль-Анфаль</item>
+        <item>Ат-Тауба</item>
+        <item>Йунус</item>
+        <item>Худ</item>
+        <item>Йусуф</item>
+        <item>"Ар-Ра'д"</item>
+        <item>Ибрахим</item>
+        <item>Аль-Хиджр</item>
+        <item>Ан-Нахль</item>
+        <item>"Аль-Исра'"</item>
+        <item>Аль-Кахф</item>
+        <item>Марйам</item>
+        <item>Та Ха</item>
+        <item>"Аль-Анбийа'"</item>
+        <item>Аль-Хаджж</item>
+        <item>"Аль-Му'МИНУН"</item>
+        <item>Ан-Нур</item>
+        <item>Аль-Фуркан</item>
+        <item>"Аш-Шу'ара'"</item>
+        <item>Ан-Намль</item>
+        <item>Аль-Касас</item>
+        <item>"Аль-'Нкабут"</item>
+        <item>Ар-Рум</item>
+        <item>Лукман</item>
+        <item>Ас-Саджда</item>
+        <item>Аль-Ахзаб</item>
+        <item>"Саба'"</item>
+        <item>Фатыр</item>
+        <item>Йа Син</item>
+        <item>Ас-Саффат</item>
+        <item>Сад</item>
+        <item>Аз-Зумар</item>
+        <item>Гафер</item>
+        <item>Фуссилат</item>
+        <item>Аш-Шура</item>
+        <item>Аз-Зухруф</item>
+        <item>Ад-Духан</item>
+        <item>Аль-Джасийа</item>
+        <item>Аль-Ахкаф</item>
+        <item>Мухаммад</item>
+        <item>Аль-Фатх</item>
+        <item>Аль-Худжурат</item>
+        <item>Каф</item>
+        <item>Аз-Зарийат</item>
+        <item>Ат-Тур</item>
+        <item>Ан-Наджм</item>
+        <item>Аль-Камар</item>
+        <item>Ар-Рахман</item>
+        <item>"Аль-Ваки'а"</item>
+        <item>Аль-Хадид</item>
+        <item>Аль-Муджадала</item>
+        <item>Аль-Хашр</item>
+        <item>Аль-Мумтахана</item>
+        <item>Ас-Сафф</item>
+        <item>"Аль-Джуму'а"</item>
+        <item>Аль-Мунафикун</item>
+        <item>Ат-Тагабун</item>
+        <item>Ат-Талак</item>
+        <item>Ат-Тахрим</item>
+        <item>Аль-Мульк</item>
+        <item>Аль-Калам</item>
+        <item>Аль-Хакка</item>
+        <item>"Аль-Ма'аридж"</item>
+        <item>Нух</item>
+        <item>Аль-Джинн</item>
+        <item>Аль-Муззаммиль</item>
+        <item>Аль-Мудассир</item>
+        <item>Аль-Кийама</item>
+        <item>Аль-Инсан</item>
+        <item>Аль-Мурсалят</item>
+        <item>"Ан-Наба'"</item>
+        <item>"Ан-Нази'ат"</item>
+        <item>"'Абаса"</item>
+        <item>Ат-Таквир</item>
+        <item>Аль-Инфитар</item>
+        <item>Аль-Мутаффифин</item>
+        <item>Аль-Иншикак</item>
+        <item>Аль-Бурудж</item>
+        <item>Ат-Тарик</item>
+        <item>"Аль-А'ла"</item>
+        <item>Аль-Гашийа</item>
+        <item>Аль-Фаджр</item>
+        <item>Аль-Балад</item>
+        <item>Аш-Шамс</item>
+        <item>Аль-Лайл</item>
+        <item>Ад-Духа</item>
+        <item>Аш-Шарх</item>
+        <item>Ат-Тин</item>
+        <item>Аль-Алак</item>
+        <item>Аль-Кадр</item>
+        <item>Аль-Баййина</item>
+        <item>Аз-Залзала</item>
+        <item>Аль-Адийат</item>
+        <item>"Аль-Кари'а"</item>
+        <item>Ат-Такасур</item>
+        <item>"Аль-'Аср"</item>
+        <item>Аль-Хумаза</item>
+        <item>Аль-Филь</item>
+        <item>Курайш</item>
+        <item>"Аль-Ма'ун"</item>
+        <item>Аль-Каусар</item>
+        <item>Аль-Кафирун</item>
+        <item>Ан-Наср</item>
+        <item>Аль-Масад</item>
+        <item>Аль-Ихлас</item>
+        <item>Аль-Фалак</item>
+        <item>Ан-Нас</item>
+    </string-array>
+    <string-array name="namaz_alarm_titles">
+        <item>Tahajud</item>
+        <item>Ishraq</item>
+        <item>Duha / Chasht</item>
+        <item>Zawal</item>
+        <item>Awabeen</item>
+        <item>Suhoor</item>
+        <item>Suhoor End</item>
+        <item>Iftar</item>
+        <item>Custom Title</item>
+    </string-array>
+    <string-array name="namaz_names">
+        <item>Фаджр</item>
+        <item>Восход солнца</item>
+        <item>Зухр</item>
+        <item>Аср</item>
+        <item>Магриб</item>
+        <item>Иша</item>
+    </string-array>
+    <string-array name="range_array">
+        <item>Sura</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>Page</item>
+        <item>1 aya</item>
+        <item>2 aya</item>
+        <item>3 aya</item>
+        <item>4 aya</item>
+        <item>5 aya</item>
+        <item>6 aya</item>
+        <item>7 aya</item>
+        <item>8 aya</item>
+        <item>9 aya</item>
+        <item>10 aya</item>
+        <item>11 aya</item>
+        <item>12 aya</item>
+        <item>13 aya</item>
+        <item>14 aya</item>
+        <item>15 aya</item>
+        <item>16 aya</item>
+        <item>17 aya</item>
+        <item>18 aya</item>
+        <item>19 aya</item>
+        <item>20 aya</item>
+    </string-array>
+    <string-array name="range_array_Display">
+        <item>Суре</item>
+        <item>Juz</item>
+        <item>Roukh</item>
+        <item>страница</item>
+        <item>1 Ая</item>
+        <item>2 Ая</item>
+        <item>3 Ая</item>
+        <item>4 Ая</item>
+        <item>5 Ая</item>
+        <item>6 Ая</item>
+        <item>7 Ая</item>
+        <item>8 Ая</item>
+        <item>9 Ая</item>
+        <item>10 Ая</item>
+        <item>11 Ая</item>
+        <item>12 Ая</item>
+        <item>13 Ая</item>
+        <item>14 Ая</item>
+        <item>15 Ая</item>
+        <item>16 Ая</item>
+        <item>17 Ая</item>
+        <item>18 Ая</item>
+        <item>19 Ая</item>
+        <item>20 Ая</item>
+    </string-array>
+    <string-array name="storagemode">
+        <item>Internal Storage</item>
+        <item>SD Card Storage</item>
+    </string-array>
+    <string-array name="timezone">
+        <item>-2</item>
+        <item>-1.5</item>
+        <item>-1</item>
+        <item>-0.5</item>
+        <item>None</item>
+        <item>+0.5</item>
+        <item>+1</item>
+        <item>+1.5</item>
+        <item>+2</item>
+    </string-array>
+</resources>

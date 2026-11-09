@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/translation_list_main" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/ad" android:layout_below="@id/status_bar">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true">
+            <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+                <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+            </RelativeLayout>
+            <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/setting_reciters" android:layout_weight="1.0" android:layout_centerInParent="true" />
+            <ImageView android:paddingRight="5.0dip" android:visibility="invisible" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_margin="2.0dip" android:scaleType="fitXY" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:paddingEnd="5.0dip" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/search_view" android:background="@drawable/white_rounded_shape" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_toLeftOf="@id/cancelBtn" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+            <androidx.appcompat.widget.AppCompatEditText android:textColor="?android:textColorPrimary" android:id="@id/search_edt" android:background="@color/fui_transparent" android:padding="5.0dip" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/seacrh" android:drawableLeft="@android:drawable/ic_search_category_default" android:drawablePadding="10.0dip" android:layout_toLeftOf="@id/clear_btn" android:inputType="text" android:imeOptions="actionDone" android:layout_toStartOf="@id/clear_btn" />
+            <Button android:layout_gravity="center|right" android:id="@id/clear_btn" android:background="@null" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerInParent="true" android:backgroundTint="@color/dark_gray" />
+        </RelativeLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:id="@id/info_txt" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="5.0dip" android:text="@string/reciter_list_hint" android:layout_below="@id/three" android:layout_marginStart="5.0dip" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip">
+                <ListView android:id="@id/listView1" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="false" android:divider="@color/fui_transparent" android:fadeScrollbars="false" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <include android:id="@id/ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_layout" />
+</RelativeLayout>

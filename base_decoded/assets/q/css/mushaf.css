@@ -1,0 +1,111 @@
+@font-face{font-family:"Blank";src:url("../fonts/EmptyTTF.ttf") format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:'PDMS_Mushaf1';src:url('../fonts/PDMS_QuranMushaf_Juz1Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf2';src:url('../fonts/PDMS_QuranMushaf_Juz2Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf3';src:url('../fonts/PDMS_QuranMushaf_Juz3Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf4';src:url('../fonts/PDMS_QuranMushaf_Juz4Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf5';src:url('../fonts/PDMS_QuranMushaf_Juz5Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf6';src:url('../fonts/PDMS_QuranMushaf_Juz6Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf7';src:url('../fonts/PDMS_QuranMushaf_Juz7Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf8';src:url('../fonts/PDMS_QuranMushaf_Juz8Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf9';src:url('../fonts/PDMS_QuranMushaf_Juz9Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf10';src:url('../fonts/PDMS_QuranMushaf_Juz10Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf11';src:url('../fonts/PDMS_QuranMushaf_Juz11Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf12';src:url('../fonts/PDMS_QuranMushaf_Juz12Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf13';src:url('../fonts/PDMS_QuranMushaf_Juz13Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf14';src:url('../fonts/PDMS_QuranMushaf_Juz14Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf15';src:url('../fonts/PDMS_QuranMushaf_Juz15Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf16';src:url('../fonts/PDMS_QuranMushaf_Juz16Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf17';src:url('../fonts/PDMS_QuranMushaf_Juz17Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf18';src:url('../fonts/PDMS_QuranMushaf_Juz18Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf19';src:url('../fonts/PDMS_QuranMushaf_Juz19Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf20';src:url('../fonts/PDMS_QuranMushaf_Juz20Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf21';src:url('../fonts/PDMS_QuranMushaf_Juz21Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf22';src:url('../fonts/PDMS_QuranMushaf_Juz22Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf23';src:url('../fonts/PDMS_QuranMushaf_Juz23Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf24';src:url('../fonts/PDMS_QuranMushaf_Juz24Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf25';src:url('../fonts/PDMS_QuranMushaf_Juz25Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf26';src:url('../fonts/PDMS_QuranMushaf_Juz26Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf27';src:url('../fonts/PDMS_QuranMushaf_Juz27Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf28';src:url('../fonts/PDMS_QuranMushaf_Juz28Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf29';src:url('../fonts/PDMS_QuranMushaf_Juz29Ands.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf30';src:url('../fonts/PDMS_QuranMushaf_Juz30Ands.ttf');font-weight:normal;font-style:normal;}
+.pageNumberNew {display:inline;font-family:"PDMS_IslamicFont";font-size:0.75em;word-spacing:1px !important;}
+.qrm0 {display:inline;word-spacing:1px !important;}
+.qrm1,.qrm01{display:inline;font-family:"PDMS_Mushaf1", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm2,.qrm02{display:inline;font-family:"PDMS_Mushaf2", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm3,.qrm03{display:inline;font-family:"PDMS_Mushaf3", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm4,.qrm04{display:inline;font-family:"PDMS_Mushaf4", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm5,.qrm05{display:inline;font-family:"PDMS_Mushaf5", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm6,.qrm06{display:inline;font-family:"PDMS_Mushaf6", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm7,.qrm07{display:inline;font-family:"PDMS_Mushaf7", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm8,.qrm08{display:inline;font-family:"PDMS_Mushaf8", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm9,.qrm09{display:inline;font-family:"PDMS_Mushaf9", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm10,.qrm010{display:inline;font-family:"PDMS_Mushaf10", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm11,.qrm011{display:inline;font-family:"PDMS_Mushaf11", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm12,.qrm012{display:inline;font-family:"PDMS_Mushaf12", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm13,.qrm013{display:inline;font-family:"PDMS_Mushaf13", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm14,.qrm014{display:inline;font-family:"PDMS_Mushaf14", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm15,.qrm015{display:inline;font-family:"PDMS_Mushaf15", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm16,.qrm016{display:inline;font-family:"PDMS_Mushaf16", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm17,.qrm017{display:inline;font-family:"PDMS_Mushaf17", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm18,.qrm018{display:inline;font-family:"PDMS_Mushaf18", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm19,.qrm019{display:inline;font-family:"PDMS_Mushaf19", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm20,.qrm020{display:inline;font-family:"PDMS_Mushaf20", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm21,.qrm021{display:inline;font-family:"PDMS_Mushaf21", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm22,.qrm022{display:inline;font-family:"PDMS_Mushaf22", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm23,.qrm023{display:inline;font-family:"PDMS_Mushaf23", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm24,.qrm024{display:inline;font-family:"PDMS_Mushaf24", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm25,.qrm025{display:inline;font-family:"PDMS_Mushaf25", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm26,.qrm026{display:inline;font-family:"PDMS_Mushaf26", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm27,.qrm027{display:inline;font-family:"PDMS_Mushaf27", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm28,.qrm028{display:inline;font-family:"PDMS_Mushaf28", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm29,.qrm029{display:inline;font-family:"PDMS_Mushaf29", "Blank";font-size:1.3em;word-spacing:1px !important; }
+.qrm30,.qrm030{display:inline;font-family:"PDMS_Mushaf30", "Blank";font-size:1.3em;word-spacing:1px !important; }
+
+.qrmtr01,.qrmtr01{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf1", "Blank"; text-align-last:right; }
+.qrmtr02,.qrmtr02{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf2", "Blank"; text-align-last:right; }
+.qrmtr03,.qrmtr03{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf3", "Blank"; text-align-last:right; }
+.qrmtr04,.qrmtr04{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf4", "Blank"; text-align-last:right; }
+.qrmtr05,.qrmtr05{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf5", "Blank"; text-align-last:right; }
+.qrmtr06,.qrmtr06{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf6", "Blank"; text-align-last:right; }
+.qrmtr07,.qrmtr07{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf7", "Blank"; text-align-last:right; }
+.qrmtr08,.qrmtr08{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf8", "Blank"; text-align-last:right; }
+.qrmtr09,.qrmtr09{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf9", "Blank"; text-align-last:right; }
+.qrmtr010,.qrmtr010{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf10", "Blank"; text-align-last:right; }
+.qrmtr011,.qrmtr011{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf11", "Blank"; text-align-last:right; }
+.qrmtr012,.qrmtr012{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf12", "Blank"; text-align-last:right; }
+.qrmtr013,.qrmtr013{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf13", "Blank"; text-align-last:right; }
+.qrmtr014,.qrmtr014{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf14", "Blank"; text-align-last:right; }
+.qrmtr015,.qrmtr015{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf15", "Blank"; text-align-last:right; }
+.qrmtr016,.qrmtr016{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf16", "Blank"; text-align-last:right; }
+.qrmtr017,.qrmtr017{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf17", "Blank"; text-align-last:right; }
+.qrmtr018,.qrmtr018{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf18", "Blank"; text-align-last:right; }
+.qrmtr019,.qrmtr019{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf19", "Blank"; text-align-last:right; }
+.qrmtr020,.qrmtr020{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf20", "Blank"; text-align-last:right; }
+.qrmtr021,.qrmtr021{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf21", "Blank"; text-align-last:right; }
+.qrmtr022,.qrmtr022{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf22", "Blank"; text-align-last:right; }
+.qrmtr023,.qrmtr023{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf23", "Blank"; text-align-last:right; }
+.qrmtr024,.qrmtr024{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf24", "Blank"; text-align-last:right; }
+.qrmtr025,.qrmtr025{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf25", "Blank"; text-align-last:right; }
+.qrmtr026,.qrmtr026{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf26", "Blank"; text-align-last:right; }
+.qrmtr027,.qrmtr027{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf27", "Blank"; text-align-last:right; }
+.qrmtr028,.qrmtr028{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf28", "Blank"; text-align-last:right; }
+.qrmtr029,.qrmtr029{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf29", "Blank"; text-align-last:right; }
+.qrmtr030,.qrmtr030{direction:rtl;display:block;text-align:right;font-family:"PDMS_Mushaf30", "Blank"; text-align-last:right; }
+
+.theme3{
+    color: white;
+}
+
+.mushaf-colorfix-dark {
+    color: white;
+    filter: contrast(0%) saturate(2380%) brightness(170%) !important;
+}
+
+.mushaf-colorfix-light {
+    filter: brightness(0%) !important;
+}
+
+.mushaf-colorfix-normal {
+    filter: contrast(10%) saturate(2380%) brightness(170%) !important;
+}

@@ -1,0 +1,589 @@
+@font-face{font-family:trEn;src:url(../Linux-Libertine-O.ttf)}
+@font-face{font-family:"LinuxLibertineO";src:url("../android_asset/q/fonts/Linux-Libertine-O.ttf") format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:"PDMS_IslamicFont";src:url("../fonts/_PDMS_IslamicFont_Android_shipped.ttf") format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:"PDMS_IndoPak";src:url("../fonts/internal_PDMS_Saleem_ACQuranFont_shipped.ttf") format('truetype');font-weight:normal;font-style:normal}
+*:focus {
+    outline: none;
+}
+body{
+    margin-top:2.5em;
+}
+.arabic {
+    outline: none; 
+}
+
+
+.sura_mark{display:inline}
+#sura_mark{display:inline}
+a{text-decoration:none;color:#8e8ed6}
+a:hover,a:focus{text-decoration:underline}
+body{
+	overflow-x: hidden;
+	max-width:100%
+	}
+/* Android WebView-specific */
+body.android {
+	-webkit-box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+body.android.autoscrolling {
+	scroll-behavior: auto;
+}
+.theme0{
+color: #000000;
+}
+.theme1{
+color: #544741;
+}
+.theme2{
+color: #000000;
+}
+.theme3{
+color: white;
+}
+
+
+.theme3pagebreak {
+ filter: invert(100%) !important;
+}
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+
+.tafsir{
+ overflow:scroll;
+ max-height: 200px;
+ /*border: 1px solid rgba(0,0,0,.1);*/
+}
+.tafsir3{
+ overflow:scroll;
+ max-height: 200px;
+ /*border: 1px solid rgba(0,0,0,.1);*/
+}
+
+@media only screen and (min-device-width: 768px){
+
+    .tafsir{
+     overflow:scroll;
+     max-height: 500px;
+     /*border: 1px solid rgba(0,0,0,.1);*/
+    }
+
+    .tafsir3{
+     overflow:scroll;
+     max-height: 200px;
+     /*border: 1px solid rgba(0,0,0,.1);*/
+    }
+}
+
+@media only screen and (min-device-width: 768px){
+
+    .tafsir3{
+     overflow:scroll;
+     max-height: 500px;
+     /*border: 1px solid rgba(0,0,0,.1);*/
+    }
+
+
+}
+
+.pageTRbreak{margin-top:0;font-size:medium;color:#818181;width:99%}
+.pagebreak{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0px solid gray;width:99%}
+.pagebreak-indopak{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0px solid gray;width:100%}
+.pagebreak-usmanic{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0px solid gray;width:100%}
+.pagebreak-mushaf{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0px solid gray;width:100%}
+.pagebreakWide{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0;width:99%}
+
+.pagebreaklines{margin-bottom:0px;margin-top:0;font-size:medium;color:#818181;border-bottom:0px solid gray;width:99%}
+
+.lastAya {border-bottom:0px !important;}
+
+@font-face{font-family:'NafeesJauhar';src:url('file:///android_asset/fonts/PDMS_NafeesJauharShip.ttf');font-weight:normal;font-style:normal}
+@font-face{font-family:'NastaliqNafees';src:url('file:///android_asset/fonts/PDMS_NastaliqNafees_iphone.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'TafsirFont';src:url('file:///android_asset/fonts/Linux-Libertine-O.ttf');font-weight:normal;font-style:normal;}
+@font-face{font-family:'PDMS_Mushaf3';src:url('../fonts/PDMS_QuranMushaf_Juz3Ands.ttf');font-weight:normal;font-style:normal;}
+.tr{width:47%;float:left;font-size:.6em;display:block !important; padding-right:3px;top:0;}
+.arabic{font-size:2.2em;margin:0 !important;direction:rtl;width:100%;margin:0;-webkit-user-select:none;will-change: scroll-position;  contain: layout;}
+.ar{vertical-align:top;display:inline;max-width:auto;will-change: transform;}
+.arabic span img{position:static}
+.Urdu_Mahmood111{font-family:"NafeesJauhar";text-align:right;border-right:1px solid lightgrey;text-rendering:optimizeLegibility}
+.Spanish_Cortes{font-family:"LinuxLibertineO";text-rendering:optimizeLegibility}
+.qr,.qr0{display:inline;font-family:"PDMS_IslamicFont";font-size:1.1em;word-spacing:1px !important;}
+.qry_,.qry0_{text-align:justify !important; display:inline;font-family:"PDMS_IndoPak";}
+.qry,.qry0{
+    text-align:justify !important;
+    display:inline;
+    font-family:"PDMS_IndoPak";
+    font-size:1.4em;
+    }
+.qr11111:after{content:"\a";white-space:pre}
+.qrtr,.qrtr0{direction:rtl;display:block;text-align:right;font-family:"PDMS_IslamicFont"; text-align-last:right;}
+.qrytr,.qrytr0{direction:rtl;display:block;text-align:right;font-family:"PDMS_IndoPak"; text-align-last:right;}
+.arabic span{display:inline}
+.qry-share,.qry0-share{text-align:justify !important; display:inline;font-family:"PDMS_IndoPak";font-size:1.4em; line-height:1.6;}
+
+
+.hit .theme0{
+   /* color:#b44800 !important;*/
+
+}
+
+.hit .theme1{
+   /* color:#c6780b !important;*/
+
+}
+
+
+.hit .theme2{
+   /* color:#aa6905 !important;*/
+
+}
+
+
+.hit .theme3{
+    /*color:#9ddc57 !important;*/
+
+}
+
+.hit .theme4{
+    color:#000 !important;
+
+}
+
+.hit .theme5{
+    color:#000 !important;
+
+}
+
+.hit .theme6{
+    color:#000 !important;
+
+}
+
+.hit .theme7{
+    color:#000 !important;
+
+}
+
+.hit .theme8{
+    color:#000 !important;
+
+}
+
+
+
+.hit .tafsir{
+    color:#000000 !important;
+    background-color:rgba(221, 221, 211, 0.3) !important;
+
+}
+
+.hit .tafsir3 {
+    color:#ffffff !important;
+    background-color:rgba(221, 221, 211, 0.3) !important;
+
+}
+
+
+.Highlight{background-color:rgba(242,232,151,0.45)}
+.m{text-align:center;vertical-align:middle}
+.logs{position:fixed;bottom:66px;height:10px;width:100%;right:0;text-align:right;background-color:none;color:#9f0707;padding:2px;display:none !important}
+
+
+
+.urdu {
+	font-family: NastaliqNafees;
+	color: gray;
+	font-size: 1em;
+}
+
+.marks {
+    position:absolute;
+    right: -8px;
+    display:inline-block;
+    margin-top: 0px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marks2 {
+    position:absolute;
+    right: -8px;
+    display:inline-block;
+    margin-top: 0px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marks3 {
+    position:absolute;
+    right: -8px;
+    display:inline-block;
+    margin-top: 0px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marksUthmanic {
+    position:absolute;
+    right: -2px;
+    display:inline-block;
+    margin-top: -30px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marksUthmanic2 {
+    position:absolute;
+    right: -2px;
+    display:inline-block;
+    margin-top: -30px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marksUthmanic3 {
+    position:absolute;
+    right: -2px;
+    display:inline-block;
+    margin-top: -30px;
+    height:80px;
+    width: 41px;
+    background-position:right bottom;
+    background-repeat:no-repeat;
+}
+
+.marks22 {
+
+z-index:-10000;
+white-space:nowrap;
+display:block;
+ position:absolute;
+ height:40px;
+ width: 40px;
+ background-position:center;
+  background-repeat:no-repeat;
+}
+
+.marksMargin {
+    padding-right:13px;
+    padding-left:10px;
+}
+
+.marksMarginTrans {
+    padding-right:22px;
+    padding-left:5px;
+}
+
+.spanMargin {
+
+}
+
+.para::first-line {
+    text-shadow: 1px 1px 2px white, 0 0 20px white, 0 0 4px #75962F !important;
+
+}
+
+.para > .qry0 > .para-first-check1:first-of-type::first-line {
+  text-shadow: 1px 1px 2px white, 0 0 20px white, 0 0 4px #75962F !important;
+}
+
+._para::first-line
+{
+    text-shadow: 0px 0px 0px white, 0 0 0px white, 0 0 1px #75962F !important
+}
+
+.para-first-check1{
+}
+
+.pagebreak {
+	background: url("../page-break-png") no-repeat;
+	background-color:rgba(67, 2, 189, 0);
+	background-position:50% 0%;
+	background-size: contain;
+
+	}
+
+.pagebreak-indopak {
+    	background: url("../page-break-png") no-repeat;
+    	background-color:rgba(67, 2, 189, 0);
+    	background-position:50% 50%;
+    	background-size: contain;
+        font-family:"PDMS_IndoPak";
+        margin-bottom: 0px;
+        text-align-last: center !important;
+    	}
+ .pagebreak-usmanic {
+            	background: url("../page-break-png") no-repeat;
+            	background-color:rgba(67, 2, 189, 0);
+            	background-position:50% 50%;
+            	background-size: contain;
+                font-family:"PDMS_IslamicFont";
+                        text-align-last: center !important;
+            	}
+  .pagebreak-mushaf {
+             	background: url("../page-break-png") no-repeat;
+             	background-color:rgba(67, 2, 189, 0);
+             	background-position:50% 50%;
+             	background-size: contain;
+                 font-family:"PDMS_Mushaf3";
+                 text-align-last: center !important;
+             	}
+	.pagebreaklines {
+    	background: url("../page-break-png") no-repeat;
+    	background-color:rgba(67, 2, 189, 0);
+    	background-position:50% 0%;
+    	background-size: contain;
+
+    	}
+
+
+.SVGpagebreak {
+    fill: #E30600;
+    stroke:#E30600;
+}
+.cnv {
+position:right;
+}
+
+        .tf_Ibn-Katheer, .tf_Tabari, .tf_Al-Moyasar, .tf_Al-Baghwi, .tf_As-Saady {
+    		font-size:.6em;
+    		text-align: right !important;
+    		text-align-last: right;
+    		direction: rtr;
+    		font-family: "PDMS_IslamicFont";
+
+
+
+            display: inline-block;
+            margin-bottom:5px;
+
+
+    	}
+
+
+    	.tf_English-TaqiUsmani {
+                	font-size:.55em;
+                	text-align: left !important;
+                	text-align-last: left;
+                	direction: ltr;
+                	font-family: "TafsirFont";
+                    display: inline-block;
+                    margin-bottom:5px;
+
+                	}
+
+        .tf_Urdu-TaqiUsmani {
+             font-size:.65em;
+             text-align: right !important;
+             text-align-last: right;
+             direction: rtr;
+             font-family: "NastaliqNafees";
+             display: inline-block;
+             margin-bottom:5px;
+                    }
+
+
+    	.tf_English-Usmani {
+        	font-size:.55em;
+        	text-align: left !important;
+        	text-align-last: left;
+        	direction: ltr;
+        	font-family: "TafsirFont";
+            display: inline-block;
+            margin-bottom:5px;
+
+        	}
+
+        .tf_Urdu-Usmani {
+             font-size:.65em;
+             text-align: right !important;
+             text-align-last: right;
+             direction: rtr;
+             font-family: "NastaliqNafees";
+
+
+
+             display: inline-block;
+             margin-bottom:5px;
+
+                	}
+
+        .tf_Urdu-Maariful-Quran {
+             font-size:.65em;
+             text-align: right !important;
+             text-align-last: right;
+             direction: rtr;
+             font-family: "NastaliqNafees";
+             display: inline-block;
+             margin-bottom:5px;
+        }
+
+        .tf_Urdu-Mazhari-Dahlvi {
+             font-size:.65em;
+             text-align: right !important;
+             text-align-last: right;
+             direction: rtr;
+             font-family: "NastaliqNafees";
+             display: inline-block;
+             margin-bottom:5px;
+        }
+
+        .tf_Indonesian-Wajiz {
+            font-size:.55em;
+            text-align: left !important;
+            text-align-last: left;
+            direction: ltr;
+            font-family: "TafsirFont";
+            display: inline-block;
+            margin-bottom:5px;
+
+            }
+
+
+        .TafsirHeaderContainer {
+    	     width: 100%;
+    	     margin-bottom:2px;
+
+        }
+
+        .TafsirSVGImage{
+
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+
+        }
+
+
+
+
+#bbb {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 200px; /* Full width (cover the whole page) */
+    height: 400px; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+.search { animation: color-change 1s 4; }
+
+@keyframes color-change {
+  0% { background-color: none; }
+  50% { background-color: #93c2a4; }
+  100% { background-color: none; }
+}
+
+
+.green:focus {
+    outline:0;
+}
+.green:active {
+    background-color: lightgrey;;
+    opacity:0.9;
+}
+
+.green {
+  border-color: #4CAF50;
+  color: green;
+
+}
+
+
+/* Base tick mark structure */
+/* Base tick mark container and shape combined */
+.tick-mark {
+  position: relative;
+  display: inline-block;
+  width: 6px;
+  height: 18px;
+  margin-right: -18px;
+  margin-bottom: 8px;
+  margin-left: 6px;
+  margin-top: 0;
+  /* Tick appearance */
+  border-right: 4px solid #4a9b47;
+  border-bottom: 7px solid #4a9b47;
+  transform: rotate(45deg);
+  border-radius: 6px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Show marker */
+.show-ihifz-marker {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.2s ease;
+}
+
+.show-ihifz-marker {
+  position: relative;
+  display: inline-block !important;
+}
+
+.show-ihifz-marker::after {
+   content: "";                          /* empty, so text is not replaced */
+    position: absolute;                   /* relative to the span */
+    left: 0;                              /* on the left side */
+    top: 50%;                             /* vertically center */
+    transform: translateY(-50%);          /* perfect vertical centering */
+    width: 18px;                          /* size of your image */
+    height: 18px;
+  background-image: url("tick.svg?ColorOfBar=%2300aa00&ColorOfBorder=%2300aa00&ColorOfBackground=%2300aa00");
+background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 2;
+}
+
+
+
+
+
+
+
+
+/* WBW Word Highlight */
+.wbw-highlight {
+    background-color: rgba(255, 165, 0, 0.5) !important;
+    border-radius: 4px;
+}
+
+
+
+
+/* Hifz Mark Mistakes red */
+.follow-mode-highlight-on {
+    margin: 0;
+    padding: 0;
+    border-radius: 0; /* remove circle shape */
+    box-shadow: none; /* remove inset red shadow */
+    background-color: #d4f7d4; /* light green background */
+    min-height: 100vh; /* keep full height if you still need it */
+}
+

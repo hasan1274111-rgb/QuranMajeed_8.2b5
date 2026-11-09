@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/menulayout_new_port" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/moreLayout_section" android:background="@drawable/bottombar_morelayout_top_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/hiad_10_dp" android:layout_above="@id/mainLayout" android:layout_marginEnd="@dimen/hiad_7_dp" android:layout_alignParentEnd="true">
+        <ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@id/moreSec_add_layout" android:visibility="visible" android:layout_width="230.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/hiad_10_dp" android:foreground="?selectableItemBackground" android:textDirection="locale" android:layout_marginStart="@dimen/hiad_5_dp" />
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <include layout="@layout/new_bottom_bar_cell_exit_button_mobile" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/mainLayout" android:background="?background_bottom_bar" android:paddingTop="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:layout_alignParentBottom="true" android:textDirection="locale" android:layoutDirection="locale">
+        <LinearLayout android:orientation="horizontal" android:id="@id/mainChangingLayout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" />
+        <LinearLayout android:orientation="vertical" android:id="@id/morebtn_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="25.0px" android:layout_marginEnd="25.0px">
+            <ImageButton android:layout_gravity="center" android:id="@id/more_btn" android:background="@drawable/ripple_effect_toolbar_background" android:padding="3.0dip" android:focusable="true" android:clickable="true" android:layout_width="80.0dip" android:layout_height="80.0dip" android:foreground="?selectableItemBackgroundBorderless" android:src="@drawable/ic_more_new" android:scaleType="centerInside" />
+            <TextView android:textSize="15.0dip" android:textColor="?NewToolbarIconsTextColor" android:layout_gravity="center" android:id="@id/text" android:padding="@dimen/hiad_5_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/more_newToolbarStr" android:maxLines="1" android:textAlignment="center" app:autoSizeMaxTextSize="@null" app:autoSizeMinTextSize="7.0dip" app:autoSizeStepGranularity="1.0dip" app:autoSizeTextType="uniform" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageButton android:id="@id/audiosettings" android:background="?button_selector_background" android:visibility="gone" android:layout_width="80.0dip" android:layout_height="80.0dip" android:src="@drawable/audio_settings" android:scaleType="centerInside" android:layout_weight="1.0" />
+</RelativeLayout>

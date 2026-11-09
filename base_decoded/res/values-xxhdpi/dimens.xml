@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="prayer_name_txt">14.0dip</dimen>
+    <dimen name="prayer_time_txt">14.0dip</dimen>
+    <dimen name="prayer_time_txt_small">10.0dip</dimen>
+</resources>

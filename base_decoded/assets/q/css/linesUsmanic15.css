@@ -1,0 +1,36 @@
+/*
+#arabic1 span {
+    border-block-start:1px solid #C4CCCC;
+}
+
+.marks {
+    border-block-start: 0px !important;
+}
+*/
+
+	.pagebreak-usmanic {
+    	background-image: url("../page-break-png");
+    	background-color:rgba(67, 2, 189, 0);
+    	background-position:50% 0%;
+    	background-size: contain;
+
+
+        background-repeat:no-repeat;
+        margin-bottom: -3px;
+        margin-top: 8px;
+        text-align-last: center !important;
+    	}
+
+
+.page {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+  box-sizing: border-box;
+}
+
+#page1, #page2 {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}

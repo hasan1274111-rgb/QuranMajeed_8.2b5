@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="end|center" android:orientation="horizontal" android:id="@id/bg_" android:background="?list_selector_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:touchscreenBlocksFocus="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="start|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="5.0">
+        <ImageView android:id="@id/alram_icon_" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:id="@id/alarm_name_" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="None" android:maxLines="1" android:layout_weight="1.0" android:layout_toRightOf="@id/alram_icon" android:layout_centerVertical="true" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/red" android:id="@id/new_tag_" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="New" android:layout_toRightOf="@id/alram_icon" android:layout_centerVertical="true" />
+    </LinearLayout>
+    <ImageView android:id="@id/tick_mark_" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:src="@null" android:layout_centerVertical="true" app:tint="@color/dash_blue" />
+</LinearLayout>

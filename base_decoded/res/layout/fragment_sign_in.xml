@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/main_layout" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip">
+        <RelativeLayout android:id="@id/backBtn" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip">
+            <ImageView android:id="@id/btn_back" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <View android:background="@color/grey_light" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/backBtn" android:layout_toEndOf="@id/backBtn" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/dash_green" android:gravity="center" android:layout_gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="Sign In with Email" android:layout_weight="1.0" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/bgView2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0" android:layout_below="@id/top_view">
+        <LinearLayout android:orientation="vertical" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.4">
+            <ImageView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="10.0dip" android:src="@drawable/login_email" android:scaleType="centerInside" android:layout_weight="0.3" android:alpha="0.4" />
+            <TextView android:textSize="19.0sp" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/codeEnterTitle" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="10.0dip" android:text="Sign-In with Email" android:layout_weight="0.2" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/dark_gray" android:gravity="center" android:id="@id/codeEnterDetails" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="5.0dip" android:text="Please enter your email and password to login" android:layout_weight="0.15" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.1" />
+        </LinearLayout>
+        <LinearLayout android:gravity="top" android:orientation="vertical" android:background="@color/QMBackground" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.6">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:weightSum="1.0" android:paddingStart="12.0dip" android:paddingEnd="12.0dip">
+                <LinearLayout android:orientation="horizontal" android:background="@drawable/border_bg" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip">
+                    <EditText android:textSize="17.0sp" android:gravity="start" android:id="@id/tv_email" android:background="@color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="2.0dip" android:hint="Email" android:layout_weight="0.5" android:inputType="textEmailAddress" android:textIsSelectable="false" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@id/verificationCodeView" android:background="@drawable/border_bg" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="10.0dip">
+                    <EditText android:textSize="17.0sp" android:gravity="start" android:id="@id/tv_password" android:background="@color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_margin="2.0dip" android:hint="Password" android:layout_weight="0.5" android:inputType="textPassword" android:textIsSelectable="false" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0" android:paddingStart="12.0dip" android:paddingEnd="12.0dip">
+                <CheckBox android:textColor="@color/dash_green" android:id="@id/checkbox_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="20.0dip" android:text="Show password" />
+                <Button android:textSize="15.0dip" android:textColor="@color/whiteAlways" android:id="@id/btn_sign_in" android:background="@drawable/dash_button_selected_new" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="20.0dip" android:text="Sign In" />
+                <LinearLayout android:gravity="start" android:orientation="horizontal" android:id="@id/sign_up_tv" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="20.0dip">
+                    <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Don't have account yet?" />
+                    <TextView android:textStyle="bold" android:textColor="@color/dash_green" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Create account" android:layout_marginStart="2.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

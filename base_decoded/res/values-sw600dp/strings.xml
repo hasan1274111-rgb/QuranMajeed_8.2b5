@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dash_onboarding_language_details">"Select the script you find easiest to read for your daily Quranic 
+recitations."</string>
+    <string name="dash_onboarding_qibla_details">"To provide accurate prayer timings and Qibla direction for your city, we 
+need access to your location."</string>
+    <string name="dash_onboarding_transcript_details">Select the script you find easiest to read for your daily Quranic recitations.</string>
+</resources>

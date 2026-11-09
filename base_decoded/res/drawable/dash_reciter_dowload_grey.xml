@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="14.0dip" android:width="14.0dip" android:viewportWidth="14.0" android:viewportHeight="14.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M10.006 1.99976C9.12809 1.47079 8.09949 1.1665 6.99984 1.1665C3.77817 1.1665 1.1665 3.77817 1.1665 6.99984C1.1665 10.2215 3.77817 12.8332 6.99984 12.8332C10.2215 12.8332 12.8332 10.2215 12.8332 6.99984C12.8332 6.29721 12.7089 5.62359 12.4813 4.99976" android:strokeColor="#ff595959" android:strokeWidth="1.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M1.99976 3.99203C1.47079 4.86996 1.1665 5.89855 1.1665 6.99821C1.1665 10.2199 3.77817 12.8315 6.99984 12.8315C10.2215 12.8315 12.8332 10.2199 12.8332 6.99821C12.8332 3.77658 10.2215 1.16488 6.99984 1.16488C6.29721 1.16488 5.62359 1.2891 4.99976 1.51679" android:strokeColor="#ff595959" android:strokeWidth="1.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M9.33317 7.2917C9.33317 7.2917 7.61467 9.62498 6.99984 9.62498C6.38495 9.62498 4.6665 7.29164 4.6665 7.29164M6.99984 9.33331V4.375" android:strokeColor="#ff595959" android:strokeWidth="1.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

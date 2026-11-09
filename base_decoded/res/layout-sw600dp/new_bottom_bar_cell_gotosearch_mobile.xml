@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:id="@id/gotoSearchbtn_layout_new" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/hiad_2_dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/mainLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:layout_gravity="center" android:id="@id/gotoSearch_new" android:background="@color/fui_transparent" android:padding="3.0dip" android:focusable="true" android:clickable="true" android:duplicateParentState="true" android:layout_width="80.0dip" android:layout_height="80.0dip" android:foreground="?selectableItemBackgroundBorderless" android:src="@drawable/ic_search_icon_new" android:scaleType="centerInside" />
+        <TextView android:textSize="15.0dip" android:textColor="?NewToolbarIconsTextColor" android:layout_gravity="center" android:id="@id/text" android:padding="@dimen/hiad_5_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/seacrh" android:textAlignment="center" />
+    </LinearLayout>
+</LinearLayout>

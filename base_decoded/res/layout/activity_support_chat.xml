@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/chat_main" android:focusable="false" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/status_bar" android:background="?topbar_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_alignParentTop="true" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/actionBarView" android:background="?topbar_bg" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_below="@id/status_bar" android:elevation="5.0dip">
+        <RelativeLayout android:id="@id/btnBack_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip">
+            <ImageView android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:layout_centerVertical="true" android:contentDescription="@string/back_text" android:rotation="@integer/backBtnRotation" />
+        </RelativeLayout>
+        <View android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/btnBack_view" android:layout_toEndOf="@id/btnBack_view" />
+        <TextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="@string/support_chat_title" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <ProgressBar android:id="@id/progress" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerInParent="true" />
+    <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/errorText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/internet_connection" android:layout_centerInParent="true" android:layout_marginStart="32.0dip" android:layout_marginEnd="32.0dip" />
+    <WebView android:id="@id/webview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/actionBarView" />
+</RelativeLayout>

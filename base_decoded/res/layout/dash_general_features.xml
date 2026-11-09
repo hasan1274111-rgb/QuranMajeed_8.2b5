@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="locale" app:cardBackgroundColor="?cell_color" app:cardCornerRadius="5.0dip" app:cardElevation="7.0dip" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="4.0dip" android:layoutDirection="locale">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_marginStart="7.0dip" android:layout_marginEnd="10.0dip">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/general_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_general" />
+            <View android:layout_gravity="center" android:background="@color/disable_grey" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" />
+        </LinearLayout>
+        <HorizontalScrollView android:id="@id/hsv_general" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content" android:measureAllChildren="false" android:fillViewport="true" android:layout_alignParentTop="true" android:layoutDirection="locale" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/adlayoutExtenspace" android:layout_width="fill_parent" android:layout_height="@dimen/hiad_10_dp" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

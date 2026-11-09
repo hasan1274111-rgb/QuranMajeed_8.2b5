@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:id="@id/swipe" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:cardBackgroundColor="?cell_color" app:dragEdge="right" app:mode="normal">
+        <View android:layout_gravity="bottom" android:background="@color/lightgray" android:layout_width="fill_parent" android:layout_height="@dimen/hiad_2_dp" />
+        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/main_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/readingbookmark" android:layout_width="@dimen/hiad_20_dp" android:layout_height="@dimen/hiad_20_dp" android:src="@null" android:layout_marginStart="@dimen/hiad_5_dp" />
+                <TextView android:textSize="@dimen/hiad_text_16_sp" android:textColor="@color/grey_light" android:layout_gravity="center_vertical" android:id="@id/surah_progress" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/reading_bookmark" android:layout_marginStart="@dimen/hiad_5_dp" />
+            </LinearLayout>
+            <TextView android:textColor="@color/grey_light" android:ellipsize="end" android:id="@id/selected_ayat_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ayas: 12, 22, 23" android:maxLines="1" android:layout_below="@id/main_layout" android:layout_marginStart="@dimen/hiad_10_dp" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle"> //This is so I can have a white background <solid android:color="@color/splash_bg" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/splash" android:tileMode="disabled"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </item>
+</layer-list>

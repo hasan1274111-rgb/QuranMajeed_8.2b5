@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@id/card_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" card_view:cardBackgroundColor="@android:color/transparent" card_view:cardCornerRadius="0.0dip" card_view:cardElevation="5.0dip" card_view:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/back_layout" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:gravity="center_vertical" android:id="@id/background_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:layout_above="@id/title" />
+        <com.pakdata.QuranMajeed.QTextView android:textSize="14.0dip" android:textColor="?android:textColorPrimary" android:gravity="center_vertical" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/center_view" android:layout_centerHorizontal="true" />
+        <View android:id="@id/center_view" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_centerInParent="true" />
+        <TextView android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/sura_name" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Surname" android:layout_below="@id/center_view" android:layout_centerHorizontal="true" />
+        <TextView android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Surname" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

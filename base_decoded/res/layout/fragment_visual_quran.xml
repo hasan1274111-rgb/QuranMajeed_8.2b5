@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/activity_main" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:flipview="http://schemas.android.com/apk/res-auto">
+    <com.pakdata.QuranMajeed.Flip.FlipView android:id="@id/flip_view" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="0.0dip" flipview:layout_constraintBottom_toTopOf="@id/toolbar_bottom" flipview:layout_constraintEnd_toEndOf="parent" flipview:layout_constraintStart_toStartOf="parent" flipview:layout_constraintTop_toTopOf="parent" flipview:orientation="vertical" />
+    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar_bottom" android:background="?background_bottom_bar" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip" android:minHeight="?android:actionBarSize" flipview:contentInsetLeft="0.0dip" flipview:contentInsetRight="0.0dip" flipview:contentInsetStart="0.0dip" flipview:layout_constraintBottom_toBottomOf="parent" flipview:layout_constraintEnd_toEndOf="parent" flipview:layout_constraintStart_toStartOf="parent">
+        <include layout="@layout/visual_quran_bottombar" />
+    </androidx.appcompat.widget.Toolbar>
+    <ProgressBar android:layout_gravity="center" android:id="@id/progressBar_cyclic" android:visibility="gone" android:layout_width="60.0dip" android:layout_height="60.0dip" android:minWidth="40.0dip" android:minHeight="40.0dip" flipview:layout_constraintBottom_toBottomOf="parent" flipview:layout_constraintEnd_toEndOf="parent" flipview:layout_constraintStart_toStartOf="parent" flipview:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

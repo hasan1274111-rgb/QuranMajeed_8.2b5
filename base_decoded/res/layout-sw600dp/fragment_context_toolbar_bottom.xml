@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/context_toolbar_view" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/relativeLayout_hint_han" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/top_layout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/translation_card_view" android:layout_width="fill_parent" android:layout_height="340.0dip">
+                <androidx.cardview.widget.CardView android:id="@id/content_cardView" android:layout_width="fill_parent" android:layout_height="fill_parent" app:cardBackgroundColor="?background_bottom_barCT" app:cardCornerRadius="7.5dip">
+                    <androidx.cardview.widget.CardView android:id="@id/top_behind_card" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="2.25dip" android:layout_marginTop="2.25dip" android:layout_marginRight="2.25dip" android:layout_marginBottom="2.25dip" app:cardBackgroundColor="?new_bgc" app:cardCornerRadius="7.5dip">
+                        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                            <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="150.0" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+                                    <LinearLayout android:orientation="horizontal" android:id="@id/hifizUgcMarks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0" android:paddingStart="@dimen/hiad_10_dp" android:paddingEnd="@dimen/hiad_10_dp">
+                                        <RelativeLayout android:id="@id/wordLayout" android:layout_width="0.0dip" android:layout_height="82.5dip" android:layout_weight="5.55">
+                                            <com.pakdata.QuranMajeed.Flip.AutoResizeTextView android:textColor="?android:textColorPrimary" android:layout_gravity="center" android:id="@id/ayaWordText" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textAlignment="center" android:autoSizeTextType="uniform" android:autoSizeStepGranularity="1.0sp" android:autoSizeMinTextSize="39.0sp" android:autoSizeMaxTextSize="67.5sp" />
+                                            <ProgressBar android:id="@id/wheelProgress" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminate="true" />
+                                        </RelativeLayout>
+                                        <ImageView android:textColor="?android:textColorPrimary" android:layout_gravity="center" android:id="@id/ayaWordTextImageView" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="82.5dip" android:layout_weight="5.55" android:textAlignment="center" android:autoSizeTextType="uniform" android:autoSizeStepGranularity="1.0sp" android:autoSizeMinTextSize="39.0sp" android:autoSizeMaxTextSize="67.5sp" />
+                                        <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/greenMark" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_margin="3.0dip" app:cardBackgroundColor="@color/ledGreen" app:cardCornerRadius="150.0dip" />
+                                        <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/redMark" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_margin="3.0dip" app:cardBackgroundColor="@color/red" app:cardCornerRadius="150.0dip" />
+                                        <androidx.cardview.widget.CardView android:layout_gravity="center_vertical" android:id="@id/unSelectMark" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_margin="3.0dip" app:cardBackgroundColor="@android:color/transparent" app:cardCornerRadius="150.0dip" app:cardElevation="0.0dip" app:cardMaxElevation="0.0dip">
+                                            <FrameLayout android:background="@drawable/card_border_ihifz_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                                        </androidx.cardview.widget.CardView>
+                                    </LinearLayout>
+                                    <WebView android:id="@id/ct_webview" android:background="@color/transparent" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/hiad_7_dp" android:layout_marginStart="@dimen/hiad_7_dp" android:layout_marginEnd="@dimen/hiad_7_dp" />
+                                </LinearLayout>
+                            </ScrollView>
+                            <LinearLayout android:orientation="vertical" android:id="@id/wbwWordPlayLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                                <View android:background="@color/on_surface_qm" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginBottom="5.0dip" />
+                                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/hiad_10_dp" android:paddingEnd="@dimen/hiad_10_dp">
+                                    <com.pakdata.QuranMajeed.Flip.AutoResizeTextView android:textColor="?android:textColorPrimary" android:layout_gravity="center" android:id="@id/wbwWordText" android:layout_width="0.0dip" android:layout_height="82.5dip" android:layout_weight="1.0" android:textAlignment="center" android:autoSizeTextType="uniform" android:autoSizeStepGranularity="1.0sp" android:autoSizeMinTextSize="39.0sp" android:autoSizeMaxTextSize="67.5sp" />
+                                    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="75.0dip" android:layout_height="75.0dip">
+                                        <ImageButton android:id="@id/wbwPlayBtnCT" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_play_new" android:scaleType="centerInside" android:contentDescription="Play Word" />
+                                        <ProgressBar android:id="@id/wbwProgressBarCT" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminate="true" />
+                                    </FrameLayout>
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:layout_gravity="center|right|top" android:orientation="vertical" android:id="@id/resize_layout_top" android:paddingLeft="@dimen/hiad_20_dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-18.0dip">
+                            <ImageView android:layout_width="45.0dip" android:layout_height="75.0dip" android:src="@drawable/context_resize_lines" app:tint="?background_bottom_barCT" />
+                        </LinearLayout>
+                    </androidx.cardview.widget.CardView>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+            <androidx.cardview.widget.CardView android:id="@id/top_card_view" android:layout_width="wrap_content" android:layout_height="wrap_content" app:cardBackgroundColor="?background_bottom_bar" app:cardCornerRadius="12.0dip">
+                <LinearLayout android:layout_width="360.0dip" android:layout_height="wrap_content" android:weightSum="150.0" android:layout_centerHorizontal="true" android:layout_centerVertical="true" app:cardBackgroundColor="?new_bgcHL">
+                    <ImageButton android:id="@id/playbtn_context" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/ic_play_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <ImageButton android:id="@id/hifz_tick_mark" android:background="?android:selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="750.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/mark_ihifz_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <ImageButton android:id="@id/hifz_untick_mark" android:background="?android:selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/unmark_ihifz_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <ImageButton android:id="@id/addlistemptytool" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/ic_add_bookmark_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <ImageButton android:id="@id/btnReadingTool" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/reading_bk_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <ImageButton android:id="@id/sharingbtntool" android:background="?android:selectableItemBackgroundBorderless" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:src="@drawable/ic_share_new" android:scaleType="centerInside" android:layout_weight="30.0" />
+                    <RelativeLayout android:layout_width="0.0dip" android:layout_height="75.0dip" android:layout_marginLeft="6.0dip" android:layout_weight="30.0">
+                        <ImageButton android:id="@id/close_translat_top_image" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/context_toolbar_close_colapse" android:scaleType="fitCenter" app:tint="@color/on_surface_qm" />
+                        <ImageButton android:id="@id/close_translat_top" android:background="?android:selectableItemBackgroundBorderless" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+        <LinearLayout android:gravity="center|top" android:id="@id/layout_tip" android:layout_width="360.0dip" android:layout_height="wrap_content" android:layout_below="@id/top_layout">
+            <ImageView android:layout_gravity="center" android:id="@id/Layoutmoveble" android:layout_width="33.0dip" android:layout_height="33.0dip" android:layout_marginBottom="0.0dip" android:src="@drawable/tip_down" android:scaleType="fitStart" android:tint="?background_bottom_bar" />
+        </LinearLayout>
+        <RelativeLayout android:layout_gravity="center|left|top" android:id="@id/open_close_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <RelativeLayout android:layout_gravity="bottom|center|right" android:id="@id/open_close_layout2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-45.0dip" android:layout_marginTop="-45.0dip" android:layout_toRightOf="@id/top_layout" android:layout_below="@id/top_layout" />
+    </RelativeLayout>
+</LinearLayout>

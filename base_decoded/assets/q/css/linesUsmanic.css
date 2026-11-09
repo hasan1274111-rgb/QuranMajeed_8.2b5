@@ -1,0 +1,12 @@
+
+.page {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}
+
+#page1, #page2 {
+  background-size: 100% 1.915em;
+  background-image: linear-gradient(#d7dede 0.05em, transparent 0.05em);
+  background-position: 0px 0em;
+}

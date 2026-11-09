@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dashboard_order</key>
+	<string>0,1,2,3,4,5,6,7,8</string>
+	<key>category_order</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>general</string>
+			<key>title</key>
+			<string>General</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>dsad,tpDv,crtf,cntct,ntfst</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>quran</string>
+			<key>title</key>
+			<string>Quran</string>
+			<key>title_ar</key>
+			<string>القرآن</string>
+			<key>icons</key>
+			<string>wdwd,vsqn,hfz,tjwd,rtsn,plst,qdtl,qtv,rdqn</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>prayer</string>
+			<key>title</key>
+			<string>Prayer</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>prtm,qbla,tsbh,dua,infpt,zkttr</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>placesTravel</string>
+			<key>title</key>
+			<string>Places &amp; Travel</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>mdfr,hllpl,mkh,mdn</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>islamicKnowledge</string>
+			<key>title</key>
+			<string>Islamic Knowledge</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>ahnm,hjri</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>appSettings</string>
+			<key>title</key>
+			<string>App &amp; Settings</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>lnge,tchcl,cntu,gprm,shr</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>others</string>
+			<key>title</key>
+			<string>Others</string>
+			<key>title_ar</key>
+			<string></string>
+			<key>icons</key>
+			<string>blg,tps,ecrd,advt</string>
+		</dict>
+	</array>
+	<key>primary_order</key>
+	<string>rdqn,prtm,qbla,tjwd,dua,tsbh,hfz</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>action_url</key>
+			<string>https://shop.pakdata.com/</string>
+			<key>value</key>
+			<string>Qurbani-Icon.png</string>
+			<key>title</key>
+			<string>Qurbani 2026</string>
+			<key>title_ar</key>
+			<string>الأضحية‎ ١٤٤٦</string>
+			<key>index</key>
+			<string>0</string>
+			<key>category</key>
+			<string>quran</string>
+			<key>category_ar</key>
+			<string>القرآن</string>
+		</dict>
+		<dict>
+			<key>action_url</key>
+			<string>https://apps.apple.com/app/id366111277?action=write-review</string>
+			<key>value</key>
+			<string>Likeus@3x.png</string>
+			<key>title</key>
+			<string>Rate this App</string>
+			<key>title_fr</key>
+			<string>Évaluer cette appli</string>
+			<key>title_ar</key>
+			<string>قيم هذا التطبيق</string>
+			<key>index</key>
+			<string>6</string>
+			<key>category</key>
+			<string>quran</string>
+			<key>category_ar</key>
+			<string>القرآن</string>
+		</dict>
+		<dict>
+			<key>action_url</key>
+			<string>https://quranacademy.pakdata.com/</string>
+			<key>value</key>
+			<string>QuranAcademy@3x.png</string>
+			<key>title</key>
+			<string>Quran Academy</string>
+			<key>title_ar</key>
+			<string>أكاديمية القرآن</string>
+			<key>index</key>
+			<string>0</string>
+			<key>category</key>
+			<string>quran majeed</string>
+			<key>category_ar</key>
+			<string>القرآن</string>
+			<key>category_index</key>
+			<string>1</string>
+			<key>primary_index</key>
+			<string>2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

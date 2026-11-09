@@ -1,0 +1,192 @@
+[
+    {
+        "cat_title": "Audio Settings",
+        "cat_id": "audioSettings",
+        "cat_image": "audio-settings",
+        "tips": [
+            {
+                "title": "Customise audio settings",
+                "desc": "Change aya repetition, delay, speed, etc by tapping on audio settings icon from bottom toolbar",
+                "video": "2sXtSvaa7HA",
+                "video_ipad": "ZMann8cBk9c",
+                "feature_id": "audioSettings"
+            },
+            {
+                "title": "Customise audio settings",
+                "desc": "Change aya repetition, delay, speed, etc by tapping on audio settings icon from bottom toolbar",
+                "video": "5b0upL8I8i8",
+                "video_ipad": "ZMann8cBk9c",
+                "feature_id": "audioSettings"
+            },
+            {
+                "title": "Repeat recitation range",
+                "desc": "Select a recitation range like sura, page, ruku / hizb or any number of aya and repeat the range multiple times. You can also let recitation to be stopped when the range finishes.",
+                "video": "0obD9-F8q14",
+                "video_ipad": "Z_gOECzs3Xk",
+                "feature_id": "audioRangeRepeat"
+            },
+            {
+                "title": "Customise aya delay & repetition",
+                "desc": "Add a delay of 1 to 20 seconds between aya by moving the aya delay bar forward or backward. You can also adjust individual aya repeat.\nOpen audio settings and move the aya delay bar manually or tap on (+)(-) button to set a delay of 1 to 20 seconds between aya",
+                "video": "XZ84UUK-Sjw",
+                "video_ipad": "U21-604pbi4",
+                "feature_id": "audioDelayRepeat"
+            },
+            {
+                "title": "Quran audio playback speed",
+                "desc": "Set Quran audio playback speed between 0.5x to 2.0x by adjusting the bar or tapping on (+)(-).\nOpen audio settings of Quran Majeed app and move the playback speed bar manually or tap on (+)(-) button to adjust playback speed between 0.5x to 2.0x",
+                "video": "s4KJlGsjKw0",
+                "video_ipad": "8zpxmJIZRpU",
+                "feature_id": "audioSpeed"
+            }
+        ]
+    },
+    {
+        "cat_title": "Bottom Toolbar",
+        "cat_id": "bottomToolbar",
+        "cat_image": "Toolbar",
+        "tips": [
+            {
+                "title": "Set & manage bookmarks",
+                "desc": "Set and manage bookmarks by tapping the aya and tapping the star button to add in list.\nSelect the aya you want to bookmark then tap on the star to add it to bookmark list. Bookmarks can be viewed by tapping the star button with note",
+                "video": "t3qLsBZIFj0",
+                "video_ipad": "fZbmZ-mVK_4",
+                "feature_id": "bookmarks"
+            },
+            {
+                "title": "Search Quran keyphrases",
+                "desc": "Search according to exact, affixes or different keyphrases with Quran search feature.\nTap on the search option to open search option in which queries can be done according to exact, affixes, all root and Quran keyphrases. List will show up as per your search query.",
+                "video": "kaoIR_B2yNg",
+                "video_ipad": "N37PbfyN-IY",
+                "feature_id": "search"
+            },
+            {
+                "title": "Aya, surah or juz search",
+                "desc": "Search or choose aya, surah or juz by tapping the Quran lookup book icon in bottom toolbar\nTap on the screen to open bottom toolbar then tap on the open book icon to open Quran lookup settings and search or scroll according to aya, surah of juz",
+                "video": "6GiD01Y08bo",
+                "video_ipad": "68Lq9wfEtpM",
+                "feature_id": "gotoAya"
+            },
+            {
+                "title": "Share Aya",
+                "desc": "Share selected Aya with friends/family by tapping on the share button in the bottom toolbar.",
+                "video": "jNeWX2nFKvw",
+                "video_ipad": "I29KVpEnI5k",
+                "feature_id": "shareAya"
+            },
+            {
+                "title": "Adjusting Quran scroll speed",
+                "desc": "Adjust the scroll speed between 6 to 60 min/para by tapping on the scroll button to activate scroll.\nTap on the screen to open bottom panel and then tap on the scroll button to auto-scroll the Quran text. Adjust the scroll speed by setting speed between 6 min/para to 60 min/para",
+                "video": "0eJL_wjoOiU",
+                "video_ipad": "de6MDL9Kcbc",
+                "feature_id": "autoScroll"
+            },
+            {
+                "title": "Quran tajweed rules",
+                "desc": "Enable Tajweed rules while reading Quran by tapping the tajweed rules button in the bottom toolbar.",
+                "video": "HNwiMriIeao",
+                "video_ipad": "R9oIStX8RcY",
+                "feature_id": "tajweed"
+            },
+            {
+                "title": "Enable/Disable Quran translations",
+                "desc": "Understand the  Quran via translations by tapping on translation icon in bottom toolbar.\nTo enable translations tap to open bottom toolbar and then tap on the translation button to enable/disable translations while listening or reciting the Quran",
+                "video": "MK7mkxE8kYY",
+                "video_ipad": "OVU6a86u4xE",
+                "feature_id": "toggleTranslation"
+            }
+
+        ]
+    },
+    {
+        "cat_title": "Dashboard",
+        "cat_id": "dashboard",
+        "cat_image": "Dashboard",
+        "tips": [
+            {
+                "title": "Quran engagement time",
+                "desc": "Track your engagement time with Quran Majeed app or gift Quran to random users around the world as Sadqa Jaria.",
+                "video": "FWhg-d9P27Y",
+                "video_ipad": "jNE0Hx65waY",
+                "feature_id": "engGift"
+            },
+            {
+                "title": "Quran Majeed features",
+                "desc": "View prayer times, Qibla direction, Masjid locations, halal places, hijri converter calendar, Makkah, Madinah live and invite friends.",
+                "video": "Kqc60yVvejM",
+                "video_ipad": "cdzabjjtP6M",
+                "feature_id": "qmFeatures"
+            },
+            {
+                "title": "Select Quran reciters",
+                "desc": "Choose to listen to the Quran in the voice of more than 25+ reciters around the world with the ability to enable/disable pictures.",
+                "video": "yzOMUxumZZI",
+                "video_ipad": "eLIAP0iLFyI",
+                "feature_id": "reciters"
+            },
+            {
+                "title": "Select Quran translations",
+                "desc": "From English to Urdu, choose between more than 50+ translations to understand the message of the Quran in a better way.",
+                "video": "aBLNRRah1ic",
+                "video_ipad": "4VmymXJ1UJ8",
+                "feature_id": "translations"
+            },
+            {
+                "title": "Quran tafsirs",
+                "desc": "Select between different tafsirs from Usmani(Urdu/Usmani) to Al-Baghwi to expand your knowledge regarding the Quran message.",
+                "video": "geaaw6iG3vs",
+                "video_ipad": "24j6c-9gQME",
+                "feature_id": "tafsirs"
+            },
+            {
+                "title": "Quran fonts",
+                "desc": "Selecting fonts between Indopak, Mushaf, Mushaf Tajweed and Uthmanic along with enabling 15-lines, side marks, page numbers with adjustable fonts.",
+                "video": "En6X_qQ8o94",
+                "video_ipad": "p9qEuqsreAY",
+                "feature_id": "fonts"
+            },
+            {
+                "title": "Quran Themes",
+                "desc": "Choose between different themes from green, night mode, light to blue theme to enhance your reading experience.",
+                "video": "h0W0RPGBdSg",
+                "video_ipad": "8zTUrZ4s6wI",
+                "feature_id": "themes"
+            },
+            {
+                "title": "General features",
+                "desc": "From getting in touch with us to viewing certificates, enabling/disabling Quran Majeed app notifications browse general features to discover more.",
+                "video": "fuYTvo9-pBs",
+                "video_ipad": "XDatOmcd17A",
+                "feature_id": "gFeatures"
+            }
+        ]
+    },
+    {
+        "cat_title": "Quran Hifz",
+        "cat_id": "iHifzFeature",
+        "cat_image": "ihifz-icon",
+        "tips": [
+            {
+                "title": "Word Marking for Hifz & Tajweed",
+                "desc": "Enhance your Quran memorization and pronunciation with the Word Marking feature of the Quran Majeed App. This quick guide shows you how to effectively use the tool for better Hifz and Tajweed practice, making memorization easier and more engaging. Perfect for learners at any level!",
+                "video": "did8LtNl-RE",
+                "video_ipad": "did8LtNl-RE",
+                "feature_id": "iHifzFeature"
+            },
+            {
+                "title": "Quran Memorization",
+                "desc": "Memorize Holy Quran with hifz features easily. Use Hide and reveal mode for memorizing current lesson (Sabaq).",
+                "video": "mkjtwcOVnbA",
+                "video_ipad": "mkjtwcOVnbA",
+                "feature_id": "iHifzFeature"
+            },
+            {
+                "title": "Progress Tracking",
+                "desc": "It helps you keep track of your Quran memorization progress. You can tick (mark done) each aya that you memorize to keep track of your hifz progress.",
+                "video": "QW5FimtFxFw",
+                "video_ipad": "QW5FimtFxFw",
+                "feature_id": "iHifzFeature"
+            }
+        ]
+    }
+]

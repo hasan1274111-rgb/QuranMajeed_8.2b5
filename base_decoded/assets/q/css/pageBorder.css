@@ -1,0 +1,36 @@
+/* ═══════════════════════════════════════════════════════════
+   Ornamental Page Border for 15-Line Quran Mode
+   This file contains ALL border-related styles.
+   Loaded only in show15 mode.
+   ═══════════════════════════════════════════════════════════ */
+
+/* Outer wrapper — carries the ornamental border frame */
+.page-border-wrap {
+  border: 8px solid transparent;
+  margin-bottom: 10px;
+  border-image: url('../borders/page_border.png') 60 round;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding: 0 4px;
+  overflow: visible;
+}
+
+/* Dark mode: ensure border visibility */
+.theme3 .page-border-wrap {
+  border-image: url('../borders/page_border.png') 60 round;
+  filter: none;
+  opacity: 1;
+}
+
+/* Marks render on top of the border */
+.marks,
+.marks2,
+.marks3 {
+  z-index: 2;
+}
+
+.marksUthmanic,
+.marksUthmanic2,
+.marksUthmanic3 {
+  z-index: 2;
+}

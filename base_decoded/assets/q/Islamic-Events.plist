@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groups</key>
+	<array>
+		<dict>
+			<key>group_title</key>
+			<string>Significant Events</string>
+			<key>group_title_ar</key>
+			<string>أحداث مهمة </string>
+			<key>events</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>1 Muharram</string>
+					<key>title_ar</key>
+					<string>١ محرم</string>
+					<key>day_h</key>
+					<integer>1</integer>
+					<key>day_m</key>
+					<integer>1</integer>
+					<key>image</key>
+					<string>islamic_new_year</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>10 Muharram</string>
+					<key>title_ar</key>
+					<string>١٠ محرم</string>
+					<key>day_h</key>
+					<integer>10</integer>
+					<key>day_m</key>
+					<integer>1</integer>
+					<key>image</key>
+					<string>ashura</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>12 Rabi ul Awwal</string>
+					<key>title_ar</key>
+					<string>١٢ ربيع الأول</string>
+					<key>day_h</key>
+					<integer>12</integer>
+					<key>day_m</key>
+					<integer>3</integer>
+					<key>image</key>
+					<string>rabi_ul_awwal</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>27 Rajab</string>
+					<key>title_ar</key>
+					<string>٢٧ رجب</string>
+					<key>day_h</key>
+					<integer>27</integer>
+					<key>day_m</key>
+					<integer>7</integer>
+					<key>image</key>
+					<string>miraj_night</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>15 Sha&apos;ban</string>
+					<key>title_ar</key>
+					<string>١٥ شعبان</string>
+					<key>day_h</key>
+					<integer>15</integer>
+					<key>day_m</key>
+					<integer>8</integer>
+					<key>image</key>
+					<string>baarat_night</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>1 Ramadan</string>
+					<key>title_ar</key>
+					<string>۱ رمضان</string>
+					<key>day_h</key>
+					<integer>1</integer>
+					<key>day_m</key>
+					<integer>9</integer>
+					<key>image</key>
+					<string>ramadan</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>27 Ramadan</string>
+					<key>title_ar</key>
+					<string>۲۷ رمضان</string>
+					<key>day_h</key>
+					<integer>27</integer>
+					<key>day_m</key>
+					<integer>9</integer>
+					<key>image</key>
+					<string>qadr_night</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Eid ul Fitr</string>
+					<key>title_ar</key>
+					<string>عيد الفطر</string>
+					<key>day_h</key>
+					<integer>1</integer>
+					<key>day_m</key>
+					<integer>10</integer>
+					<key>image</key>
+					<string>eid_ul_fitr</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>1 Dhul Hijjah</string>
+					<key>title_ar</key>
+					<string>١ ذو الحجة</string>
+					<key>day_h</key>
+					<integer>1</integer>
+					<key>day_m</key>
+					<integer>12</integer>
+					<key>image</key>
+					<string>dhul_hijjah</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Day of Arafah</string>
+					<key>title_ar</key>
+					<string>يوم عرفة</string>
+					<key>day_h</key>
+					<integer>9</integer>
+					<key>day_m</key>
+					<integer>12</integer>
+					<key>image</key>
+					<string>arafah_day</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Eid ul Adha</string>
+					<key>title_ar</key>
+					<string>عيد الأضحى</string>
+					<key>day_h</key>
+					<integer>10</integer>
+					<key>day_m</key>
+					<integer>12</integer>
+					<key>image</key>
+					<string>eid_ul_adha</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,99 @@
+.qry,.qry0{
+    display:inline;
+    font-family:"PDMS_IndoPak";
+    margin: 0 auto !important;
+    font-size:revert;
+}
+
+.page {
+    text-align: justify !important;
+    text-align-last: justify !important;
+
+}
+
+.marksMargin15 {
+    padding-right:10px;
+    padding-left:8px;
+}
+.pagebreak {
+    text-align-last: center !important;
+    text-align: center !important;
+}
+.pagebreaklines {
+    text-align-last: center !important;
+    text-align: center !important;
+}
+.marks {
+    zoom: 1.0 !important;
+}
+.marks2 {
+    zoom: 1.0 !important;
+}
+.marks3 {
+    zoom: 1.0 !important;
+}
+#page1, #page2 {
+        margin-left: 10%;
+        margin-right: 10%;
+}
+.page br{
+    display: none !important;
+}
+.textlines {
+    text-align: center !important;
+    text-align-last: center !important;
+    line-height: 1.3em !important;
+    height: 1.3em;
+    overflow: visible;
+}
+.details {
+  margin-top:11px;
+  margin-bottom:11px;
+  margin-left:10px;
+  margin-right:0px;
+}
+
+/* 15 lines juz first line */
+#page2 #line1, #page22 #line1, #page42 #line1, #page62 #line1, #page82 #line1,
+#page102 #line1, #page122 #line1, #page142 #line1, #page162 #line1, #page182 #line1,
+#page202 #line1, #page222 #line1, #page242 #line1, #page262 #line1, #page282 #line1,
+#page302 #line1, #page322 #line1, #page342 #line1, #page362 #line1, #page382 #line1,
+#page402 #line1, #page422 #line1, #page442 #line1, #page462 #line1, #page482 #line1,
+#page502 #line1, #page522 #line1, #page542 #line1, #page562 #line1, #page586 #line1
+{
+  text-shadow: 1px 1px 2px white, 0 0 20px white, 0 0 4px #75962F !important;
+}
+
+/* Android-specific: marks position and details spacing */
+.android .marks,
+.android .marks2,
+.android .marks3 {
+    margin-top: 10px;
+}
+.android .details {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* Tablet landscape: constrain text to 80% width so the calibrated 15-lines
+   font stays small enough for the page height to fit the viewport.
+   #max15indopak (calibration test element, sibling of #arabic1) must get the
+   same margins, otherwise the font calibrates against the full width. */
+@media (orientation: landscape) {
+    /* !important needed: q.css .arabic sets margin:0 !important and width:100% */
+    .tabletDevice #arabic1,
+    .tabletDevice #max15indopak {
+        width: 80% !important;
+        margin-left: 10% !important;
+        margin-right: 10% !important;
+    }
+}
+@media (orientation: portrait) {
+    /* !important needed: q.css .arabic sets margin:0 !important and width:100% */
+    .tabletDevice #arabic1,
+    .tabletDevice #max15indopak {
+        width: 90% !important;
+        margin-left: 5% !important;
+        margin-right: 5% !important;
+    }
+}

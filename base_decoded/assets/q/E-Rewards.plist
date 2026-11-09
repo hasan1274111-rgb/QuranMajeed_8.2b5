@@ -1,0 +1,5090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BadgeEarningDays</key>
+	<string>3|10|30|90|180|360</string>
+	<key>DailyCheckinData</key>
+	<dict>
+		<key>d0</key>
+		<dict>
+			<key>notCheckIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Start your journey again!</string>
+					<key>ar</key>
+					<string>ابدأ رحلتك من جديد!</string>
+					<key>fr</key>
+					<string>Recommencez votre parcours !</string>
+					<key>de</key>
+					<string>Starte deine Reise neu!</string>
+					<key>ru</key>
+					<string>Начните свой путь заново!</string>
+					<key>tr</key>
+					<string>Yolculuğuna yeniden başla!</string>
+					<key>it</key>
+					<string>Ricomincia il tuo percorso!</string>
+					<key>ur</key>
+					<string>اپنا سفر دوبارہ شروع کریں!</string>
+					<key>nl</key>
+					<string>Begin je reis opnieuw!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Enhance your spiritual growth daily. Read a verse, share an inspiring quote, or track your Sunnah fasts.</string>
+					<key>ar</key>
+					<string>عزِّز نموك الروحي يوميًا. اقرأ آية، شارك اقتباسًا ملهمًا، أو تابع صيامك للسنة.</string>
+					<key>fr</key>
+					<string>Renforcez votre croissance spirituelle chaque jour. Lisez un verset, partagez une citation inspirante ou suivez vos jeûnes sunnah.</string>
+					<key>de</key>
+					<string>Stärke dein spirituelles Wachstum täglich. Lies einen Vers, teile ein Zitat oder verfolge deine Sunnah-Fasten.</string>
+					<key>ru</key>
+					<string>Развивайте свою духовность ежедневно. Читайте аят, делитесь вдохновляющей цитатой или отслеживайте посты сунны.</string>
+					<key>tr</key>
+					<string>Manevi gelişimini her gün güçlendir. Bir ayet oku, ilham verici söz paylaş ya da sünnet oruçlarını takip et.</string>
+					<key>it</key>
+					<string>Rafforza la tua crescita spirituale ogni giorno. Leggi un versetto, condividi una citazione o segui i digiuni sunnah.</string>
+					<key>ur</key>
+					<string>روزانہ اپنی روحانی ترقی کو مضبوط کریں۔ ایک آیت پڑھیں، متاثر کن قول شیئر کریں یا سنت کے روزے ٹریک کریں۔</string>
+					<key>nl</key>
+					<string>Versterk dagelijks je spirituele groei. Lees een vers, deel een inspirerende quote of volg je sunnah-vasten.</string>
+				</dict>
+			</dict>
+			<key>checkIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep Going !</string>
+					<key>ar</key>
+					<string>واصل التقدم!</string>
+					<key>fr</key>
+					<string>Continuez !</string>
+					<key>de</key>
+					<string>Mach weiter!</string>
+					<key>ru</key>
+					<string>Продолжайте!</string>
+					<key>tr</key>
+					<string>Devam et!</string>
+					<key>it</key>
+					<string>Continua così!</string>
+					<key>ur</key>
+					<string>جاری رکھیں!</string>
+					<key>nl</key>
+					<string>Ga zo door!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Enhance your spiritual growth daily. Read a verse, share an inspiring quote, or track your Sunnah fasts.</string>
+					<key>ar</key>
+					<string>عزِّز نموك الروحي يوميًا. اقرأ آية، شارك اقتباسًا ملهمًا، أو تابع صيامك للسنة.</string>
+					<key>fr</key>
+					<string>Renforcez votre croissance spirituelle chaque jour. Lisez un verset, partagez une citation inspirante ou suivez vos jeûnes sunnah.</string>
+					<key>de</key>
+					<string>Stärke dein spirituelles Wachstum täglich. Lies einen Vers, teile ein Zitat oder verfolge deine Sunnah-Fasten.</string>
+					<key>ru</key>
+					<string>Развивайте свою духовность ежедневно. Читайте аят, делитесь вдохновляющей цитатой или отслеживайте посты сунны.</string>
+					<key>tr</key>
+					<string>Manevi gelişimini her gün güçlendir. Bir ayet oku, ilham verici söz paylaş ya da sünnet oruçlarını takip et.</string>
+					<key>it</key>
+					<string>Rafforza la tua crescita spirituale ogni giorno. Leggi un versetto, condividi una citazione o segui i digiuni sunnah.</string>
+					<key>ur</key>
+					<string>روزانہ اپنی روحانی ترقی کو مضبوط کریں۔ ایک آیت پڑھیں، متاثر کن قول شیئر کریں یا سنت کے روزے ٹریک کریں۔</string>
+					<key>nl</key>
+					<string>Versterk dagelijks je spirituele groei. Lees een vers, deel een inspirerende quote of volg je sunnah-vasten.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>d1</key>
+		<dict>
+			<key>notCheckIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Start your journey today!</string>
+					<key>ar</key>
+					<string>ابدأ رحلتك اليوم!</string>
+					<key>fr</key>
+					<string>Commencez votre parcours aujourd’hui !</string>
+					<key>de</key>
+					<string>Starte deine Reise heute!</string>
+					<key>ru</key>
+					<string>Начните свой путь сегодня!</string>
+					<key>tr</key>
+					<string>Yolculuğuna bugün başla!</string>
+					<key>it</key>
+					<string>Inizia oggi il tuo percorso!</string>
+					<key>ur</key>
+					<string>آج ہی اپنا سفر شروع کریں!</string>
+					<key>nl</key>
+					<string>Begin vandaag je reis!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Small Beginnings Can Bring Amazing Results. Build your daily habit of reading Quran.</string>
+					<key>ar</key>
+					<string>البدايات الصغيرة يمكن أن تحقق نتائج مذهلة. اجعل قراءة القرآن عادة يومية.</string>
+					<key>fr</key>
+					<string>Les petits débuts peuvent apporter de grands résultats. Faites de la lecture du Coran une habitude quotidienne.</string>
+					<key>de</key>
+					<string>Kleine Anfänge bringen große Ergebnisse. Mache das Lesen des Korans zur täglichen Gewohnheit.</string>
+					<key>ru</key>
+					<string>Маленькие шаги приводят к большим результатам. Сделайте чтение Корана ежедневной привычкой.</string>
+					<key>tr</key>
+					<string>Küçük başlangıçlar büyük sonuçlar getirir. Kur’an okumayı günlük alışkanlık yap.</string>
+					<key>it</key>
+					<string>Piccoli inizi portano grandi risultati. Rendi la lettura del Corano un’abitudine quotidiana.</string>
+					<key>ur</key>
+					<string>چھوٹی شروعات بڑے نتائج لا سکتی ہیں۔ قرآن پڑھنا روزانہ کی عادت بنائیں۔</string>
+					<key>nl</key>
+					<string>Kleine stappen brengen grote resultaten. Maak het lezen van de Koran een dagelijkse gewoonte.</string>
+				</dict>
+			</dict>
+			<key>checkIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>2 days left!</string>
+					<key>ar</key>
+					<string>تبقى يومان!</string>
+					<key>fr</key>
+					<string>Plus que 2 jours !</string>
+					<key>de</key>
+					<string>Noch 2 Tage!</string>
+					<key>ru</key>
+					<string>Осталось 2 дня!</string>
+					<key>tr</key>
+					<string>2 gün kaldı!</string>
+					<key>it</key>
+					<string>Mancano 2 giorni!</string>
+					<key>ur</key>
+					<string>ابھی 2 دن باقی ہیں!</string>
+					<key>nl</key>
+					<string>Nog 2 dagen!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Earn your first badge by staying connected. You are on your way to making your connection stronger with Quran.</string>
+					<key>ar</key>
+					<string>احصل على شارتك الأولى بالبقاء متصلًا. أنت في طريقك لتقوية صلتك بالقرآن.</string>
+					<key>fr</key>
+					<string>Gagnez votre premier badge en restant connecté. Vous renforcez votre lien avec le Coran.</string>
+					<key>de</key>
+					<string>Verdiene dein erstes Abzeichen durch Beständigkeit. Deine Verbindung zum Koran wird stärker.</string>
+					<key>ru</key>
+					<string>Получите свой первый значок, оставаясь постоянными. Вы укрепляете связь с Кораном.</string>
+					<key>tr</key>
+					<string>Bağlı kalarak ilk rozetini kazan. Kur’an ile bağın güçleniyor.</string>
+					<key>it</key>
+					<string>Ottieni il tuo primo badge restando costante. Stai rafforzando il tuo legame con il Corano.</string>
+					<key>ur</key>
+					<string>جڑے رہ کر اپنی پہلی بیج حاصل کریں۔ آپ قرآن سے اپنا تعلق مضبوط کر رہے ہیں۔</string>
+					<key>nl</key>
+					<string>Verdien je eerste badge door verbonden te blijven. Je band met de Koran wordt sterker.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>d2</key>
+		<dict>
+			<key>notCheckIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>2 days left!</string>
+					<key>ar</key>
+					<string>تبقى يومان!</string>
+					<key>fr</key>
+					<string>Plus que 2 jours !</string>
+					<key>de</key>
+					<string>Noch 2 Tage!</string>
+					<key>ru</key>
+					<string>Осталось 2 дня!</string>
+					<key>tr</key>
+					<string>2 gün kaldı!</string>
+					<key>it</key>
+					<string>Mancano 2 giorni!</string>
+					<key>ur</key>
+					<string>ابھی 2 دن باقی ہیں!</string>
+					<key>nl</key>
+					<string>Nog 2 dagen!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Earn your first badge by staying connected. You are on your way to making your connection stronger with Quran.</string>
+					<key>ar</key>
+					<string>احصل على شارتك الأولى بالبقاء متصلًا. أنت في طريقك لتقوية صلتك بالقرآن.</string>
+					<key>fr</key>
+					<string>Les petits débuts peuvent apporter de grands résultats. Faites de la lecture du Coran une habitude quotidienne.</string>
+					<key>de</key>
+					<string>Kleine Anfänge bringen große Ergebnisse. Mache das Lesen des Korans zur täglichen Gewohnheit.</string>
+					<key>ru</key>
+					<string>Маленькие шаги приводят к большим результатам. Сделайте чтение Корана ежедневной привычкой.</string>
+					<key>tr</key>
+					<string>Küçük başlangıçlar büyük sonuçlar getirir. Kur’an okumayı günlük alışkanlık yap.</string>
+					<key>it</key>
+					<string>Piccoli inizi portano grandi risultati. Rendi la lettura del Corano un’abitudine quotidiana.</string>
+					<key>ur</key>
+					<string>چھوٹی شروعات بڑے نتائج لا سکتی ہیں۔ قرآن پڑھنا روزانہ کی عادت بنائیں۔</string>
+					<key>nl</key>
+					<string>Kleine stappen brengen grote resultaten. Maak het lezen van de Koran een dagelijkse gewoonte.</string>
+				</dict>
+			</dict>
+			<key>checkIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Just 1 More day to go!</string>
+					<key>ar</key>
+					<string>تبقى يوم واحد فقط!</string>
+					<key>fr</key>
+					<string>Plus qu’1 jour !</string>
+					<key>de</key>
+					<string>Nur noch 1 Tag!</string>
+					<key>ru</key>
+					<string>Остался 1 день!</string>
+					<key>tr</key>
+					<string>Sadece 1 gün kaldı!</string>
+					<key>it</key>
+					<string>Ancora 1 giorno!</string>
+					<key>ur</key>
+					<string>اب صرف 1 دن باقی!</string>
+					<key>nl</key>
+					<string>Nog 1 dag!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Your first badge awaits. Stay connected to Allah. May your efforts be rewarded.</string>
+					<key>ar</key>
+					<string>شارتك الأولى في انتظارك. ابقَ متصلًا بالله. نسأل الله أن يثيبك على جهودك.</string>
+					<key>fr</key>
+					<string>Votre premier badge vous attend. Restez connecté à Allah. Que vos efforts soient récompensés.</string>
+					<key>de</key>
+					<string>Dein erstes Abzeichen wartet. Bleib Allah verbunden. Mögen deine Bemühungen belohnt werden.</string>
+					<key>ru</key>
+					<string>Ваш первый значок ждёт вас. Оставайтесь близкими к Аллаху. Пусть ваши усилия будут вознаграждены.</string>
+					<key>tr</key>
+					<string>İlk rozetin seni bekliyor. Allah’a bağlı kal. Çabaların mükâfat bulsun.</string>
+					<key>it</key>
+					<string>Il tuo primo badge ti aspetta. Rimani vicino ad Allah. Che i tuoi sforzi siano ricompensati.</string>
+					<key>ur</key>
+					<string>آپ کی پہلی بیج آپ کا انتظار کر رہی ہے۔ اللہ سے جڑے رہیں۔ اللہ آپ کی کوششوں کا اجر دے۔</string>
+					<key>nl</key>
+					<string>Je eerste badge wacht op je. Blijf verbonden met Allah. Moge je inspanningen beloond worden.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>d3</key>
+		<dict>
+			<key>notCheckIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Just 1 More day to go!</string>
+					<key>ar</key>
+					<string>تبقى يوم واحد فقط!</string>
+					<key>fr</key>
+					<string>Plus qu’1 jour !</string>
+					<key>de</key>
+					<string>Nur noch 1 Tag!</string>
+					<key>ru</key>
+					<string>Остался 1 день!</string>
+					<key>tr</key>
+					<string>Sadece 1 gün kaldı!</string>
+					<key>it</key>
+					<string>Ancora 1 giorno!</string>
+					<key>ur</key>
+					<string>اب صرف 1 دن باقی!</string>
+					<key>nl</key>
+					<string>Nog 1 dag!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Your first badge awaits. Stay connected to Allah. May your efforts be rewarded.</string>
+					<key>ar</key>
+					<string>شارتك الأولى في انتظارك. ابقَ متصلًا بالله. نسأل الله أن يثيبك على جهودك.</string>
+					<key>fr</key>
+					<string>Votre premier badge vous attend. Restez connecté à Allah. Que vos efforts soient récompensés.</string>
+					<key>de</key>
+					<string>Dein erstes Abzeichen wartet. Bleib Allah verbunden. Mögen deine Bemühungen belohnt werden.</string>
+					<key>ru</key>
+					<string>Ваш первый значок ждёт вас. Оставайтесь близкими к Аллаху. Пусть ваши усилия будут вознаграждены.</string>
+					<key>tr</key>
+					<string>İlk rozetin seni bekliyor. Allah’a bağlı kal. Çabaların mükâfat bulsun.</string>
+					<key>it</key>
+					<string>Il tuo primo badge ti aspetta. Rimani vicino ad Allah. Che i tuoi sforzi siano ricompensati.</string>
+					<key>ur</key>
+					<string>آپ کی پہلی بیج آپ کا انتظار کر رہی ہے۔ اللہ سے جڑے رہیں۔ اللہ آپ کی کوششوں کا اجر دے۔</string>
+					<key>nl</key>
+					<string>Je eerste badge wacht op je. Blijf verbonden met Allah. Moge je inspanningen beloond worden.</string>
+				</dict>
+			</dict>
+			<key>checkIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Congratulations!\nYou&apos;ve Earned Your %@ days Streak Badge!</string>
+					<key>ar</key>
+					<string>تهانينا!\nلقد حصلت على شارة سلسلة الأيام البالغة %@ يومًا!</string>
+					<key>fr</key>
+					<string>Félicitations !\nVous avez obtenu votre badge de %@ jours !</string>
+					<key>de</key>
+					<string>Glückwunsch!\nDu hast dein %@-Tage-Abzeichen erhalten!</string>
+					<key>ru</key>
+					<string>Поздравляем!\nВы получили значок %@ дней!</string>
+					<key>tr</key>
+					<string>Tebrikler!\n%@ günlük rozetini kazandın!</string>
+					<key>it</key>
+					<string>Congratulazioni!\nHai ottenuto il badge di %@ giorni!</string>
+					<key>ur</key>
+					<string>مبارک ہو!\nآپ نے %@ دن کی بیج حاصل کر لی!</string>
+					<key>nl</key>
+					<string>Gefeliciteerd!\nJe hebt je %@ dagen-badge verdiend!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Your dedication is paying off. Keep up the great work and continue your journey.</string>
+					<key>ar</key>
+					<string>تفانيك يؤتي ثماره. استمر في العمل الرائع وواصل رحلتك.</string>
+					<key>fr</key>
+					<string>Votre dévouement porte ses fruits. Continuez votre parcours.</string>
+					<key>de</key>
+					<string>Dein Einsatz zahlt sich aus. Mach weiter!</string>
+					<key>ru</key>
+					<string>Ваша преданность приносит плоды. Продолжайте путь.</string>
+					<key>tr</key>
+					<string>Azmin karşılığını veriyor. Yolculuğa devam et.</string>
+					<key>it</key>
+					<string>La tua dedizione sta dando frutti. Continua il tuo percorso.</string>
+					<key>ur</key>
+					<string>آپ کی محنت رنگ لا رہی ہے۔ اپنا سفر جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Je inzet werpt vruchten af. Blijf doorgaan.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>d4</key>
+		<dict>
+			<key>notCheckIn</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>%@ days left to earn your %@ streak badge!</string>
+					<key>ar</key>
+					<string>تبقى %@ يومًا للحصول على شارة سلسلة %@ الخاصة بك!</string>
+					<key>fr</key>
+					<string>Plus que %@ jours pour obtenir votre badge de %@ !</string>
+					<key>de</key>
+					<string>Noch %@ Tage bis zu deinem %@-Abzeichen!</string>
+					<key>ru</key>
+					<string>Осталось %@ дней до значка %@!</string>
+					<key>tr</key>
+					<string>%@ rozetine %@ gün kaldı!</string>
+					<key>it</key>
+					<string>Mancano %@ giorni per ottenere il badge %@!</string>
+					<key>ur</key>
+					<string>%@ دن باقی ہیں %@ بیج حاصل کرنے کے لیے!</string>
+					<key>nl</key>
+					<string>Nog %@ dagen tot je %@-badge!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep up the habit of connecting with Allah daily and continue your journey of increasing your Imaan.</string>
+					<key>ar</key>
+					<string>استمر في عادة التواصل مع الله يوميًا وواصل رحلتك لزيادة إيمانك.</string>
+					<key>fr</key>
+					<string>Gardez l’habitude de vous connecter quotidiennement à Allah et continuez à renforcer votre foi.</string>
+					<key>de</key>
+					<string>Halte an der täglichen Verbindung zu Allah fest und stärke deinen Imaan.</string>
+					<key>ru</key>
+					<string>Сохраняйте ежедневную связь с Аллахом и укрепляйте свой иман.</string>
+					<key>tr</key>
+					<string>Her gün Allah ile bağlantını sürdür ve imanını güçlendir.</string>
+					<key>it</key>
+					<string>Mantieni l’abitudine di connetterti ogni giorno ad Allah e rafforza la tua fede.</string>
+					<key>ur</key>
+					<string>روزانہ اللہ سے جڑے رہنے کی عادت برقرار رکھیں اور اپنے ایمان کو مضبوط کریں۔</string>
+					<key>nl</key>
+					<string>Blijf dagelijks verbonden met Allah en versterk je geloof.</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>BadgesAwards</key>
+	<dict>
+		<key>streak_3</key>
+		<dict>
+			<key>id</key>
+			<string>streak_3</string>
+			<key>image</key>
+			<string>streak_3</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>3 Days Streak</string>
+				<key>ar</key>
+				<string>3 أيام متتالية</string>
+				<key>fr</key>
+				<string>Série de 3 jours</string>
+				<key>de</key>
+				<string>3-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 3 дня</string>
+				<key>tr</key>
+				<string>3 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 3 Giorni</string>
+				<key>ur</key>
+				<string>3 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>3 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Good job!\nYou&apos;ve just started your journey.|Share your progress and inspire others to join you!</string>
+				<key>ar</key>
+				<string>عمل رائع! \n لقد بدأت رحلتك للتو.| شارك تقدمك وألهم الآخرين للانضمام إليك!</string>
+				<key>fr</key>
+				<string>Bravo !\nVous venez de commencer votre parcours.|Partagez vos progrès et inspirez les autres à vous rejoindre !</string>
+				<key>de</key>
+				<string>Gut gemacht!\nDu hast begonnen.|Teile deinen Fortschritt!</string>
+				<key>ru</key>
+				<string>Отлично!\nВы начали путь.|Поделитесь прогрессом!</string>
+				<key>tr</key>
+				<string>Aferin!\nYolculuğa başladın.|İlerlemeni paylaş!</string>
+				<key>it</key>
+				<string>Bravo!\nHai iniziato il percorso.|Condividi i progressi!</string>
+				<key>ur</key>
+				<string>شاباش!\nآپ نے سفر شروع کر دیا ہے۔|اپنی پیشرفت شیئر کریں!</string>
+				<key>nl</key>
+				<string>Goed gedaan!\nJe bent begonnen.|Deel je voortgang!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Just hit my 3-day streak on Quran Majeed! Feels great to get started on this journey. I’m excited to keep going and see where this path takes me. Anyone else on a similar journey? Let’s grow together!
+ #QuranMajeed #SpiritualJourney #StartingStrong</string>
+				<key>ar</key>
+				<string>لقد أكملت مدة ٣ أيام على تطبيق القرآن المجيد! يشعرني هذا بالروعة وأنا متحمس للاستمرار في هذه الرحلة.و أتطلع لمعرفة أين سيأخذني هذا الطريق. هل هناك أحد آخر في رحلة مشابهة؟ لننمو معًا! #القرآن_المجيد #رحلة_روحانية #بداية_قوية</string>
+				<key>fr</key>
+				<string>Je viens d’atteindre 3 jours consécutifs sur Quran Majeed ! Heureux d’avoir commencé ce parcours. Hâte de continuer et voir où cela me mène. Qui est aussi sur ce chemin ? Grandissons ensemble !
+#QuranMajeed #VoyageSpirituel #BonDépart</string>
+				<key>de</key>
+				<string>3 Tage in Folge mit Quran Majeed! Ein starker Start. Wer ist auch dabei?\n#QuranMajeed #SpirituelleReise #StarkerStart</string>
+				<key>ru</key>
+				<string>3 дня подряд с Quran Majeed! Отличное начало. Кто со мной?\n#QuranMajeed #ДуховныйПуть #СильныйСтарт</string>
+				<key>tr</key>
+				<string>Quran Majeed’de 3 gün tamam! Harika başlangıç. Kim benimle?\n#QuranMajeed #ManeviYolculuk #GüçlüBaşlangıç</string>
+				<key>it</key>
+				<string>3 giorni consecutivi con Quran Majeed! Ottimo inizio. Chi è con me?\n#QuranMajeed #PercorsoSpirituale #BuonInizio</string>
+				<key>ur</key>
+				<string>Quran Majeed پر مسلسل 3 دن مکمل! بہترین آغاز۔ کون ساتھ ہے؟\n#QuranMajeed #روحانی_سفر #مضبوط_آغاز</string>
+				<key>nl</key>
+				<string>3 dagen op rij met Quran Majeed! Mooie start. Wie doet mee?\n#QuranMajeed #SpiritueleReis #SterkeStart</string>
+			</dict>
+			<key>sort</key>
+			<integer>16</integer>
+		</dict>
+		<key>streak_10</key>
+		<dict>
+			<key>id</key>
+			<string>streak_10</string>
+			<key>image</key>
+			<string>streak_10</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>10 Days Streak</string>
+				<key>ar</key>
+				<string>10 أيام متتالية</string>
+				<key>fr</key>
+				<string>Série de 10 jours</string>
+				<key>de</key>
+				<string>10-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 10 дней</string>
+				<key>tr</key>
+				<string>10 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 10 Giorni</string>
+				<key>ur</key>
+				<string>10 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>10 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Hats off! \n You&apos;re building great habits.|Share your achievements and encourage your community!</string>
+				<key>ar</key>
+				<string>كل التحية! \n أنت تبني عادات رائعة.| شارك إنجازاتك وشجع مجتمعك!</string>
+				<key>fr</key>
+				<string>Chapeau ! \n Vous créez de belles habitudes.|Partagez vos réussites et encouragez votre communauté !</string>
+				<key>de</key>
+				<string>Respekt!\nDu baust Gewohnheiten auf.|Teile deinen Erfolg!</string>
+				<key>ru</key>
+				<string>Браво!\nВы формируете привычки.|Поделитесь успехом!</string>
+				<key>tr</key>
+				<string>Harika!\nGüzel alışkanlıklar kuruyorsun.|Başarını paylaş!</string>
+				<key>it</key>
+				<string>Complimenti!\nStai creando buone abitudini.|Condividi il successo!</string>
+				<key>ur</key>
+				<string>بہت خوب!\nآپ اچھی عادتیں بنا رہے ہیں۔|کامیابی شیئر کریں!</string>
+				<key>nl</key>
+				<string>Geweldig!\nJe bouwt gewoonten op.|Deel je succes!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>10 days in and already seeing the benefits! It’s not easy, but the progress feels so rewarding. Building good habits one day at a time. Anyone else been consistent? Let’s encourage each other!
+ #10DayStreak #BuildingHabits #QuranMajeed</string>
+				<key>ar</key>
+				<string>١٠ أيام من الاستمرار وأرى بالفعل الفوائد! ليس الأمر سهلًا، لكن التقدم يجعل الأمر يستحق العناء. نبني عادات جيدة يومًا بعد يوم. هل هناك من كان منتظمًا؟ دعونا نشجع بعضنا البعض! #مدة_١٠_أيام #بناء_عادات #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>10 jours déjà ! Ce n’est pas facile, mais les progrès sont gratifiants. Construire de bonnes habitudes jour après jour. Qui reste constant ? Encourageons-nous !
+#10Jours #BonnesHabitudes #QuranMajeed</string>
+				<key>de</key>
+				<string>10 Tage geschafft! Schritt für Schritt stärker.\n#10Tage #QuranMajeed #Gewohnheiten</string>
+				<key>ru</key>
+				<string>10 дней позади! День за днём становлюсь лучше.\n#10Дней #QuranMajeed #Привычки</string>
+				<key>tr</key>
+				<string>10 gün tamam! Gün gün güçleniyorum.\n#10Gün #QuranMajeed #Alışkanlık</string>
+				<key>it</key>
+				<string>10 giorni fatti! Un passo alla volta.\n#10Giorni #QuranMajeed #Abitudini</string>
+				<key>ur</key>
+				<string>10 دن مکمل! روز بروز بہتری۔\n#10دن #QuranMajeed #اچھی_عادت</string>
+				<key>nl</key>
+				<string>10 dagen voltooid! Stap voor stap sterker.\n#10Dagen #QuranMajeed #Gewoonten</string>
+			</dict>
+			<key>sort</key>
+			<integer>15</integer>
+		</dict>
+		<key>streak_30</key>
+		<dict>
+			<key>id</key>
+			<string>streak_30</string>
+			<key>image</key>
+			<string>streak_30</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>30 Days Streak</string>
+				<key>ar</key>
+				<string>30 يومًا متتالية</string>
+				<key>fr</key>
+				<string>Série de 30 jours</string>
+				<key>de</key>
+				<string>30-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 30 дней</string>
+				<key>tr</key>
+				<string>30 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 30 Giorni</string>
+				<key>ur</key>
+				<string>30 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>30 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Nice work! \n A full month of dedication!|Share your success and motivate others to keep going!</string>
+				<key>ar</key>
+				<string>عمل جميل! \n شهر كامل من التفاني!| شارك نجاحك وحفز الآخرين على الاستمرار!</string>
+				<key>fr</key>
+				<string>Beau travail ! \n Un mois complet de dévouement !|Partagez votre réussite et motivez les autres !</string>
+				<key>de</key>
+				<string>Stark!\nEin ganzer Monat.|Motiviere andere!</string>
+				<key>ru</key>
+				<string>Отлично!\nЦелый месяц.|Вдохновляйте других!</string>
+				<key>tr</key>
+				<string>Süper!\nTam bir ay.|Başkalarını motive et!</string>
+				<key>it</key>
+				<string>Ottimo lavoro!\nUn mese intero.|Motiva gli altri!</string>
+				<key>ur</key>
+				<string>ماشاءاللہ!\nایک مہینہ مکمل۔|دوسروں کو حوصلہ دیں!</string>
+				<key>nl</key>
+				<string>Mooi werk!\nEen volle maand.|Inspireer anderen!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>One month done! It’s been 30 days of staying connected and feeling the difference in my life. Alhamdulillah! So thankful for this journey. Can’t wait to keep going and see what’s next. Who else has been with me on this for a month?
+ #30DaysStrong #QuranMajeed #SpiritualGrowth</string>
+				<key>ar</key>
+				<string>لقد أكملت شهرًا! ٣٠ يومًا من البقاء متصلًا أشعر بالفعل بالتغيير في حياتي. الحمد لله! أنا ممتن لهذه الرحلة ولا أطيق الانتظار لمعرفة ما هو التالي. من معي في هذا الشهر؟ #٣٠_يومًا_قوية #القرآن_المجيد #نمو_روحاني</string>
+				<key>fr</key>
+				<string>Un mois accompli ! 30 jours de connexion et de changement positif. Alhamdulillah ! Reconnaissant pour ce parcours. Qui a tenu un mois ?
+#30Jours #QuranMajeed #CroissanceSpirituelle</string>
+				<key>de</key>
+				<string>30 Tage mit Quran Majeed! Alhamdulillah.\n#30Tage #QuranMajeed #Wachstum</string>
+				<key>ru</key>
+				<string>30 дней с Quran Majeed! Альхамдулиллях.\n#30Дней #QuranMajeed #Рост</string>
+				<key>tr</key>
+				<string>30 gün tamam! Elhamdulillah.\n#30Gün #QuranMajeed #ManeviGelişim</string>
+				<key>it</key>
+				<string>30 giorni completati! Alhamdulillah.\n#30Giorni #QuranMajeed #Crescita</string>
+				<key>ur</key>
+				<string>30 دن مکمل! الحمدللہ۔\n#30دن #QuranMajeed #روحانی_ترقی</string>
+				<key>nl</key>
+				<string>30 dagen voltooid! Alhamdulillah.\n#30Dagen #QuranMajeed #Groei</string>
+			</dict>
+			<key>sort</key>
+			<integer>14</integer>
+		</dict>
+		<key>streak_90</key>
+		<dict>
+			<key>id</key>
+			<string>streak_90</string>
+			<key>image</key>
+			<string>streak_90</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>90 Days Streak</string>
+				<key>ar</key>
+				<string>90 يومًا متتالية</string>
+				<key>fr</key>
+				<string>Série de 90 jours</string>
+				<key>de</key>
+				<string>90-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 90 дней</string>
+				<key>tr</key>
+				<string>90 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 90 Giorni</string>
+				<key>ur</key>
+				<string>90 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>90 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Blessings for you! \n Ninety days down, and you&apos;re doing amazing.|Share your journey and celebrate with those who support you!</string>
+				<key>ar</key>
+				<string>بركات لك! \n تسعون يومًا مضت، وأنت تقوم بعمل رائع.| شارك رحلتك واحتفل مع من يدعمونك!</string>
+				<key>fr</key>
+				<string>Bénédictions ! \n 90 jours et toujours fort.|Partagez votre parcours et célébrez !</string>
+				<key>de</key>
+				<string>Segen!\n90 Tage stark.|Feiere deine Reise!</string>
+				<key>ru</key>
+				<string>Благословение!\n90 дней позади.|Отметьте путь!</string>
+				<key>tr</key>
+				<string>Bereketler!\n90 gün tamam.|Yolculuğunu kutla!</string>
+				<key>it</key>
+				<string>Benedizioni!\n90 giorni fatti.|Festeggia il percorso!</string>
+				<key>ur</key>
+				<string>اللہ کی برکت!\n90 دن مکمل۔|اپنا سفر منائیں!</string>
+				<key>nl</key>
+				<string>Zegeningen!\n90 dagen sterk.|Vier je reis!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>90 days in and it’s been such a blessing. I can feel the transformation in my heart. Every day I’m grateful for the strength to stay consistent. Here’s to the next 90! Let’s keep this journey going strong together, everyone!
+ #90DayStreak #BlessedJourney #QuranMajeed</string>
+				<key>ar</key>
+				<string>٩٠ يومًا والحمد لله! لقد كانت نعمة كبيرة. أشعر بالتغيير في قلبي. أشكر الله يوميًا على القوة للاستمرار. ها نحن على الطريق، من معي في هذه الرحلة؟ لنكمل معًا بقوة! #مدة_٩٠_يومًا #رحلة_مباركة #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>90 jours déjà, quelle bénédiction. Je ressens un vrai changement intérieur. Reconnaissant chaque jour. Continuons ensemble !
+#90Jours #ParcoursBéni #QuranMajeed</string>
+				<key>de</key>
+				<string>90 Tage mit Quran Majeed! Ich spüre die Veränderung.\n#90Tage #QuranMajeed #GesegneteReise</string>
+				<key>ru</key>
+				<string>90 дней с Quran Majeed! Чувствую перемены.\n#90Дней #QuranMajeed #БлагословенныйПуть</string>
+				<key>tr</key>
+				<string>90 gün tamam! Değişimi hissediyorum.\n#90Gün #QuranMajeed #BereketliYolculuk</string>
+				<key>it</key>
+				<string>90 giorni con Quran Majeed! Sento il cambiamento.\n#90Giorni #QuranMajeed #PercorsoBenedetto</string>
+				<key>ur</key>
+				<string>90 دن مکمل! دل میں تبدیلی محسوس ہو رہی ہے۔\n#90دن #QuranMajeed #مبارک_سفر</string>
+				<key>nl</key>
+				<string>90 dagen met Quran Majeed! Ik voel de verandering.\n#90Dagen #QuranMajeed #GezegendeReis</string>
+			</dict>
+			<key>sort</key>
+			<integer>13</integer>
+		</dict>
+		<key>streak_180</key>
+		<dict>
+			<key>id</key>
+			<string>streak_180</string>
+			<key>image</key>
+			<string>streak_180</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>180 Days Streak</string>
+				<key>ar</key>
+				<string>180 يومًا متتالية</string>
+				<key>fr</key>
+				<string>Série de 180 jours</string>
+				<key>de</key>
+				<string>180-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 180 дней</string>
+				<key>tr</key>
+				<string>180 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 180 Giorni</string>
+				<key>ur</key>
+				<string>180 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>180 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Good going! \n Six months of commitment and progress.|Share your story and inspire others with your incredible journey!</string>
+				<key>ar</key>
+				<string>عمل جيد! \n ستة أشهر من الالتزام والتقدم.| شارك قصتك وألهم الآخرين برحلتك المدهشة!</string>
+				<key>fr</key>
+				<string>Super ! \n Six mois d’engagement.|Partagez votre histoire et inspirez !</string>
+				<key>de</key>
+				<string>Weiter so!\nSechs Monate Einsatz.|Inspiriere andere!</string>
+				<key>ru</key>
+				<string>Отличный результат!\n6 месяцев.|Вдохновляйте!</string>
+				<key>tr</key>
+				<string>Devam!\nAltı ay kararlılık.|İlham ver!</string>
+				<key>it</key>
+				<string>Avanti così!\nSei mesi di impegno.|Ispira gli altri!</string>
+				<key>ur</key>
+				<string>بہت عمدہ!\nچھ ماہ مکمل۔|دوسروں کو متاثر کریں!</string>
+				<key>nl</key>
+				<string>Ga zo door!\nZes maanden inzet.|Inspireer anderen!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Six months down, 180 days strong! It’s been an incredible journey so far. Some days are tough, but the rewards are worth it. Feeling so blessed to be on this path. Anyone else been on this for half a year? Let’s inspire each other to keep going!
+ #HalfYearMilestone #QuranMajeed #FaithJourney</string>
+				<key>ar</key>
+				<string>ستة أشهر، ١٨٠ يومًا من الالتزام! لقد كانت رحلة رائعة حتى الآن. بعض الأيام صعبة، لكن المكافآت تستحق العناء. أشعر بالامتنان لكوني على هذا الطريق. هل هناك من أكمل نصف سنة؟ دعونا نلهم بعضنا البعض للاستمرار! #نصف_سنة_من_الالتزام #القرآن_المجيد #رحلة_الإيمان</string>
+				<key>fr</key>
+				<string>Six mois, 180 jours ! Un parcours incroyable. Certains jours sont difficiles, mais les récompenses sont grandes. Qui est à mi-année ?
+                    #SixMois #QuranMajeed #Foi</string>
+				<key>de</key>
+				<string>180 Tage stark mit Quran Majeed! Halbjahr geschafft.\n#180Tage #QuranMajeed #Glaube</string>
+				<key>ru</key>
+				<string>180 дней с Quran Majeed! Полгода силы.\n#180Дней #QuranMajeed #Вера</string>
+				<key>tr</key>
+				<string>180 gün tamam! Altı ay istikrar.\n#180Gün #QuranMajeed #İman</string>
+				<key>it</key>
+				<string>180 giorni completati! Sei mesi forti.\n#180Giorni #QuranMajeed #Fede</string>
+				<key>ur</key>
+				<string>180 دن مکمل! نصف سال مضبوطی کے ساتھ۔\n#180دن #QuranMajeed #ایمان</string>
+				<key>nl</key>
+				<string>180 dagen voltooid! Half jaar sterk.\n#180Dagen #QuranMajeed #Geloof</string>
+			</dict>
+			<key>sort</key>
+			<integer>12</integer>
+		</dict>
+		<key>streak_360</key>
+		<dict>
+			<key>id</key>
+			<string>streak_360</string>
+			<key>image</key>
+			<string>streak_360</string>
+			<key>New item</key>
+			<string>365 jours avec Quran Majeed. Alhamdulillah ! Une année d’apprentissage et de foi. Prêt pour une autre année ?
+#UnAn #QuranMajeed #Gratitude</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>360 Days Streak</string>
+				<key>ar</key>
+				<string>360 يومًا متتالية</string>
+				<key>fr</key>
+				<string>Série de 360 jours</string>
+				<key>de</key>
+				<string>360-Tage-Serie</string>
+				<key>ru</key>
+				<string>Серия 360 дней</string>
+				<key>tr</key>
+				<string>360 Günlük Seri</string>
+				<key>it</key>
+				<string>Serie di 360 Giorni</string>
+				<key>ur</key>
+				<string>360 دن کی مسلسل کامیابی</string>
+				<key>nl</key>
+				<string>360 Dagen Reeks</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Congratulations! \n A whole year of persistence and success.|Share your milestone and celebrate with the brothers &amp; sisters!</string>
+				<key>ar</key>
+				<string>تهانينا! \n عام كامل من المثابرة والنجاح.| شارك إنجازك واحتفل مع الإخوة والأخوات!</string>
+				<key>fr</key>
+				<string>Félicitations ! \n Une année complète de constance.|Célébrez avec vos frères et sœurs !</string>
+				<key>de</key>
+				<string>Glückwunsch!\nEin ganzes Jahr.|Feiere mit allen!</string>
+				<key>ru</key>
+				<string>Поздравляем!\nЦелый год.|Празднуйте вместе!</string>
+				<key>tr</key>
+				<string>Tebrikler!\nBir yıl tamam.|Birlikte kutlayın!</string>
+				<key>it</key>
+				<string>Congratulazioni!\nUn anno intero.|Festeggia insieme!</string>
+				<key>ur</key>
+				<string>مبارک ہو!\nایک سال مکمل۔|سب کے ساتھ منائیں!</string>
+				<key>nl</key>
+				<string>Gefeliciteerd!\nEen heel jaar.|Vier samen!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>365 days—one whole year of staying consistent with Quran Majeed. Alhamdulillah for the strength and motivation to keep going! It’s been a year of learning, growing, and strengthening my faith. I’m so grateful for this journey. Who’s with me for another year of growth?
+ #OneYearStrong #QuranMajeed #GratefulHeart</string>
+				<key>ar</key>
+				<string>٣٦٠ يومًا - عام كامل من الالتزام بتطبيق القرآن المجيد! الحمد لله على القوة والدافع للاستمرار. كان عامًا من التعلم والنمو وتعزيز الإيمان. أنا ممتن جدًا لهذه الرحلة. من معي في عام جديد من النمو؟ #عام_من_القوة #القرآن_المجيد #قلب_شاكر</string>
+				<key>fr</key>
+				<string>365 jours avec Quran Majeed. Alhamdulillah ! Une année d’apprentissage et de foi. Prêt pour une autre année ?
+#UnAn #QuranMajeed #Gratitude</string>
+				<key>de</key>
+				<string>365 Tage mit Quran Majeed! Alhamdulillah für ein Jahr Beständigkeit.\n#EinJahr #QuranMajeed #Dankbar</string>
+				<key>ru</key>
+				<string>365 дней с Quran Majeed! Альхамдулиллях за этот год.\n#1Год #QuranMajeed #Благодарность</string>
+				<key>tr</key>
+				<string>365 gün Quran Majeed ile! Elhamdulillah.\n#1Yıl #QuranMajeed #Şükür</string>
+				<key>it</key>
+				<string>365 giorni con Quran Majeed! Alhamdulillah.\n#1Anno #QuranMajeed #Gratitudine</string>
+				<key>ur</key>
+				<string>365 دن Quran Majeed کے ساتھ! الحمدللہ۔\n#1سال #QuranMajeed #شکرگزاری</string>
+				<key>nl</key>
+				<string>365 dagen met Quran Majeed! Alhamdulillah.\n#1Jaar #QuranMajeed #Dankbaar</string>
+			</dict>
+			<key>sort</key>
+			<integer>11</integer>
+		</dict>
+		<key>kahf</key>
+		<dict>
+			<key>id</key>
+			<string>kahf</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Al-Kahf Memorized</string>
+				<key>ar</key>
+				<string>سورة الكهف محفوظة</string>
+				<key>fr</key>
+				<string>Sourate Al-Kahf mémorisée</string>
+				<key>de</key>
+				<string>Sure Al-Kahf gelernt</string>
+				<key>ru</key>
+				<string>Сура Аль-Кахф выучена</string>
+				<key>tr</key>
+				<string>Kehf Suresi Ezberlendi</string>
+				<key>it</key>
+				<string>Sura Al-Kahf memorizzata</string>
+				<key>ur</key>
+				<string>سورۃ الکہف حفظ</string>
+				<key>nl</key>
+				<string>Soera Al-Kahf gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Alhamdulillah!  \n You&apos;ve memorized Surah Kahf.|Share this light with others and inspire them on Fridays!</string>
+				<key>ar</key>
+				<string>الحمد لله! \n لقد حفظت سورة الكهف.| شارك هذا النور مع الآخرين وألهمهم في يوم الجمعة!</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! \n Vous avez mémorisé Al-Kahf.|Partagez cette lumière !</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nDu hast Al-Kahf gelernt.|Teile dieses Licht!</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nВы выучили Аль-Кахф.|Поделитесь этим светом!</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nKehf Suresi tamamlandı.|Bu nuru paylaş!</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nHai memorizzato Al-Kahf.|Condividi questa luce!</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nآپ نے سورۃ الکہف یاد کر لی۔|یہ نور دوسروں تک پہنچائیں!</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nAl-Kahf geleerd.|Deel dit licht!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Alhamdulillah! I’ve memorized Surah Kahf. It feels amazing to have this Surah in my heart, especially with Friday approaching. May it light my path and inspire others. Who else is memorizing Surah Kahf?
+ #SurahKahf #FridayBlessings #QuranMajeed</string>
+				<key>ar</key>
+				<string>الحمد لله! لقد حفظت سورة الكهف. يشعرني هذا بالسعادة لوجود هذه السورة في قلبي، خاصة مع اقتراب يوم الجمعة. أسأل الله أن ينير طريقي. من يعمل على حفظ سورة الكهف أيضًا؟ #سورة_الكهف #بركات_الجمعة #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! J’ai mémorisé Al-Kahf. Une lumière surtout avant vendredi. Qui la mémorise aussi ?
+#AlKahf #Vendredi #QuranMajeed</string>
+				<key>de</key>
+				<string>Alhamdulillah! Ich habe Sure Al-Kahf auswendig gelernt. Möge sie mein Licht am Freitag sein.\n#SurahKahf #QuranMajeed #FreitagsSegen</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Я выучил(а) Суру Аль-Кахф. Пусть она станет светом в пятницу.\n#SurahKahf #QuranMajeed #ПятничноеБлагословение</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Kehf Suresi’ni ezberledim. Cuma günü için bir nur olsun.\n#SurahKahf #QuranMajeed #CumaBereketi</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho memorizzato la Sura Al-Kahf. Che sia luce nel venerdì.\n#SurahKahf #QuranMajeed #BenedizioneVenerdì</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے سورۃ الکہف حفظ کر لی۔ یہ جمعہ کے لیے میرے لیے نور بنے۔\n#SurahKahf #QuranMajeed #جمعہ_کی_برکت</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Ik heb Soera Al-Kahf gememoriseerd. Moge het licht zijn op vrijdag.\n#SurahKahf #QuranMajeed #VrijdagZegen</string>
+			</dict>
+			<key>sort</key>
+			<integer>10</integer>
+		</dict>
+		<key>rahman</key>
+		<dict>
+			<key>id</key>
+			<string>rahman</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Ar-Rahman Memorized</string>
+				<key>ar</key>
+				<string>سورة الرحمن محفوظة</string>
+				<key>fr</key>
+				<string>Sourate Ar-Rahman mémorisée</string>
+				<key>de</key>
+				<string>Sure Ar-Rahman gelernt</string>
+				<key>ru</key>
+				<string>Сура Ар-Рахман выучена</string>
+				<key>tr</key>
+				<string>Rahman Suresi Ezberlendi</string>
+				<key>it</key>
+				<string>Sura Ar-Rahman memorizzata</string>
+				<key>ur</key>
+				<string>سورۃ الرحمن حفظ</string>
+				<key>nl</key>
+				<string>Soera Ar-Rahman gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Alhamdulillah! \n You&apos;ve completed Surah Rahman, the most compassionate.|Share your achievement and remind others of Allah&apos;s countless blessings.</string>
+				<key>ar</key>
+				<string>الحمد لله! \n لقد أكملت سورة الرحمن، أرحم الراحمين.| شارك إنجازك وذكر الآخرين بنعم الله التي لا تحصى.</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! \n Vous avez complété Ar-Rahman.|Rappelez les bienfaits d’Allah.</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nDu hast Ar-Rahman vollendet.|Erinnere an Allahs Gaben!</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nВы завершили Ар-Рахман.|Помните о милости Аллаха!</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nRahman tamamlandı.|Allah’ın nimetlerini hatırla!</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nHai completato Ar-Rahman.|Ricorda le benedizioni!</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nآپ نے سورۃ الرحمن مکمل کر لی۔|اللہ کی نعمتوں کو یاد رکھیں!</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nAr-Rahman voltooid.|Herinner aan zegeningen!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Just memorized Surah Rahman. Alhamdulillah! It’s such a beautiful Surah full of mercy and blessings. Reminding myself every day of Allah’s countless gifts. Anyone else working on Surah Rahman? Let’s share this beautiful journey!
+ #SurahRahman #Blessings #QuranMajeed</string>
+				<key>ar</key>
+				<string>لقد حفظت سورة الرحمن! الحمد لله. إنها سورة جميلة مليئة بالرحمة والبركات. تذكرني يوميًا بنعم الله الكثيرة. من يعمل على سورة الرحمن أيضًا؟ دعونا نتشارك في هذه الرحلة الجميلة! #سورة_الرحمن #النعم #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>Je viens de mémoriser Ar-Rahman. Magnifique sourate pleine de miséricorde. Qui la mémorise aussi ?
+#ArRahman #Bénédictions #QuranMajeed</string>
+				<key>de</key>
+				<string>Alhamdulillah! Ich habe Sure Ar-Rahman vollendet. Eine Erinnerung an Allahs unzählige Gaben.\n#SurahRahman #QuranMajeed #Dankbarkeit</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Я завершил(а) Суру Ар-Рахман. Напоминание о бесчисленных дарах Аллаха.\n#SurahRahman #QuranMajeed #Благодарность</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Rahman Suresi tamamlandı. Allah’ın sayısız nimetlerini hatırlıyorum.\n#SurahRahman #QuranMajeed #Şükür</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho completato Ar-Rahman. Un ricordo delle infinite benedizioni di Allah.\n#SurahRahman #QuranMajeed #Gratitudine</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے سورۃ الرحمن مکمل کر لی۔ اللہ کی بے شمار نعمتوں کی یاد دہانی۔\n#SurahRahman #QuranMajeed #شکرگزاری</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Ik heb Soera Ar-Rahman voltooid. Een herinnering aan Allah’s talloze zegeningen.\n#SurahRahman #QuranMajeed #Dankbaarheid</string>
+			</dict>
+			<key>sort</key>
+			<integer>9</integer>
+		</dict>
+		<key>mulk</key>
+		<dict>
+			<key>id</key>
+			<string>mulk</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Al-Mulk Memorized</string>
+				<key>ar</key>
+				<string>سورة الملك محفوظة</string>
+				<key>fr</key>
+				<string>Sourate Al-Mulk mémorisée</string>
+				<key>de</key>
+				<string>Sure Al-Mulk gelernt</string>
+				<key>ru</key>
+				<string>Сура Аль-Мульк выучена</string>
+				<key>tr</key>
+				<string>Mülk Suresi Ezberlendi</string>
+				<key>it</key>
+				<string>Sura Al-Mulk memorizzata</string>
+				<key>ur</key>
+				<string>سورۃ الملک حفظ</string>
+				<key>nl</key>
+				<string>Soera Al-Mulk gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Congratulations on memorizing Surah Mulk! \n May it protect you always.|Share this milestone and motivate others to seek its blessings.</string>
+				<key>ar</key>
+				<string>تهانينا على حفظ سورة الملك! \n أسأل الله أن يحفظك بها دائمًا.|شارك هذا الإنجاز وحفز الآخرين للسعي وراء بركاتها.</string>
+				<key>fr</key>
+				<string>Alhamdulillah !\nSourate Al-Mulk complétée.|Qu’elle soit une protection.</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nSure Al-Mulk vollendet.|Möge sie Schutz sein.</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nСура Аль-Мульк завершена.|Пусть станет защитой.</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nMülk tamamlandı.|Koruyucu olsun.</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nAl-Mulk completata.|Che sia protezione.</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nسورۃ الملک مکمل۔|یہ حفاظت بنے۔</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nAl-Mulk voltooid.|Moge het bescherming zijn.</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Mulk is officially in my heart! Alhamdulillah for this Surah that brings protection. It’s so rewarding to know that I have this in my life now. Who else has memorized it? Let’s encourage each other to keep learning!
+ #SurahMulk #QuranMajeed #Blessed</string>
+				<key>ar</key>
+				<string>سورة الملك في قلبي الآن! الحمد لله. إنها سورة تحمل الحماية، ويشعرني هذا بالرضا لوجودها في حياتي. من حفظها أيضًا؟ دعونا نشجع بعضنا البعض على التعلم! #سورة_الملك #القرآن_المجيد #مباركة</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! J’ai mémorisé la Sourate Al-Mulk. Qu’elle soit une protection pour moi.\n#SurahMulk #QuranMajeed #Protection</string>
+				<key>de</key>
+				<string>Alhamdulillah! Ich habe Sure Al-Mulk gelernt. Möge sie Schutz sein.\n#SurahMulk #QuranMajeed #Schutz</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Я выучил(а) Суру Аль-Мульк. Пусть она станет защитой.\n#SurahMulk #QuranMajeed #Защита</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Mülk Suresi’ni ezberledim. Koruyucu olsun.\n#SurahMulk #QuranMajeed #Koruma</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho memorizzato la Sura Al-Mulk. Che sia protezione.\n#SurahMulk #QuranMajeed #Protezione</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے سورۃ الملک حفظ کر لی۔ یہ میرے لیے حفاظت بنے۔\n#SurahMulk #QuranMajeed #حفاظت</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Ik heb Soera Al-Mulk gememoriseerd. Moge het bescherming zijn.\n#SurahMulk #QuranMajeed #Bescherming</string>
+			</dict>
+			<key>sort</key>
+			<integer>8</integer>
+		</dict>
+		<key>waqia</key>
+		<dict>
+			<key>id</key>
+			<string>waqia</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Al-Waqia Memorized</string>
+				<key>ar</key>
+				<string>سورة الواقعة محفوظة</string>
+				<key>fr</key>
+				<string>Sourate Al-Waqia mémorisée</string>
+				<key>de</key>
+				<string>Sure Al-Waqia gelernt</string>
+				<key>ru</key>
+				<string>Сура Аль-Вакиа выучена</string>
+				<key>tr</key>
+				<string>Vakıa Suresi Ezberlendi</string>
+				<key>it</key>
+				<string>Sura Al-Waqia memorizzata</string>
+				<key>ur</key>
+				<string>سورۃ الواقعہ حفظ</string>
+				<key>nl</key>
+				<string>Soera Al-Waqia gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Well done! \n Surah Al-Waqia is now part of your heart.|Share this achievement and encourage others to pursue the Surah of blessings and provision.</string>
+				<key>ar</key>
+				<string>عمل رائع! \n سورة الواقعة أصبحت الآن جزءًا من قلبك.| شارك هذا الإنجاز وشجع الآخرين على حفظ سورة البركة والرزق.</string>
+				<key>fr</key>
+				<string>Alhamdulillah !\nSourate Al-Waqia complétée.|Source de bénédictions.</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nSure Al-Waqia vollendet.|Quelle des Segens.</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nСура Аль-Вакиа завершена.|Источник благословений.</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nVakıa tamamlandı.|Bereket kaynağı.</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nAl-Waqia completata.|Fonte di benedizioni.</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nسورۃ الواقعہ مکمل۔|برکت کا ذریعہ۔</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nAl-Waqia voltooid.|Bron van zegeningen.</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Al-Waqia is complete! It feels amazing to have memorized this Surah—so full of blessings and guidance. Alhamdulillah for the strength to keep going. Anyone else memorizing Surah Al-Waqia? Let’s keep encouraging each other!
+ #SurahAlWaqia #Blessings #QuranMajeed</string>
+				<key>ar</key>
+				<string>سورة الواقعة اكتملت! إنه شعور رائع أن أحفظ هذه السورة—المليئة بالبركات والهداية. الحمد لله على القوة التي جعلتني أستمر. هل هناك أحد آخر يحفظ سورة الواقعة؟ لنستمر في تشجيع بعضنا البعض! #سورة_الواقعة #بركات #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! J’ai mémorisé la Sourate Al-Waqia.\n#SurahWaqia #QuranMajeed #Bénédictions</string>
+				<key>de</key>
+				<string>Alhamdulillah! Sure Al-Waqia gelernt.\n#SurahWaqia #QuranMajeed #Segen</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Сура Аль-Вакиа выучена.\n#SurahWaqia #QuranMajeed #Благословение</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Vakıa Suresi’ni ezberledim.\n#SurahWaqia #QuranMajeed #Bereket</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho memorizzato Al-Waqia.\n#SurahWaqia #QuranMajeed #Benedizioni</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے سورۃ الواقعہ حفظ کر لی۔\n#SurahWaqia #QuranMajeed #برکت</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Soera Al-Waqia gememoriseerd.\n#SurahWaqia #QuranMajeed #Zegeningen</string>
+			</dict>
+			<key>sort</key>
+			<integer>7</integer>
+		</dict>
+		<key>last_surahs</key>
+		<dict>
+			<key>id</key>
+			<string>last_surahs</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Last 10 Surahs Memorized</string>
+				<key>ar</key>
+				<string>آخر 10 سور محفوظة</string>
+				<key>fr</key>
+				<string>Dernières Sourates mémorisées</string>
+				<key>de</key>
+				<string>Letzte Suren gelernt</string>
+				<key>ru</key>
+				<string>Последние суры выучены</string>
+				<key>tr</key>
+				<string>Son Sureler Ezberlendi</string>
+				<key>it</key>
+				<string>Ultime Sure memorizzate</string>
+				<key>ur</key>
+				<string>آخری سورتیں حفظ</string>
+				<key>nl</key>
+				<string>Laatste Soera’s Gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Congratulations on memorizing the last 10 Surahs!|Share this shining achievement and light the way for others in their spiritual journey.</string>
+				<key>ar</key>
+				<string>تهانينا على حفظ آخر 10 سور! \n شارك هذا الإنجاز الباهر وأضئ الطريق للآخرين في رحلتهم الروحية.</string>
+				<key>fr</key>
+				<string>Alhamdulillah !\nDernières sourates complétées.|Continuez ainsi !</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nLetzte Suren geschafft.|Mach weiter!</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nПоследние суры завершены.|Продолжайте!</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nSon sureler tamamlandı.|Devam et!</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nUltime sure completate.|Continua così!</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nآخری سورتیں مکمل۔|جاری رکھیں!</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nLaatste soera’s voltooid.|Ga zo door!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Alhamdulillah! I’ve memorized the last 10 Surahs of the Quran. It’s been such a beautiful journey, and I’m so grateful to have this part of the Quran in my heart. May these Surahs light my path. Who’s with me on this one?
+ #Last10Surahs #QuranMajeed #SpiritualJourney</string>
+				<key>ar</key>
+				<string>الحمد لله! لقد أكملت حفظ آخر ١٠ سور من القرآن. لقد كانت رحلة جميلة، وأنا ممتن لوجود هذه السور في قلبي. أسأل الله أن تنير طريقي. من معي في هذا؟ #آخر_١٠_سور #القرآن_المجيد #رحلة_روحانية</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! J’ai mémorisé les dernières sourates du Coran.\n#QuranMajeed #Hifz #Foi</string>
+				<key>de</key>
+				<string>Alhamdulillah! Die letzten Suren gelernt.\n#QuranMajeed #Hifz #Glaube</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Последние суры выучены.\n#QuranMajeed #Хифз #Вера</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Son sureleri ezberledim.\n#QuranMajeed #Hıfz #İman</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho memorizzato le ultime sure.\n#QuranMajeed #Hifz #Fede</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے آخری سورتیں حفظ کر لیں۔\n#QuranMajeed #حفظ #ایمان</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Laatste soera’s gememoriseerd.\n#QuranMajeed #Hifz #Geloof</string>
+			</dict>
+			<key>sort</key>
+			<integer>6</integer>
+		</dict>
+		<key>yasin</key>
+		<dict>
+			<key>id</key>
+			<string>yasin</string>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Surah Ya-Seen Memorized</string>
+				<key>ar</key>
+				<string>سورة يس محفوظة</string>
+				<key>fr</key>
+				<string>Sourate Yasin mémorisée</string>
+				<key>de</key>
+				<string>Sure Yasin gelernt</string>
+				<key>ru</key>
+				<string>Сура Ясин выучена</string>
+				<key>tr</key>
+				<string>Yasin Suresi Ezberlendi</string>
+				<key>it</key>
+				<string>Sura Yasin memorizzata</string>
+				<key>ur</key>
+				<string>سورۃ یٰسین حفظ</string>
+				<key>nl</key>
+				<string>Soera Yasin gememoriseerd</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>MashaAllah! \n You&apos;ve memorized the heart of the Quran, Surah Yasin.|Share this accomplishment and inspire others to connect deeply with the Quran.</string>
+				<key>ar</key>
+				<string>ما شاء الله! \n لقد حفظت قلب القرآن، سورة يس.| شارك هذا الإنجاز وألهم الآخرين للتواصل بعمق مع القرآن الكريم.</string>
+				<key>fr</key>
+				<string>Alhamdulillah !\nSourate Yasin complétée.|Partagez cette lumière !</string>
+				<key>de</key>
+				<string>Alhamdulillah!\nSure Yasin vollendet.|Teile dieses Licht!</string>
+				<key>ru</key>
+				<string>Альхамдулиллях!\nСура Ясин завершена.|Поделитесь светом!</string>
+				<key>tr</key>
+				<string>Elhamdulillah!\nYasin tamamlandı.|Bu nuru paylaş!</string>
+				<key>it</key>
+				<string>Alhamdulillah!\nYasin completata.|Condividi questa luce!</string>
+				<key>ur</key>
+				<string>الحمدللہ!\nسورۃ یٰسین مکمل۔|یہ نور شیئر کریں!</string>
+				<key>nl</key>
+				<string>Alhamdulillah!\nYasin voltooid.|Deel dit licht!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>MashaAllah! I’ve memorized Surah Yasin—the heart of the Quran. Feeling so blessed to carry this Surah with me. Surah Yasin has such a deep connection to our lives. Anyone else working on it?
+ #SurahYasin #HeartOfTheQuran #QuranMajeed</string>
+				<key>ar</key>
+				<string>ما شاء الله! لقد حفظت سورة يس - قلب القرآن. أشعر بالبركة لحفظ هذه السورة الجميلة. إنها تحمل ارتباطًا عميقًا بحياتنا. من يعمل على حفظ سورة يس؟ #سورة_يس #قلب_القرآن #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>Alhamdulillah ! J’ai mémorisé la Sourate Yasin.\n#SurahYasin #QuranMajeed #Bénédiction</string>
+				<key>de</key>
+				<string>Alhamdulillah! Sure Yasin gelernt.\n#SurahYasin #QuranMajeed #Segen</string>
+				<key>ru</key>
+				<string>Альхамдулиллях! Сура Ясин выучена.\n#SurahYasin #QuranMajeed #Благословение</string>
+				<key>tr</key>
+				<string>Elhamdulillah! Yasin Suresi’ni ezberledim.\n#SurahYasin #QuranMajeed #Bereket</string>
+				<key>it</key>
+				<string>Alhamdulillah! Ho memorizzato Yasin.\n#SurahYasin #QuranMajeed #Benedizione</string>
+				<key>ur</key>
+				<string>الحمدللہ! میں نے سورۃ یٰسین حفظ کر لی۔\n#SurahYasin #QuranMajeed #برکت</string>
+				<key>nl</key>
+				<string>Alhamdulillah! Soera Yasin gememoriseerd.\n#SurahYasin #QuranMajeed #Zegen</string>
+			</dict>
+			<key>sort</key>
+			<integer>5</integer>
+		</dict>
+		<key>first_achievement</key>
+		<dict>
+			<key>id</key>
+			<string>first_achievement</string>
+			<key>image</key>
+			<string>first_achievement</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Sharing My First Achievement</string>
+				<key>ar</key>
+				<string>مشاركة أول إنجاز لي</string>
+				<key>fr</key>
+				<string>Premier accomplissement</string>
+				<key>de</key>
+				<string>Erster Erfolg</string>
+				<key>ru</key>
+				<string>Первое достижение</string>
+				<key>tr</key>
+				<string>İlk Başarı</string>
+				<key>it</key>
+				<string>Primo Traguardo</string>
+				<key>ur</key>
+				<string>پہلا کارنامہ</string>
+				<key>nl</key>
+				<string>Eerste Prestatie</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Congratulations on sharing your first achievement!|Keep motivating others by sharing your progress and encouraging them to strive for their goals. </string>
+				<key>ar</key>
+				<string>تهانينا على مشاركة إنجازك الأول! \n استمر في تحفيز الآخرين من خلال مشاركة تقدمك وتشجيعهم على السعي نحو أهدافهم.</string>
+				<key>fr</key>
+				<string>Bravo !\nVotre premier pas est franchi.|Continuez ainsi !</string>
+				<key>de</key>
+				<string>Super!\nErster Schritt geschafft.|Mach weiter!</string>
+				<key>ru</key>
+				<string>Отлично!\nПервый шаг сделан.|Продолжайте!</string>
+				<key>tr</key>
+				<string>Harika!\nİlk adım tamam.|Devam et!</string>
+				<key>it</key>
+				<string>Ottimo!\nPrimo passo fatto.|Continua!</string>
+				<key>ur</key>
+				<string>بہت خوب!\nپہلا قدم مکمل۔|جاری رکھیں!</string>
+				<key>nl</key>
+				<string>Goed gedaan!\nEerste stap gezet.|Ga zo door!</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Just shared my first achievement on Quran Majeed! It feels so good to celebrate these milestones and motivate myself to keep going. Here’s to more achievements to come! Anyone else sharing their first big moment? Let’s keep it going!
+ #AchievementUnlocked #Motivation #QuranMajeed</string>
+				<key>ar</key>
+				<string>لقد شاركت أول إنجاز لي في تطبيق القرآن المجيد! يشعرني هذا بالسعادة للاحتفال بهذه الإنجازات وتحفيز نفسي للاستمرار. ها نحن على الطريق، هل يشارك أحد إنجازه الأول؟ لنستمر معًا! #إنجاز_مفتوح #تحفيز #القرآن_المجيد</string>
+				<key>fr</key>
+				<string>Je viens de débloquer mon premier accomplissement sur Quran Majeed !\n#QuranMajeed #NouvelleÉtape</string>
+				<key>de</key>
+				<string>Mein erster Erfolg auf Quran Majeed ist freigeschaltet!\n#QuranMajeed #Erfolg</string>
+				<key>ru</key>
+				<string>Моё первое достижение в Quran Majeed разблокировано!\n#QuranMajeed #Достижение</string>
+				<key>tr</key>
+				<string>Quran Majeed’de ilk başarımı tamamladım!\n#QuranMajeed #Başarı</string>
+				<key>it</key>
+				<string>Ho sbloccato il mio primo traguardo su Quran Majeed!\n#QuranMajeed #Successo</string>
+				<key>ur</key>
+				<string>میں نے Quran Majeed پر اپنا پہلا کارنامہ مکمل کیا!\n#QuranMajeed #کامیابی</string>
+				<key>nl</key>
+				<string>Mijn eerste prestatie op Quran Majeed behaald!\n#QuranMajeed #Prestatie</string>
+			</dict>
+			<key>sort</key>
+			<integer>3</integer>
+		</dict>
+		<key>e-card</key>
+		<dict>
+			<key>id</key>
+			<string>e-card</string>
+			<key>image</key>
+			<string>messages_icon</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>Shared E-Card with Friends</string>
+				<key>ar</key>
+				<string>تمت مشاركة البطاقة الإلكترونية مع الأصدقاء</string>
+				<key>fr</key>
+				<string>Première E-Card envoyée</string>
+				<key>de</key>
+				<string>Erste E-Card geteilt</string>
+				<key>ru</key>
+				<string>Первая E-Card отправлена</string>
+				<key>tr</key>
+				<string>İlk E-Kart Paylaşıldı</string>
+				<key>it</key>
+				<string>Prima E-Card condivisa</string>
+				<key>ur</key>
+				<string>پہلا ای کارڈ شیئر کیا</string>
+				<key>nl</key>
+				<string>Eerste E-Card gedeeld</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>|Spread the joy and inspire others by sharing heartfelt messages with your loved ones.</string>
+				<key>ar</key>
+				<string>|انشر الفرح وألهم الآخرين بمشاركة رسائل نابعة من القلب مع أحبائك.</string>
+				<key>fr</key>
+				<string>Bravo !\nVotre première E-Card est envoyée.|Continuez à inspirer.</string>
+				<key>de</key>
+				<string>Super!\nErste E-Card gesendet.|Inspiriere weiter.</string>
+				<key>ru</key>
+				<string>Отлично!\nПервая E-Card отправлена.|Вдохновляйте дальше.</string>
+				<key>tr</key>
+				<string>Harika!\nİlk E-Kart gönderildi.|İlham vermeye devam et.</string>
+				<key>it</key>
+				<string>Ottimo!\nPrima E-Card inviata.|Continua a ispirare.</string>
+				<key>ur</key>
+				<string>بہت خوب!\nپہلا ای کارڈ بھیج دیا۔|حوصلہ افزائی جاری رکھیں۔</string>
+				<key>nl</key>
+				<string>Goed gedaan!\nEerste E-Card verzonden.|Blijf inspireren.</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Just sent an e-card to a friend with a Quranic message. It feels amazing to spread positivity and inspire others. Anyone else sharing these beautiful messages? Let’s spread the joy!
+ #ShareTheJoy #QuranMajeed #Inspiration</string>
+				<key>ar</key>
+				<string>لقد أرسلت بطاقة إلكترونية لصديق برسالة قرآنية. يشعرني هذا بالسعادة لنشر الإيجابية وإلهام الآخرين. هل يشارك أحد هذه الرسائل الجميلة؟ لننشر البهجة! #شارك_البهجة #القرآن_المجيد #إلهام</string>
+				<key>fr</key>
+				<string>Je viens de partager ma première E-Card sur Quran Majeed !\n#QuranMajeed #Inspiration</string>
+				<key>de</key>
+				<string>Meine erste E-Card auf Quran Majeed geteilt!\n#QuranMajeed #Inspiration</string>
+				<key>ru</key>
+				<string>Я поделился(ась) первой E-Card в Quran Majeed!\n#QuranMajeed #Вдохновение</string>
+				<key>tr</key>
+				<string>Quran Majeed’de ilk E-Kartımı paylaştım!\n#QuranMajeed #İlham</string>
+				<key>it</key>
+				<string>Ho condiviso la mia prima E-Card su Quran Majeed!\n#QuranMajeed #Ispirazione</string>
+				<key>ur</key>
+				<string>میں نے Quran Majeed پر اپنا پہلا ای کارڈ شیئر کیا!\n#QuranMajeed #حوصلہ</string>
+				<key>nl</key>
+				<string>Mijn eerste E-Card gedeeld op Quran Majeed!\n#QuranMajeed #Inspiratie</string>
+			</dict>
+			<key>sort</key>
+			<integer>2</integer>
+		</dict>
+		<key>unlock_all_features</key>
+		<dict>
+			<key>id</key>
+			<string>unlock_all_features</string>
+			<key>image</key>
+			<string>read-quran-pro</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>All Features Unlocked</string>
+				<key>ar</key>
+				<string>جميع الميزات مفتوحة</string>
+				<key>fr</key>
+				<string>Toutes les fonctionnalités débloquées</string>
+				<key>de</key>
+				<string>Alle Funktionen freigeschaltet</string>
+				<key>ru</key>
+				<string>Все функции разблокированы</string>
+				<key>tr</key>
+				<string>Tüm Özellikler Açıldı</string>
+				<key>it</key>
+				<string>Tutte le funzioni sbloccate</string>
+				<key>ur</key>
+				<string>تمام فیچرز ان لاک</string>
+				<key>nl</key>
+				<string>Alle functies ontgrendeld</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Unlock a world of exclusive features.|Experience the best we have to offer without any commitment. Don&apos;t miss out on this opportunity!</string>
+				<key>ar</key>
+				<string>افتح عالمًا من الميزات الحصرية. \n جرب أفضل ما نقدمه بدون أي التزام. لا تفوت هذه الفرصة!</string>
+				<key>fr</key>
+				<string>Félicitations !\nAccès complet activé.|Profitez pleinement.</string>
+				<key>de</key>
+				<string>Glückwunsch!\nVoller Zugriff aktiviert.|Genieße alles.</string>
+				<key>ru</key>
+				<string>Поздравляем!\nПолный доступ открыт.|Наслаждайтесь.</string>
+				<key>tr</key>
+				<string>Tebrikler!\nTam erişim açıldı.|Keyfini çıkar.</string>
+				<key>it</key>
+				<string>Congratulazioni!\nAccesso completo attivo.|Goditi tutto.</string>
+				<key>ur</key>
+				<string>مبارک ہو!\nمکمل رسائی فعال۔|پورا فائدہ اٹھائیں۔</string>
+				<key>nl</key>
+				<string>Gefeliciteerd!\nVolledige toegang actief.|Geniet ervan.</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Unlocked all the features on Quran Majeed! Loving the experience so far—there’s so much to explore. If you haven’t unlocked them yet, you’re missing out! Let’s make the most of this and keep growing.
+ #UnlockAllFeatures #QuranMajeed #BestExperience</string>
+				<key>ar</key>
+				<string>لقد قمت بفتح جميع الميزات في تطبيق القرآن المجيد! أستمتع بالتجربة حتى الآن - هناك الكثير للاستكشاف. إذا لم تفتحها بعد، ستفوت الكثير! دعونا نستفيد منها ونستمر في النمو. #افتح_جميع_الميزات #القرآن_المجيد #أفضل_تجربة</string>
+				<key>fr</key>
+				<string>J’ai débloqué toutes les fonctionnalités de Quran Majeed !\n#QuranMajeed #Premium</string>
+				<key>de</key>
+				<string>Alle Funktionen von Quran Majeed freigeschaltet!\n#QuranMajeed #Premium</string>
+				<key>ru</key>
+				<string>Все функции Quran Majeed разблокированы!\n#QuranMajeed #Premium</string>
+				<key>tr</key>
+				<string>Quran Majeed’in tüm özelliklerini açtım!\n#QuranMajeed #Premium</string>
+				<key>it</key>
+				<string>Ho sbloccato tutte le funzioni di Quran Majeed!\n#QuranMajeed #Premium</string>
+				<key>ur</key>
+				<string>میں نے Quran Majeed کے تمام فیچرز ان لاک کر لیے!\n#QuranMajeed #Premium</string>
+				<key>nl</key>
+				<string>Alle functies van Quran Majeed ontgrendeld!\n#QuranMajeed #Premium</string>
+			</dict>
+			<key>sort</key>
+			<integer>2</integer>
+			<key>one_time</key>
+			<true/>
+		</dict>
+		<key>set_tahajjud</key>
+		<dict>
+			<key>id</key>
+			<string>set_tahajjud</string>
+			<key>image</key>
+			<string>set_tahajud</string>
+			<key>names</key>
+			<dict>
+				<key>en</key>
+				<string>First Tahajjud Alarm Set</string>
+				<key>ar</key>
+				<string>تم ضبط أول منبه لقيام الليل</string>
+				<key>fr</key>
+				<string>Première alarme Tahajjud</string>
+				<key>de</key>
+				<string>Erster Tahajjud-Alarm</string>
+				<key>ru</key>
+				<string>Первый будильник Тахаджуд</string>
+				<key>tr</key>
+				<string>İlk Teheccüd Alarmı</string>
+				<key>it</key>
+				<string>Prima sveglia Tahajjud</string>
+				<key>ur</key>
+				<string>پہلا تہجد الارم</string>
+				<key>nl</key>
+				<string>Eerste Tahajjud-alarm</string>
+			</dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>|Spread the joy and inspire others by sharing heartfelt messages with your loved ones.</string>
+				<key>ar</key>
+				<string>|انشر الفرح وألهم الآخرين بمشاركة رسائل نابعة من القلب مع أحبائك.</string>
+				<key>fr</key>
+				<string>Magnifique !\nAlarme Tahajjud activée.|Restez constant.</string>
+				<key>de</key>
+				<string>Wunderbar!\nTahajjud-Alarm gesetzt.|Bleib beständig.</string>
+				<key>ru</key>
+				<string>Прекрасно!\nБудильник Тахаджуд установлен.|Будьте постоянны.</string>
+				<key>tr</key>
+				<string>Harika!\nTeheccüd alarmı kuruldu.|İstikrarlı ol.</string>
+				<key>it</key>
+				<string>Magnifico!\nSveglia Tahajjud attivata.|Sii costante.</string>
+				<key>ur</key>
+				<string>ماشاءاللہ!\nتہجد الارم لگا دیا۔|استقامت رکھیں۔</string>
+				<key>nl</key>
+				<string>Prachtig!\nTahajjud-alarm ingesteld.|Blijf volhouden.</string>
+			</dict>
+			<key>share_texts</key>
+			<dict>
+				<key>en</key>
+				<string>Just set my Tahajjud alarm to wake up and connect with my Creator in the stillness of the night. There’s nothing more peaceful than these precious moments of prayer and reflection. Who else is joining me in this beautiful act of devotion? Let’s make it a habit and inspire each other to grow spiritually.#TahajjudTime #SpiritualGrowth #QuranMajeed #NightPrayer</string>
+				<key>ar</key>
+				<string>لقد ضبطت منبه التهجد لأستيقظ وأتواصل مع خالقي في هدوء الليل، لا شيء أكثر سلامًا من هذه اللحظات الثمينة من الصلاة والتأمل. من سينضم إلي في هذا العمل الجميل من العبادة؟ لنجعلها عادة ونُلهم بعضنا البعض للنمو الروحي. #وقت_التهجد #النمو_الروحي #القرآن_المجيد #صلاة_الليل</string>
+				<key>fr</key>
+				<string>Je viens de programmer mon alarme Tahajjud avec Quran Majeed.\n#Tahajjud #QuranMajeed #NuitDePrière</string>
+				<key>de</key>
+				<string>Mein Tahajjud-Alarm mit Quran Majeed ist eingestellt.\n#Tahajjud #QuranMajeed #Nachtgebet</string>
+				<key>ru</key>
+				<string>Я установил(а) будильник Тахаджуд в Quran Majeed.\n#Tahajjud #QuranMajeed #НочнаяМолитва</string>
+				<key>tr</key>
+				<string>Quran Majeed ile Teheccüd alarmımı kurdum.\n#Tahajjud #QuranMajeed #GeceNamazı</string>
+				<key>it</key>
+				<string>Ho impostato la sveglia Tahajjud con Quran Majeed.\n#Tahajjud #QuranMajeed #PreghieraNotturna</string>
+				<key>ur</key>
+				<string>میں نے Quran Majeed میں تہجد کا الارم لگا دیا۔\n#Tahajjud #QuranMajeed #نماز_شب</string>
+				<key>nl</key>
+				<string>Ik heb mijn Tahajjud-alarm ingesteld met Quran Majeed.\n#Tahajjud #QuranMajeed #Nachtgebed</string>
+			</dict>
+			<key>sort</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>Quests</key>
+	<dict>
+		<key>q_daily_streak</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Daily Streak</string>
+				<key>ar</key>
+				<string>سلسلة يومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>daily_streak</string>
+			<key>sort</key>
+			<integer>12</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_daily_streak</string>
+			<key>repeat</key>
+			<true/>
+		</dict>
+		<key>q_daily_quran</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Spend 10 min in Quran Majeed App</string>
+				<key>ar</key>
+				<string>اقضِ 10 دقائق في تطبيق القرآن المجيد</string>
+				<key>fr</key>
+				<string>Passez 10 min sur Quran Majeed</string>
+				<key>de</key>
+				<string>10 Min. in Quran Majeed verbringen</string>
+				<key>ru</key>
+				<string>Проведите 10 мин в Quran Majeed</string>
+				<key>tr</key>
+				<string>Quran Majeed’de 10 dk geçir</string>
+				<key>it</key>
+				<string>Trascorri 10 min su Quran Majeed</string>
+				<key>ur</key>
+				<string>Quran Majeed میں 10 منٹ گزاریں</string>
+				<key>nl</key>
+				<string>Breng 10 min door in Quran Majeed</string>
+			</dict>
+			<key>image</key>
+			<string>quran_daily</string>
+			<key>sort</key>
+			<integer>11</integer>
+			<key>total_value</key>
+			<integer>10</integer>
+			<key>progress_value_key</key>
+			<string>q_daily_quran</string>
+			<key>repeat</key>
+			<true/>
+		</dict>
+		<key>q_share_aya</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Daily Ayah Sharing</string>
+				<key>ar</key>
+				<string>مشاركة آية يومية</string>
+				<key>fr</key>
+				<string>Partage quotidien d’Ayah</string>
+				<key>de</key>
+				<string>Tägliches Ayah-Teilen</string>
+				<key>ru</key>
+				<string>Ежедневный обмен аятом</string>
+				<key>tr</key>
+				<string>Günlük Ayet Paylaşımı</string>
+				<key>it</key>
+				<string>Condivisione quotidiana di Ayah</string>
+				<key>ur</key>
+				<string>روزانہ آیت شیئر کریں</string>
+				<key>nl</key>
+				<string>Dagelijkse Ayah-deling</string>
+			</dict>
+			<key>image</key>
+			<string>share_aya</string>
+			<key>goto</key>
+			<string>FlowViewController</string>
+			<key>sort</key>
+			<integer>10</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_share_aya</string>
+			<key>repeat</key>
+			<true/>
+		</dict>
+		<key>q_daily_3</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Daily Memorizing - 3 Aya</string>
+				<key>ar</key>
+				<string>حفظ يومي - 3 آيات</string>
+				<key>fr</key>
+				<string>Mémorisation quotidienne - 3 Ayahs</string>
+				<key>de</key>
+				<string>Tägliches Auswendiglernen - 3 Ayahs</string>
+				<key>ru</key>
+				<string>Ежедневное заучивание - 3 аята</string>
+				<key>tr</key>
+				<string>Günlük Ezber - 3 Ayet</string>
+				<key>it</key>
+				<string>Memorizzazione quotidiana - 3 Ayah</string>
+				<key>ur</key>
+				<string>روزانہ حفظ - 3 آیات</string>
+				<key>nl</key>
+				<string>Dagelijks memoriseren - 3 Ayahs</string>
+			</dict>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>9</integer>
+			<key>total_value</key>
+			<integer>3</integer>
+			<key>progress_value_key</key>
+			<string>q_daily_3</string>
+			<key>repeat</key>
+			<true/>
+		</dict>
+		<key>q_add_bookmark</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Add New Bookmark</string>
+				<key>ar</key>
+				<string>أضف إشارة مرجعية جديدة</string>
+				<key>fr</key>
+				<string>Ajouter un nouveau favori</string>
+				<key>de</key>
+				<string>Neues Lesezeichen hinzufügen</string>
+				<key>ru</key>
+				<string>Добавить новую закладку</string>
+				<key>tr</key>
+				<string>Yeni Yer İmi Ekle</string>
+				<key>it</key>
+				<string>Aggiungi nuovo segnalibro</string>
+				<key>ur</key>
+				<string>نیا بک مارک شامل کریں</string>
+				<key>nl</key>
+				<string>Nieuwe bladwijzer toevoegen</string>
+			</dict>
+			<key>image</key>
+			<string>fav-empty-70</string>
+			<key>goto</key>
+			<string>FlowViewController</string>
+			<key>sort</key>
+			<integer>8</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_add_bookmark</string>
+			<key>repeat</key>
+			<false/>
+		</dict>
+		<key>q_daily_new_reciter</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Try a New Reciter Today</string>
+				<key>ar</key>
+				<string>جرب قارئًا جديدًا اليوم</string>
+				<key>fr</key>
+				<string>Essayez un nouveau récitateur</string>
+				<key>de</key>
+				<string>Heute neuen Rezitator ausprobieren</string>
+				<key>ru</key>
+				<string>Попробуйте нового чтеца</string>
+				<key>tr</key>
+				<string>Yeni bir Kâri dene</string>
+				<key>it</key>
+				<string>Prova un nuovo recitatore</string>
+				<key>ur</key>
+				<string>آج نیا قاری آزمائیں</string>
+				<key>nl</key>
+				<string>Probeer een nieuwe recitator</string>
+			</dict>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>goto</key>
+			<string>Dashboard</string>
+			<key>sort</key>
+			<integer>7</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_daily_new_reciter</string>
+			<key>repeat</key>
+			<true/>
+		</dict>
+		<key>q_try_tasbeeh</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Try Tasbeeh Feature</string>
+				<key>ar</key>
+				<string>جرب ميزة التسبيح</string>
+				<key>fr</key>
+				<string>Essayez la fonction Tasbeeh</string>
+				<key>de</key>
+				<string>Tasbeeh-Funktion ausprobieren</string>
+				<key>ru</key>
+				<string>Попробуйте функцию Тасбих</string>
+				<key>tr</key>
+				<string>Tesbih özelliğini dene</string>
+				<key>it</key>
+				<string>Prova la funzione Tasbeeh</string>
+				<key>ur</key>
+				<string>تسبیح فیچر آزمائیں</string>
+				<key>nl</key>
+				<string>Probeer de Tasbeeh-functie</string>
+			</dict>
+			<key>image</key>
+			<string>tasbeeh_icon</string>
+			<key>goto</key>
+			<string>Tasbeeh</string>
+			<key>sort</key>
+			<integer>6</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_try_tasbeeh</string>
+			<key>repeat</key>
+			<false/>
+		</dict>
+		<key>q_try_theme</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Try a New Theme</string>
+				<key>ar</key>
+				<string>جرب سمة جديدة</string>
+				<key>fr</key>
+				<string>Essayez un nouveau thème</string>
+				<key>de</key>
+				<string>Neues Design ausprobieren</string>
+				<key>ru</key>
+				<string>Попробуйте новую тему</string>
+				<key>tr</key>
+				<string>Yeni tema dene</string>
+				<key>it</key>
+				<string>Prova un nuovo tema</string>
+				<key>ur</key>
+				<string>نیا تھیم آزمائیں</string>
+				<key>nl</key>
+				<string>Probeer een nieuw thema</string>
+			</dict>
+			<key>image</key>
+			<string>d-Emerald</string>
+			<key>goto</key>
+			<string>Dashboard</string>
+			<key>sort</key>
+			<integer>5</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_try_theme</string>
+			<key>repeat</key>
+			<false/>
+		</dict>
+		<key>q_m_first_aya</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Memorize your first Aya</string>
+				<key>ar</key>
+				<string>احفظ أول آية لك</string>
+				<key>fr</key>
+				<string>Mémorisez votre première Ayah</string>
+				<key>de</key>
+				<string>Deine erste Ayah lernen</string>
+				<key>ru</key>
+				<string>Выучите свой первый аят</string>
+				<key>tr</key>
+				<string>İlk ayetini ezberle</string>
+				<key>it</key>
+				<string>Memorizza la tua prima Ayah</string>
+				<key>ur</key>
+				<string>اپنی پہلی آیت حفظ کریں</string>
+				<key>nl</key>
+				<string>Memoriseer je eerste Ayah</string>
+			</dict>
+			<key>image</key>
+			<string>read-quran</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>4</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_m_first_aya</string>
+			<key>repeat</key>
+			<false/>
+		</dict>
+		<key>q_explore_duas</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Explore 5 duas and mark your favorite</string>
+				<key>ar</key>
+				<string>استكشف 5 أدعية وحدد المفضلة لديك</string>
+				<key>fr</key>
+				<string>Explorez 5 duas et choisissez votre favori</string>
+				<key>de</key>
+				<string>5 Duas erkunden und Favorit wählen</string>
+				<key>ru</key>
+				<string>Изучите 5 дуа и выберите любимую</string>
+				<key>tr</key>
+				<string>5 dua keşfet ve favorini seç</string>
+				<key>it</key>
+				<string>Esplora 5 duas e scegli la tua preferita</string>
+				<key>ur</key>
+				<string>5 دعائیں دیکھیں اور پسندیدہ منتخب کریں</string>
+				<key>nl</key>
+				<string>Ontdek 5 dua’s en kies je favoriet</string>
+			</dict>
+			<key>image</key>
+			<string>alldua</string>
+			<key>goto</key>
+			<string>Duas</string>
+			<key>sort</key>
+			<integer>3</integer>
+			<key>total_value</key>
+			<integer>5</integer>
+			<key>progress_value_key</key>
+			<string>q_explore_duas</string>
+			<key>repeat</key>
+			<false/>
+		</dict>
+		<key>q_share_e-card</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Share your first E-Card</string>
+				<key>ar</key>
+				<string>شارك أول بطاقتك الإلكترونية</string>
+				<key>fr</key>
+				<string>Partagez votre première E-Card</string>
+				<key>de</key>
+				<string>Teile deine erste E-Card</string>
+				<key>ru</key>
+				<string>Поделитесь первой E-Card</string>
+				<key>tr</key>
+				<string>İlk E-Kartını paylaş</string>
+				<key>it</key>
+				<string>Condividi la tua prima E-Card</string>
+				<key>ur</key>
+				<string>اپنا پہلا ای کارڈ شیئر کریں</string>
+				<key>nl</key>
+				<string>Deel je eerste E-Card</string>
+			</dict>
+			<key>image</key>
+			<string>messages_icon</string>
+			<key>goto</key>
+			<string>E-card</string>
+			<key>sort</key>
+			<integer>2</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_share_e-card</string>
+			<key>repeat</key>
+			<false/>
+			<key>badge_id</key>
+			<string>e-card</string>
+		</dict>
+		<key>q_set_tahajjud</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Set Tahajjud Alarm</string>
+				<key>ar</key>
+				<string>اضبط منبه التهجد</string>
+				<key>fr</key>
+				<string>Régler l’alarme Tahajjud</string>
+				<key>de</key>
+				<string>Tahajjud-Alarm einstellen</string>
+				<key>ru</key>
+				<string>Установить будильник Тахаджуд</string>
+				<key>tr</key>
+				<string>Teheccüd alarmı ayarla</string>
+				<key>it</key>
+				<string>Imposta sveglia Tahajjud</string>
+				<key>ur</key>
+				<string>تہجد الارم سیٹ کریں</string>
+				<key>nl</key>
+				<string>Stel Tahajjud-alarm in</string>
+			</dict>
+			<key>image</key>
+			<string>set_tahajud</string>
+			<key>goto</key>
+			<string>Alarm</string>
+			<key>sort</key>
+			<integer>1</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_set_tahajjud</string>
+			<key>repeat</key>
+			<false/>
+			<key>badge_id</key>
+			<string>set_tahajjud</string>
+		</dict>
+		<key>q_m_surah_kahf</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>110</integer>
+			<key>progress_value_key</key>
+			<string>q_m_surah_kahf</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>18</integer>
+			<key>badge_id</key>
+			<string>kahf</string>
+		</dict>
+		<key>q_m_surah_rahman</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>78</integer>
+			<key>progress_value_key</key>
+			<string>q_m_surah_rahman</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>55</integer>
+			<key>badge_id</key>
+			<string>rahman</string>
+		</dict>
+		<key>q_m_surah_mulk</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>30</integer>
+			<key>progress_value_key</key>
+			<string>q_m_surah_mulk</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>67</integer>
+			<key>badge_id</key>
+			<string>mulk</string>
+		</dict>
+		<key>q_m_surah_waqia</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>96</integer>
+			<key>progress_value_key</key>
+			<string>q_m_surah_waqia</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>56</integer>
+			<key>badge_id</key>
+			<string>waqia</string>
+		</dict>
+		<key>q_m_surah_yasin</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>83</integer>
+			<key>progress_value_key</key>
+			<string>q_m_surah_yasin</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>36</integer>
+			<key>badge_id</key>
+			<string>yasin</string>
+		</dict>
+		<key>q_m_last_surahs</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>daily_streak</string>
+				<key>ar</key>
+				<string>السلسلة اليومية</string>
+				<key>fr</key>
+				<string>Série quotidienne</string>
+				<key>de</key>
+				<string>Tägliche Serie</string>
+				<key>ru</key>
+				<string>Ежедневная серия</string>
+				<key>tr</key>
+				<string>Günlük Seri</string>
+				<key>it</key>
+				<string>Serie Giornaliera</string>
+				<key>ur</key>
+				<string>روزانہ سلسلہ</string>
+				<key>nl</key>
+				<string>Dagelijkse Reeks</string>
+			</dict>
+			<key>image</key>
+			<string>share_qm_app</string>
+			<key>goto</key>
+			<string>iHifz</string>
+			<key>sort</key>
+			<integer>13</integer>
+			<key>total_value</key>
+			<integer>10</integer>
+			<key>progress_value_key</key>
+			<string>q_m_last_surahs</string>
+			<key>repeat</key>
+			<false/>
+			<key>iSura</key>
+			<integer>105</integer>
+			<key>badge_id</key>
+			<string>last_surahs</string>
+		</dict>
+		<key>q_share_first</key>
+		<dict>
+			<key>titles</key>
+			<dict>
+				<key>en</key>
+				<string>Share Your First Achievement</string>
+				<key>ar</key>
+				<string>شارك أول إنجاز لك</string>
+				<key>fr</key>
+				<string>Partagez votre premier accomplissement</string>
+				<key>de</key>
+				<string>Teile deinen ersten Erfolg</string>
+				<key>ru</key>
+				<string>Поделитесь первым достижением</string>
+				<key>tr</key>
+				<string>İlk başarını paylaş</string>
+				<key>it</key>
+				<string>Condividi il tuo primo traguardo</string>
+				<key>ur</key>
+				<string>اپنا پہلا کارنامہ شیئر کریں</string>
+				<key>nl</key>
+				<string>Deel je eerste prestatie</string>
+			</dict>
+			<key>image</key>
+			<string>first_achievement</string>
+			<key>sort</key>
+			<integer>10</integer>
+			<key>total_value</key>
+			<integer>1</integer>
+			<key>progress_value_key</key>
+			<string>q_share_first</string>
+			<key>repeat</key>
+			<false/>
+			<key>badge_id</key>
+			<string>first_achievement</string>
+		</dict>
+	</dict>
+	<key>NotificationJourney</key>
+	<dict>
+		<key>day1</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Start Your Quran Journey!</string>
+					<key>ar</key>
+					<string>ابدأ رحلتك مع القرآن!</string>
+					<key>fr</key>
+					<string>Commencez votre voyage coranique !</string>
+					<key>de</key>
+					<string>Starte deine Quran-Reise!</string>
+					<key>ru</key>
+					<string>Начните свой путь с Кораном!</string>
+					<key>tr</key>
+					<string>Kur’an yolculuğuna başla!</string>
+					<key>it</key>
+					<string>Inizia il tuo viaggio con il Corano!</string>
+					<key>ur</key>
+					<string>اپنا قرآن کا سفر شروع کریں!</string>
+					<key>nl</key>
+					<string>Begin je Koran-reis!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check-in today and build your Imaan with Quran Majeed.</string>
+					<key>ar</key>
+					<string>قم بتسجيل الدخول اليوم واجعل إيمانك في نمو مع القرآن المجيد.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui et renforcez votre foi avec Quran Majeed.</string>
+					<key>de</key>
+					<string>Checke heute ein und stärke deinen Imaan mit Quran Majeed.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня и укрепите свой иман с Quran Majeed.</string>
+					<key>tr</key>
+					<string>Bugün giriş yap ve Quran Majeed ile imanını güçlendir.</string>
+					<key>it</key>
+					<string>Accedi oggi e rafforza la tua fede con Quran Majeed.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں اور Quran Majeed کے ساتھ اپنے ایمان کو مضبوط بنائیں۔</string>
+					<key>nl</key>
+					<string>Check vandaag in en versterk je geloof met Quran Majeed.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string></string>
+					<key>ar</key>
+					<string></string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>ar</key>
+					<string></string>
+					<key>en</key>
+					<string></string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day2</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don&apos;t forget!</string>
+					<key>ar</key>
+					<string>لا تنسَ!</string>
+					<key>fr</key>
+					<string>N&apos;oubliez pas !</string>
+					<key>de</key>
+					<string>Nicht vergessen!</string>
+					<key>ru</key>
+					<string>Не забудьте!</string>
+					<key>tr</key>
+					<string>Unutma!</string>
+					<key>it</key>
+					<string>Non dimenticare!</string>
+					<key>ur</key>
+					<string>مت بھولیں!</string>
+					<key>nl</key>
+					<string>Vergeet niet!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time to check-in today. Keep up your habit &amp; stay connected with Allah!</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول اليوم. استمر في عادتك وابقَ متصلاً بالله!</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer aujourd’hui. Continuez &amp; restez connecté à Allah !</string>
+					<key>de</key>
+					<string>Es ist noch Zeit für dein Check-in heute. Bleib dran &amp; verbunden mit Allah!</string>
+					<key>ru</key>
+					<string>Ещё есть время отметиться сегодня. Продолжайте &amp; оставайтесь близки к Аллаху!</string>
+					<key>tr</key>
+					<string>Bugün giriş yapmak için hâlâ zaman var. Devam et &amp; Allah’a bağlı kal!</string>
+					<key>it</key>
+					<string>C’è ancora tempo per accedere oggi. Continua &amp; resta vicino ad Allah!</string>
+					<key>ur</key>
+					<string>آج بھی چیک اِن کا وقت ہے۔ جاری رکھیں &amp; اللہ سے جڑے رہیں!</string>
+					<key>nl</key>
+					<string>Er is nog tijd om vandaag in te checken. Blijf doorgaan &amp; verbonden met Allah!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Looks like the day ended.</string>
+					<key>ar</key>
+					<string>يبدو أن اليوم انتهى.</string>
+					<key>fr</key>
+					<string>La journée est terminée.</string>
+					<key>de</key>
+					<string>Der Tag ist vorbei.</string>
+					<key>ru</key>
+					<string>День завершён.</string>
+					<key>tr</key>
+					<string>Gün sona erdi.</string>
+					<key>it</key>
+					<string>La giornata è finita.</string>
+					<key>ur</key>
+					<string>دن ختم ہو گیا۔</string>
+					<key>nl</key>
+					<string>De dag is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Start fresh tomorrow and rebuild your streak. You can do it!</string>
+					<key>ar</key>
+					<string>ابدأ من جديد غدًا وأعد بناء تسلسلك. يمكنك فعلها!</string>
+					<key>fr</key>
+					<string>Recommencez demain et reconstruisez votre série. Vous pouvez le faire !</string>
+					<key>de</key>
+					<string>Starte morgen neu und baue deine Serie wieder auf. Du schaffst das!</string>
+					<key>ru</key>
+					<string>Начните заново завтра и восстановите серию. У вас получится!</string>
+					<key>tr</key>
+					<string>Yarın yeniden başla ve serini oluştur. Başarabilirsin!</string>
+					<key>it</key>
+					<string>Ricominciate domani e ricostruite la vostra serie. Potete farcela!</string>
+					<key>ur</key>
+					<string>کل دوبارہ شروع کریں اور اپنی سلسلہ بحال کریں۔ آپ کر سکتے ہیں!</string>
+					<key>nl</key>
+					<string>Begin morgen opnieuw en bouw je reeks weer op. Je kunt het!</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day3</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep going!</string>
+					<key>ar</key>
+					<string>استمر!</string>
+					<key>fr</key>
+					<string>Continuez !</string>
+					<key>de</key>
+					<string>Mach weiter!</string>
+					<key>ru</key>
+					<string>Продолжайте!</string>
+					<key>tr</key>
+					<string>Devam et!</string>
+					<key>it</key>
+					<string>Continua!</string>
+					<key>ur</key>
+					<string>جاری رکھیں!</string>
+					<key>nl</key>
+					<string>Ga door!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time to check in today. Don’t break your streak!</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول اليوم. لا تقطع تسلسلك!</string>
+					<key>fr</key>
+					<string>Il est encore temps aujourd’hui. Ne cassez pas votre série !</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit. Unterbrich deine Serie nicht!</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время. Не прерывайте серию!</string>
+					<key>tr</key>
+					<string>Bugün hâlâ zaman var. Serini bozma!</string>
+					<key>it</key>
+					<string>C’è ancora tempo oggi. Non interrompere la tua serie!</string>
+					<key>ur</key>
+					<string>آج بھی وقت ہے۔ اپنی سلسلہ مت توڑیں!</string>
+					<key>nl</key>
+					<string>Er is nog tijd vandaag. Breek je reeks niet!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed today? No worries! </string>
+					<key>ar</key>
+					<string>فات اليوم؟ لا داعي للقلق!</string>
+					<key>fr</key>
+					<string>Manqué aujourd’hui ?</string>
+					<key>de</key>
+					<string>Heute verpasst?</string>
+					<key>ru</key>
+					<string>Пропустили сегодня?</string>
+					<key>tr</key>
+					<string>Bugünü kaçırdın mı?</string>
+					<key>it</key>
+					<string>Perso oggi?</string>
+					<key>ur</key>
+					<string>آج رہ گیا؟</string>
+					<key>nl</key>
+					<string>Vandaag gemist?</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Tomorrow is a new opportunity to restart your journey.</string>
+					<key>ar</key>
+					<string>غدًا هو فرصة جديدة لبدء رحلتك من جديد.</string>
+					<key>fr</key>
+					<string>Demain est une nouvelle opportunité pour recommencer.</string>
+					<key>de</key>
+					<string>Morgen ist eine neue Chance neu zu starten.</string>
+					<key>ru</key>
+					<string>Завтра — новая возможность начать заново.</string>
+					<key>tr</key>
+					<string>Yarın yeniden başlamak için yeni bir fırsat.</string>
+					<key>it</key>
+					<string>Domani è una nuova opportunità per ricominciare.</string>
+					<key>ur</key>
+					<string>کل ایک نئی شروعات کا موقع ہے۔</string>
+					<key>nl</key>
+					<string>Morgen is een nieuwe kans om opnieuw te beginnen.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day4</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>You&apos;re doing great!</string>
+					<key>ar</key>
+					<string>أنت تقوم بعمل رائع!</string>
+					<key>fr</key>
+					<string>Vous faites du bon travail !</string>
+					<key>de</key>
+					<string>Du machst das großartig!</string>
+					<key>ru</key>
+					<string>Вы отлично справляетесь!</string>
+					<key>tr</key>
+					<string>Harika gidiyorsun!</string>
+					<key>it</key>
+					<string>Stai andando alla grande!</string>
+					<key>ur</key>
+					<string>آپ بہت اچھا کر رہے ہیں!</string>
+					<key>nl</key>
+					<string>Je doet het geweldig!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Make sure to check in before the day ends to keep your streak alive.</string>
+					<key>ar</key>
+					<string>تأكد من تسجيل الدخول قبل انتهاء اليوم للحفاظ على سلسلة تقدمك.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous avant la fin de la journée pour garder votre série active.</string>
+					<key>de</key>
+					<string>Checke vor Tagesende ein, um deine Serie am Leben zu halten.</string>
+					<key>ru</key>
+					<string>Отметьтесь до конца дня, чтобы сохранить серию.</string>
+					<key>tr</key>
+					<string>Gün bitmeden giriş yap ve serini canlı tut.</string>
+					<key>it</key>
+					<string>Accedi prima della fine della giornata per mantenere la serie.</string>
+					<key>ur</key>
+					<string>دن ختم ہونے سے پہلے چیک اِن کریں تاکہ آپ کی سلسلہ برقرار رہے۔</string>
+					<key>nl</key>
+					<string>Check in vóór het einde van de dag om je reeks levend te houden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The day is done!</string>
+					<key>ar</key>
+					<string>لقد انتهى اليوم!</string>
+					<key>fr</key>
+					<string>La journée est finie !</string>
+					<key>de</key>
+					<string>Der Tag ist vorbei!</string>
+					<key>ru</key>
+					<string>День завершён!</string>
+					<key>tr</key>
+					<string>Gün sona erdi!</string>
+					<key>it</key>
+					<string>La giornata è conclusa!</string>
+					<key>ur</key>
+					<string>دن ختم ہو گیا!</string>
+					<key>nl</key>
+					<string>De dag is voorbij!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Restart tomorrow and keep growing!</string>
+					<key>ar</key>
+					<string>ابدأ من جديد غدًا واستمر في النمو!</string>
+					<key>fr</key>
+					<string>Recommencez demain et continuez à grandir !</string>
+					<key>de</key>
+					<string>Starte morgen neu und wachse weiter!</string>
+					<key>ru</key>
+					<string>Начните завтра заново и продолжайте расти!</string>
+					<key>tr</key>
+					<string>Yarın yeniden başla ve büyümeye devam et!</string>
+					<key>it</key>
+					<string>Ricominciate domani e continuate a crescere!</string>
+					<key>ur</key>
+					<string>کل دوبارہ شروع کریں اور ترقی جاری رکھیں!</string>
+					<key>nl</key>
+					<string>Begin morgen opnieuw en blijf groeien!</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day5</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Stay on track!</string>
+					<key>ar</key>
+					<string>ابق على المسار!</string>
+					<key>fr</key>
+					<string>Restez sur la bonne voie !</string>
+					<key>de</key>
+					<string>Bleib auf Kurs!</string>
+					<key>ru</key>
+					<string>Оставайтесь на пути!</string>
+					<key>tr</key>
+					<string>Yolunda kal!</string>
+					<key>it</key>
+					<string>Rimani sulla giusta strada!</string>
+					<key>ur</key>
+					<string>صحیح راستے پر قائم رہیں!</string>
+					<key>nl</key>
+					<string>Blijf op koers!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There’s still time to check in today. Keep pushing forward!</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول اليوم. استمر في التقدم!</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer aujourd’hui. Continuez d’avancer !</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit für dein Check-in. Mach weiter!</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время отметиться. Продолжайте двигаться вперёд!</string>
+					<key>tr</key>
+					<string>Bugün hâlâ zaman var. İlerlemeye devam et!</string>
+					<key>it</key>
+					<string>C’è ancora tempo oggi. Continua ad andare avanti!</string>
+					<key>ur</key>
+					<string>آج بھی وقت ہے چیک اِن کا۔ آگے بڑھتے رہیں!</string>
+					<key>nl</key>
+					<string>Er is nog tijd vandaag. Blijf vooruitgaan!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Today’s check-in was missed.</string>
+					<key>ar</key>
+					<string>فات تسجيل الدخول اليوم.</string>
+					<key>fr</key>
+					<string>Check-in manqué aujourd’hui.</string>
+					<key>de</key>
+					<string>Heute kein Check-in.</string>
+					<key>ru</key>
+					<string>Сегодня отметка пропущена.</string>
+					<key>tr</key>
+					<string>Bugünkü giriş kaçırıldı.</string>
+					<key>it</key>
+					<string>Check-in perso oggi.</string>
+					<key>ur</key>
+					<string>آج چیک اِن رہ گیا۔</string>
+					<key>nl</key>
+					<string>Vandaag niet ingecheckt.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Tomorrow is a chance to get back on track.</string>
+					<key>ar</key>
+					<string>غدًا فرصة للعودة إلى المسار الصحيح.</string>
+					<key>fr</key>
+					<string>Demain est une nouvelle chance de revenir sur la bonne voie.</string>
+					<key>de</key>
+					<string>Morgen ist eine neue Chance, zurück auf Kurs zu kommen.</string>
+					<key>ru</key>
+					<string>Завтра новый шанс вернуться на путь.</string>
+					<key>tr</key>
+					<string>Yarın tekrar yola dönmek için yeni bir fırsat.</string>
+					<key>it</key>
+					<string>Domani è una nuova occasione per tornare sulla strada giusta.</string>
+					<key>ur</key>
+					<string>کل دوبارہ صحیح راستے پر آنے کا موقع ہے۔</string>
+					<key>nl</key>
+					<string>Morgen is een nieuwe kans om terug op koers te komen.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day6</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t lose steam now!</string>
+					<key>ar</key>
+					<string>لا تفقد حماسك الآن!</string>
+					<key>fr</key>
+					<string>Ne perdez pas votre élan !</string>
+					<key>de</key>
+					<string>Verliere jetzt nicht den Schwung!</string>
+					<key>ru</key>
+					<string>Не теряйте настрой!</string>
+					<key>tr</key>
+					<string>Şimdi hızını kaybetme!</string>
+					<key>it</key>
+					<string>Non perdere lo slancio!</string>
+					<key>ur</key>
+					<string>اب رفتار کم نہ کریں!</string>
+					<key>nl</key>
+					<string>Verlies je momentum niet!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time to check in and keep your streak going strong.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول والحفاظ على سلسلة تقدمك قوية.</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer et de garder votre série forte.</string>
+					<key>de</key>
+					<string>Es ist noch Zeit einzuchecken und deine Serie stark zu halten.</string>
+					<key>ru</key>
+					<string>Ещё есть время отметиться и сохранить серию.</string>
+					<key>tr</key>
+					<string>Hâlâ giriş yapabilir ve serini güçlü tutabilirsin.</string>
+					<key>it</key>
+					<string>C’è ancora tempo per accedere e mantenere forte la tua serie.</string>
+					<key>ur</key>
+					<string>ابھی بھی چیک اِن کا وقت ہے اور اپنی سلسلہ مضبوط رکھیں۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd om in te checken en je reeks sterk te houden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The day is over.</string>
+					<key>ar</key>
+					<string>انتهى اليوم.</string>
+					<key>fr</key>
+					<string>La journée est terminée.</string>
+					<key>de</key>
+					<string>Der Tag ist vorbei.</string>
+					<key>ru</key>
+					<string>День завершён.</string>
+					<key>tr</key>
+					<string>Gün sona erdi.</string>
+					<key>it</key>
+					<string>La giornata è finita.</string>
+					<key>ur</key>
+					<string>دن ختم ہو گیا۔</string>
+					<key>nl</key>
+					<string>De dag is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Your journey can still continue. Restart your streak tomorrow.</string>
+					<key>ar</key>
+					<string>رحلتك لا تزال مستمرة. ابدأ سلسلة تقدمك من جديد غدًا.</string>
+					<key>fr</key>
+					<string>Votre parcours continue. Recommencez votre série demain.</string>
+					<key>de</key>
+					<string>Deine Reise geht weiter. Starte morgen neu.</string>
+					<key>ru</key>
+					<string>Ваш путь продолжается. Начните серию завтра.</string>
+					<key>tr</key>
+					<string>Yolculuğun devam ediyor. Yarın yeniden başla.</string>
+					<key>it</key>
+					<string>Il tuo percorso continua. Ricomincia domani.</string>
+					<key>ur</key>
+					<string>آپ کا سفر جاری ہے۔ کل دوبارہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Je reis gaat door. Begin morgen opnieuw.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day7</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Almost there!</string>
+					<key>ar</key>
+					<string>تقريبًا هناك!</string>
+					<key>fr</key>
+					<string>Vous y êtes presque !</string>
+					<key>de</key>
+					<string>Fast geschafft!</string>
+					<key>ru</key>
+					<string>Почти получилось!</string>
+					<key>tr</key>
+					<string>Neredeyse başardın!</string>
+					<key>it</key>
+					<string>Ci sei quasi!</string>
+					<key>ur</key>
+					<string>تقریباً پہنچ گئے!</string>
+					<key>nl</key>
+					<string>Bijna daar!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t forget to check in today and complete your week-long streak.</string>
+					<key>ar</key>
+					<string>لا تنسَ تسجيل الدخول اليوم وإكمال سلسلة أسبوعك.</string>
+					<key>fr</key>
+					<string>N’oubliez pas de vous enregistrer aujourd’hui pour compléter votre semaine.</string>
+					<key>de</key>
+					<string>Vergiss nicht heute einzuchecken und deine Woche zu vollenden.</string>
+					<key>ru</key>
+					<string>Не забудьте отметиться сегодня и завершить неделю.</string>
+					<key>tr</key>
+					<string>Bugün giriş yap ve haftalık serini tamamla.</string>
+					<key>it</key>
+					<string>Accedi oggi per completare la tua settimana.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں اور اپنا ہفتہ مکمل کریں۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je week te voltooien.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>A new day is a new chance.</string>
+					<key>ar</key>
+					<string>يوم جديد هو فرصة جديدة.</string>
+					<key>fr</key>
+					<string>Un nouveau jour, une nouvelle chance.</string>
+					<key>de</key>
+					<string>Ein neuer Tag, neue Chance.</string>
+					<key>ru</key>
+					<string>Новый день — новый шанс.</string>
+					<key>tr</key>
+					<string>Yeni gün, yeni fırsat.</string>
+					<key>it</key>
+					<string>Un nuovo giorno, una nuova opportunità.</string>
+					<key>ur</key>
+					<string>نیا دن، نیا موقع۔</string>
+					<key>nl</key>
+					<string>Een nieuwe dag, een nieuwe kans.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Restart tomorrow and aim for a full week of connection!</string>
+					<key>ar</key>
+					<string>ابدأ من جديد غدًا بهدف التواصل لأسبوع كامل!</string>
+					<key>fr</key>
+					<string>Recommencez demain et visez une semaine complète !</string>
+					<key>de</key>
+					<string>Starte morgen neu und ziele auf eine volle Woche!</string>
+					<key>ru</key>
+					<string>Начните завтра и стремитесь к полной неделе!</string>
+					<key>tr</key>
+					<string>Yarın yeniden başla ve tam haftayı hedefle!</string>
+					<key>it</key>
+					<string>Ricominciate domani e puntate a una settimana completa!</string>
+					<key>ur</key>
+					<string>کل دوبارہ شروع کریں اور مکمل ہفتے کا ہدف رکھیں!</string>
+					<key>nl</key>
+					<string>Begin morgen opnieuw en ga voor een volle week!</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day8</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep it up!</string>
+					<key>ar</key>
+					<string>واصل العمل الجيد!</string>
+					<key>fr</key>
+					<string>Continuez ainsi !</string>
+					<key>de</key>
+					<string>Mach weiter so!</string>
+					<key>ru</key>
+					<string>Продолжайте в том же духе!</string>
+					<key>tr</key>
+					<string>Böyle devam et!</string>
+					<key>it</key>
+					<string>Continua così!</string>
+					<key>ur</key>
+					<string>اسی طرح جاری رکھیں!</string>
+					<key>nl</key>
+					<string>Ga zo door!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There’s still time today to check in and continue your streak.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت اليوم لتسجيل الدخول ومواصلة سلسلة تقدمك.</string>
+					<key>fr</key>
+					<string>Il est encore temps aujourd’hui pour garder votre série active.</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit, deine Serie fortzusetzen.</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время продолжить серию.</string>
+					<key>tr</key>
+					<string>Bugün hâlâ zaman var, serini sürdür.</string>
+					<key>it</key>
+					<string>C’è ancora tempo oggi per continuare la serie.</string>
+					<key>ur</key>
+					<string>آج بھی وقت ہے اپنی سلسلہ جاری رکھنے کا۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd vandaag om je reeks voort te zetten.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed streak today?</string>
+					<key>ar</key>
+					<string>هل فاتتك سلسلة اليوم؟</string>
+					<key>fr</key>
+					<string>Série manquée aujourd’hui ?</string>
+					<key>de</key>
+					<string>Serie heute verpasst?</string>
+					<key>ru</key>
+					<string>Серия сегодня прервана?</string>
+					<key>tr</key>
+					<string>Bugün seri kaçtı mı?</string>
+					<key>it</key>
+					<string>Serie persa oggi?</string>
+					<key>ur</key>
+					<string>آج سلسلہ رہ گیا؟</string>
+					<key>nl</key>
+					<string>Reeks vandaag gemist?</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>No worries. Tomorrow is another chance to get back on track!</string>
+					<key>ar</key>
+					<string>لا تقلق. غدًا فرصة أخرى للعودة إلى المسار الصحيح!</string>
+					<key>fr</key>
+					<string>Pas d’inquiétude. Demain est une nouvelle chance !</string>
+					<key>de</key>
+					<string>Keine Sorge. Morgen ist eine neue Chance!</string>
+					<key>ru</key>
+					<string>Не переживайте. Завтра новая возможность!</string>
+					<key>tr</key>
+					<string>Endişelenme. Yarın yeni bir fırsat!</string>
+					<key>it</key>
+					<string>Nessun problema. Domani è un’altra opportunità!</string>
+					<key>ur</key>
+					<string>فکر نہ کریں۔ کل نیا موقع ہے!</string>
+					<key>nl</key>
+					<string>Geen zorgen. Morgen is een nieuwe kans!</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day9</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don&apos;t lose your streak!</string>
+					<key>ar</key>
+					<string>لا تفقد سلسلتك!</string>
+					<key>fr</key>
+					<string>Ne perdez pas votre série !</string>
+					<key>de</key>
+					<string>Verliere deine Serie nicht!</string>
+					<key>ru</key>
+					<string>Не теряйте серию!</string>
+					<key>tr</key>
+					<string>Serini kaybetme!</string>
+					<key>it</key>
+					<string>Non perdere la serie!</string>
+					<key>ur</key>
+					<string>اپنی سلسلہ نہ کھوئیں!</string>
+					<key>nl</key>
+					<string>Verlies je reeks niet!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time today to check in and keep going strong.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت اليوم لتسجيل الدخول ومواصلة التقدم بقوة.</string>
+					<key>fr</key>
+					<string>Il est encore temps aujourd’hui pour continuer en force.</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit, stark weiterzumachen.</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время продолжить уверенно.</string>
+					<key>tr</key>
+					<string>Bugün hâlâ güçlü devam edebilirsin.</string>
+					<key>it</key>
+					<string>C’è ancora tempo oggi per continuare con forza.</string>
+					<key>ur</key>
+					<string>آج بھی وقت ہے مضبوطی سے جاری رکھنے کا۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd vandaag om sterk door te gaan.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The day is over.</string>
+					<key>ar</key>
+					<string>انتهى اليوم.</string>
+					<key>fr</key>
+					<string>La journée est terminée.</string>
+					<key>de</key>
+					<string>Der Tag ist vorbei.</string>
+					<key>ru</key>
+					<string>День завершён.</string>
+					<key>tr</key>
+					<string>Gün sona erdi.</string>
+					<key>it</key>
+					<string>La giornata è finita.</string>
+					<key>ur</key>
+					<string>دن ختم ہو گیا۔</string>
+					<key>nl</key>
+					<string>De dag is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>But tomorrow brings a new opportunity to keep your streak alive.</string>
+					<key>ar</key>
+					<string>ولكن غدًا يجلب فرصة جديدة للحفاظ على سلسلة تقدمك.</string>
+					<key>fr</key>
+					<string>Mais demain apporte une nouvelle opportunité.</string>
+					<key>de</key>
+					<string>Aber morgen bringt eine neue Chance.</string>
+					<key>ru</key>
+					<string>Но завтра принесёт новую возможность.</string>
+					<key>tr</key>
+					<string>Ama yarın yeni bir fırsat getirir.</string>
+					<key>it</key>
+					<string>Ma domani porta una nuova opportunità.</string>
+					<key>ur</key>
+					<string>لیکن کل نیا موقع لائے گا۔</string>
+					<key>nl</key>
+					<string>Maar morgen brengt een nieuwe kans.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day10</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Almost there!</string>
+					<key>ar</key>
+					<string>تقريبًا هناك!</string>
+					<key>fr</key>
+					<string>Vous y êtes presque !</string>
+					<key>de</key>
+					<string>Fast geschafft!</string>
+					<key>ru</key>
+					<string>Почти там!</string>
+					<key>tr</key>
+					<string>Neredeyse oradasın!</string>
+					<key>it</key>
+					<string>Ci sei quasi!</string>
+					<key>ur</key>
+					<string>تقریباً پہنچ گئے!</string>
+					<key>nl</key>
+					<string>Bijna daar!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in today to hit that | day milestone and stay on track.</string>
+					<key>ar</key>
+					<string>سجل دخولك اليوم للوصول إلى هذا الإنجاز | يوم واستمر على المسار الصحيح.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui pour atteindre votre étape de | jours.</string>
+					<key>de</key>
+					<string>Checke heute ein, um deinen |-Tage-Meilenstein zu erreichen.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня, чтобы достичь рубежа | дней.</string>
+					<key>tr</key>
+					<string>| günlük kilometre taşına ulaşmak için bugün giriş yap.</string>
+					<key>it</key>
+					<string>Accedi oggi per raggiungere il traguardo di | giorni.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں تاکہ | دن کا سنگِ میل حاصل ہو۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je | dagen-mijlpaal te bereiken.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Today’s check-in missed.</string>
+					<key>ar</key>
+					<string>تم تفويت تسجيل الدخول اليوم.</string>
+					<key>fr</key>
+					<string>Check-in manqué aujourd’hui.</string>
+					<key>de</key>
+					<string>Heute kein Check-in.</string>
+					<key>ru</key>
+					<string>Сегодня отметка пропущена.</string>
+					<key>tr</key>
+					<string>Bugünkü giriş kaçırıldı.</string>
+					<key>it</key>
+					<string>Check-in perso oggi.</string>
+					<key>ur</key>
+					<string>آج چیک اِن رہ گیا۔</string>
+					<key>nl</key>
+					<string>Vandaag niet ingecheckt.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep striving and stay connected!</string>
+					<key>ar</key>
+					<string>استمر في السعي وحافظ على التواصل!</string>
+					<key>fr</key>
+					<string>Continuez à avancer et restez connecté !</string>
+					<key>de</key>
+					<string>Bleib dran und bleibe verbunden!</string>
+					<key>ru</key>
+					<string>Продолжайте двигаться вперёд и оставайтесь на пути!</string>
+					<key>tr</key>
+					<string>İlerlemeye devam et ve bağlı kal!</string>
+					<key>it</key>
+					<string>Continua ad andare avanti e resta connesso!</string>
+					<key>ur</key>
+					<string>آگے بڑھتے رہیں اور جڑے رہیں!</string>
+					<key>nl</key>
+					<string>Blijf vooruitgaan en verbonden blijven!</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day11</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>You&apos;re almost there!</string>
+					<key>ar</key>
+					<string>أنت تقريبًا هناك!</string>
+					<key>fr</key>
+					<string>Vous y êtes presque !</string>
+					<key>de</key>
+					<string>Du bist fast da!</string>
+					<key>ru</key>
+					<string>Вы почти у цели!</string>
+					<key>tr</key>
+					<string>Neredeyse oradasın!</string>
+					<key>it</key>
+					<string>Sei quasi arrivato!</string>
+					<key>ur</key>
+					<string>آپ تقریباً وہاں پہنچ گئے ہیں!</string>
+					<key>nl</key>
+					<string>Je bent er bijna!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Just one check-in away from keeping your streak on track. Don&apos;t miss it!</string>
+					<key>ar</key>
+					<string>يبقى تسجيل دخول واحد فقط للحفاظ على سلسلة تقدمك. لا تفوته!</string>
+					<key>fr</key>
+					<string>Plus qu’un enregistrement pour garder votre série active. Ne le manquez pas !</string>
+					<key>de</key>
+					<string>Nur noch ein Check-in, um deine Serie zu halten. Verpasse es nicht!</string>
+					<key>ru</key>
+					<string>Всего одно отметка до сохранения серии. Не пропустите!</string>
+					<key>tr</key>
+					<string>Serini korumak için sadece bir giriş kaldı. Kaçırma!</string>
+					<key>it</key>
+					<string>Un solo accesso per mantenere la serie. Non perderlo!</string>
+					<key>ur</key>
+					<string>سلسلہ برقرار رکھنے کے لیے صرف ایک چیک اِن باقی ہے۔ مت چھوڑیں!</string>
+					<key>nl</key>
+					<string>Nog één check-in om je reeks te behouden. Mis het niet!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Day | slipped by.</string>
+					<key>ar</key>
+					<string>مر يوم | دون تسجيل دخول.</string>
+					<key>fr</key>
+					<string>Le jour | est passé.</string>
+					<key>de</key>
+					<string>Tag | ist vergangen.</string>
+					<key>ru</key>
+					<string>День | прошёл.</string>
+					<key>tr</key>
+					<string>|. gün geçti.</string>
+					<key>it</key>
+					<string>Il giorno | è passato.</string>
+					<key>ur</key>
+					<string>دن | گزر گیا۔</string>
+					<key>nl</key>
+					<string>Dag | is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Reconnect and continue your journey.</string>
+					<key>ar</key>
+					<string>عاود التواصل واستمر في رحلتك.</string>
+					<key>fr</key>
+					<string>Reconnectez-vous et continuez votre parcours.</string>
+					<key>de</key>
+					<string>Verbinde dich neu und setze deine Reise fort.</string>
+					<key>ru</key>
+					<string>Восстановите связь и продолжайте путь.</string>
+					<key>tr</key>
+					<string>Yeniden bağlan ve yolculuğuna devam et.</string>
+					<key>it</key>
+					<string>Riconnettiti e continua il tuo percorso.</string>
+					<key>ur</key>
+					<string>دوبارہ جڑیں اور اپنا سفر جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Verbind opnieuw en ga verder met je reis.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day12</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Time&apos;s ticking</string>
+					<key>ar</key>
+					<string>الوقت يمر</string>
+					<key>fr</key>
+					<string>Le temps passe</string>
+					<key>de</key>
+					<string>Die Zeit läuft</string>
+					<key>ru</key>
+					<string>Время идёт</string>
+					<key>tr</key>
+					<string>Zaman akıyor</string>
+					<key>it</key>
+					<string>Il tempo scorre</string>
+					<key>ur</key>
+					<string>وقت گزر رہا ہے</string>
+					<key>nl</key>
+					<string>De tijd tikt</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>But there&apos;s still enough left to check-in today.</string>
+					<key>ar</key>
+					<string>لكن لا يزال هناك وقت كافٍ لتسجيل الدخول اليوم.</string>
+					<key>fr</key>
+					<string>Mais il reste encore assez de temps pour vous enregistrer aujourd’hui.</string>
+					<key>de</key>
+					<string>Aber es bleibt noch genug Zeit für dein Check-in.</string>
+					<key>ru</key>
+					<string>Но ещё достаточно времени для отметки сегодня.</string>
+					<key>tr</key>
+					<string>Ama bugün giriş yapmak için hâlâ yeterli zaman var.</string>
+					<key>it</key>
+					<string>Ma c’è ancora tempo per accedere oggi.</string>
+					<key>ur</key>
+					<string>لیکن آج چیک اِن کے لیے ابھی بھی کافی وقت ہے۔</string>
+					<key>nl</key>
+					<string>Maar er is nog genoeg tijd om vandaag in te checken.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed Day | streak?</string>
+					<key>ar</key>
+					<string>هل فاتتك سلسلة يوم؟</string>
+					<key>fr</key>
+					<string>Série du jour | manquée ?</string>
+					<key>de</key>
+					<string>Tag | Serie verpasst?</string>
+					<key>ru</key>
+					<string>Серия дня | пропущена?</string>
+					<key>tr</key>
+					<string>| günlük seri kaçtı mı?</string>
+					<key>it</key>
+					<string>Serie del giorno | persa?</string>
+					<key>ur</key>
+					<string>کیا دن | کی سلسلہ رہ گئی؟</string>
+					<key>nl</key>
+					<string>Dag | reeks gemist?</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>No worries! Tomorrow is a fresh start to reignite your streak.</string>
+					<key>ar</key>
+					<string>لا تقلق! غدًا بداية جديدة لإعادة إشعال سلسلتك.</string>
+					<key>fr</key>
+					<string>Pas d’inquiétude ! Demain est un nouveau départ.</string>
+					<key>de</key>
+					<string>Keine Sorge! Morgen ist ein neuer Anfang.</string>
+					<key>ru</key>
+					<string>Не переживайте! Завтра новый старт.</string>
+					<key>tr</key>
+					<string>Endişelenme! Yarın yeni bir başlangıç.</string>
+					<key>it</key>
+					<string>Nessun problema! Domani è un nuovo inizio.</string>
+					<key>ur</key>
+					<string>فکر نہ کریں! کل نئی شروعات ہے۔</string>
+					<key>nl</key>
+					<string>Geen zorgen! Morgen is een nieuw begin.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day13</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Day | isn&apos;t over yet!</string>
+					<key>ar</key>
+					<string>لم ينته يوم | بعد!</string>
+					<key>fr</key>
+					<string>Le jour | n’est pas terminé !</string>
+					<key>de</key>
+					<string>Tag | ist noch nicht vorbei!</string>
+					<key>ru</key>
+					<string>День | ещё не завершён!</string>
+					<key>tr</key>
+					<string>|. gün henüz bitmedi!</string>
+					<key>it</key>
+					<string>Il giorno | non è ancora finito!</string>
+					<key>ur</key>
+					<string>دن | ابھی ختم نہیں ہوا!</string>
+					<key>nl</key>
+					<string>Dag | is nog niet voorbij!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Take a moment to check in and keep your streak unbroken.</string>
+					<key>ar</key>
+					<string>خذ لحظة لتسجيل الدخول والحفاظ على سلسلتك دون انقطاع.</string>
+					<key>fr</key>
+					<string>Prenez un moment pour vous enregistrer et garder votre série intacte.</string>
+					<key>de</key>
+					<string>Nimm dir einen Moment für dein Check-in und halte deine Serie intakt.</string>
+					<key>ru</key>
+					<string>Найдите момент для отметки и сохраните серию.</string>
+					<key>tr</key>
+					<string>Bir an ayır ve serini bozmadan devam et.</string>
+					<key>it</key>
+					<string>Prenditi un momento per accedere e mantenere la serie.</string>
+					<key>ur</key>
+					<string>چند لمحے نکالیں اور اپنی سلسلہ برقرار رکھیں۔</string>
+					<key>nl</key>
+					<string>Neem even de tijd om in te checken en je reeks te behouden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Day | has passed.</string>
+					<key>ar</key>
+					<string>مر يوم |.</string>
+					<key>fr</key>
+					<string>Le jour | est passé.</string>
+					<key>de</key>
+					<string>Tag | ist vorbei.</string>
+					<key>ru</key>
+					<string>День | прошёл.</string>
+					<key>tr</key>
+					<string>|. gün geçti.</string>
+					<key>it</key>
+					<string>Il giorno | è passato.</string>
+					<key>ur</key>
+					<string>دن | گزر گیا۔</string>
+					<key>nl</key>
+					<string>Dag | is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay committed and start fresh tomorrow.</string>
+					<key>ar</key>
+					<string>ابق ملتزمًا وابدأ من جديد غدًا.</string>
+					<key>fr</key>
+					<string>Restez engagé et recommencez demain.</string>
+					<key>de</key>
+					<string>Bleib engagiert und starte morgen neu.</string>
+					<key>ru</key>
+					<string>Оставайтесь преданными и начните завтра.</string>
+					<key>tr</key>
+					<string>Kararlı kal ve yarın yeniden başla.</string>
+					<key>it</key>
+					<string>Rimani impegnato e ricomincia domani.</string>
+					<key>ur</key>
+					<string>پابند رہیں اور کل دوبارہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Blijf toegewijd en begin morgen opnieuw.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day14</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Just a few hours left!</string>
+					<key>ar</key>
+					<string>تبقى بضع ساعات فقط!</string>
+					<key>fr</key>
+					<string>Plus que quelques heures !</string>
+					<key>de</key>
+					<string>Nur noch wenige Stunden!</string>
+					<key>ru</key>
+					<string>Осталось всего несколько часов!</string>
+					<key>tr</key>
+					<string>Sadece birkaç saat kaldı!</string>
+					<key>it</key>
+					<string>Solo poche ore rimaste!</string>
+					<key>ur</key>
+					<string>صرف چند گھنٹے باقی ہیں!</string>
+					<key>nl</key>
+					<string>Nog maar een paar uur!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Don&apos;t miss out on completing your 14th day. Keep that streak alive!</string>
+					<key>ar</key>
+					<string>لا تفوت إكمال اليوم الرابع عشر. حافظ على سلسلتك حية!</string>
+					<key>fr</key>
+					<string>Ne manquez pas votre 14e jour. Gardez votre série active !</string>
+					<key>de</key>
+					<string>Verpasse deinen 14. Tag nicht. Halte deine Serie am Leben!</string>
+					<key>ru</key>
+					<string>Не пропустите 14-й день. Сохраните серию!</string>
+					<key>tr</key>
+					<string>14. günü kaçırma. Serini koru!</string>
+					<key>it</key>
+					<string>Non perdere il 14° giorno. Mantieni la serie!</string>
+					<key>ur</key>
+					<string>چودھواں دن مت چھوڑیں۔ اپنی سلسلہ برقرار رکھیں!</string>
+					<key>nl</key>
+					<string>Mis je 14e dag niet. Houd je reeks levend!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Day | is done.</string>
+					<key>ar</key>
+					<string>انتهى يوم |.</string>
+					<key>fr</key>
+					<string>Le jour | est terminé.</string>
+					<key>de</key>
+					<string>Tag | ist beendet.</string>
+					<key>ru</key>
+					<string>День | завершён.</string>
+					<key>tr</key>
+					<string>|. gün tamamlandı.</string>
+					<key>it</key>
+					<string>Il giorno | è terminato.</string>
+					<key>ur</key>
+					<string>دن | ختم ہو گیا۔</string>
+					<key>nl</key>
+					<string>Dag | is afgerond.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay focused and restart again!</string>
+					<key>ar</key>
+					<string>ابق مركزًا وابدأ من جديد!</string>
+					<key>fr</key>
+					<string>Restez concentré et recommencez.</string>
+					<key>de</key>
+					<string>Bleib fokussiert und starte neu.</string>
+					<key>ru</key>
+					<string>Оставайтесь сосредоточенными и начните заново.</string>
+					<key>tr</key>
+					<string>Odaklan ve yeniden başla.</string>
+					<key>it</key>
+					<string>Rimani concentrato e ricomincia.</string>
+					<key>ur</key>
+					<string>توجہ برقرار رکھیں اور دوبارہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Blijf gefocust en begin opnieuw.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day15</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep your streak strong.</string>
+					<key>ar</key>
+					<string>حافظ على بقاء سلسلة تقدمك قوية.</string>
+					<key>fr</key>
+					<string>Gardez votre série forte.</string>
+					<key>de</key>
+					<string>Halte deine Serie stark.</string>
+					<key>ru</key>
+					<string>Сохраните свою серию.</string>
+					<key>tr</key>
+					<string>Serini güçlü tut.</string>
+					<key>it</key>
+					<string>Mantieni forte la tua serie.</string>
+					<key>ur</key>
+					<string>اپنی سلسلہ مضبوط رکھیں۔</string>
+					<key>nl</key>
+					<string>Houd je reeks sterk.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time to check in today.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول اليوم.</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer aujourd’hui.</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit für dein Check-in.</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время отметиться.</string>
+					<key>tr</key>
+					<string>Bugün hâlâ giriş yapmak için zaman var.</string>
+					<key>it</key>
+					<string>C’è ancora tempo per accedere oggi.</string>
+					<key>ur</key>
+					<string>آج بھی چیک اِن کے لیے وقت ہے۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd om vandaag in te checken.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Day | is over.</string>
+					<key>ar</key>
+					<string>انتهى يوم |.</string>
+					<key>fr</key>
+					<string>Le jour | est terminé.</string>
+					<key>de</key>
+					<string>Tag | ist vorbei.</string>
+					<key>ru</key>
+					<string>День | завершён.</string>
+					<key>tr</key>
+					<string>|. gün sona erdi.</string>
+					<key>it</key>
+					<string>Il giorno | è finito.</string>
+					<key>ur</key>
+					<string>دن | ختم ہو گیا۔</string>
+					<key>nl</key>
+					<string>Dag | is voorbij.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Restart tomorrow with renewed energy.</string>
+					<key>ar</key>
+					<string>ابدأ من جديد غدًا بطاقة متجددة.</string>
+					<key>fr</key>
+					<string>Recommencez demain avec une énergie renouvelée.</string>
+					<key>de</key>
+					<string>Starte morgen mit neuer Energie.</string>
+					<key>ru</key>
+					<string>Начните завтра с новой энергией.</string>
+					<key>tr</key>
+					<string>Yarın yenilenmiş enerjiyle başla.</string>
+					<key>it</key>
+					<string>Ricominciate domani con nuova energia.</string>
+					<key>ur</key>
+					<string>کل نئی توانائی کے ساتھ دوبارہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Begin morgen opnieuw met nieuwe energie.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day16</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep the momentum going!</string>
+					<key>ar</key>
+					<string>حافظ على الزخم مستمرًا!</string>
+					<key>fr</key>
+					<string>Gardez l’élan !</string>
+					<key>de</key>
+					<string>Halte den Schwung!</string>
+					<key>ru</key>
+					<string>Сохраняйте импульс!</string>
+					<key>tr</key>
+					<string>İvmeyi koru!</string>
+					<key>it</key>
+					<string>Mantieni lo slancio!</string>
+					<key>ur</key>
+					<string>اپنا جوش برقرار رکھیں!</string>
+					<key>nl</key>
+					<string>Houd het momentum vast!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There&apos;s still time to check in today and stay on course.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول اليوم والبقاء على المسار.</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer aujourd’hui et de rester sur la bonne voie.</string>
+					<key>de</key>
+					<string>Es ist noch Zeit einzuchecken und auf Kurs zu bleiben.</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время отметиться и остаться на пути.</string>
+					<key>tr</key>
+					<string>Bugün hâlâ giriş yapabilir ve yolda kalabilirsin.</string>
+					<key>it</key>
+					<string>C’è ancora tempo per accedere oggi e restare sulla strada giusta.</string>
+					<key>ur</key>
+					<string>آج بھی چیک اِن کر کے درست راستے پر رہ سکتے ہیں۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd om vandaag in te checken en op koers te blijven.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed Day | streak?</string>
+					<key>ar</key>
+					<string>هل فاتتك سلسلة يوم |؟</string>
+					<key>fr</key>
+					<string>Série du jour | manquée ?</string>
+					<key>de</key>
+					<string>Tag | Serie verpasst?</string>
+					<key>ru</key>
+					<string>Серия дня | пропущена?</string>
+					<key>tr</key>
+					<string>| günlük seri kaçtı mı?</string>
+					<key>it</key>
+					<string>Serie del giorno | persa?</string>
+					<key>ur</key>
+					<string>کیا دن | کی سلسلہ رہ گئی؟</string>
+					<key>nl</key>
+					<string>Dag | reeks gemist?</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Let tomorrow be the day you get back on track and continue your journey.</string>
+					<key>ar</key>
+					<string>اجعل غدًا اليوم الذي تعود فيه إلى المسار وتستمر في رحلتك.</string>
+					<key>fr</key>
+					<string>Faites de demain le jour pour revenir sur la bonne voie.</string>
+					<key>de</key>
+					<string>Mach morgen zu deinem Neustart.</string>
+					<key>ru</key>
+					<string>Сделайте завтра днём возвращения на путь.</string>
+					<key>tr</key>
+					<string>Yarın yeniden yola dönme günü olsun.</string>
+					<key>it</key>
+					<string>Fai di domani il giorno del ritorno sulla strada giusta.</string>
+					<key>ur</key>
+					<string>کل کو دوبارہ درست راستے پر آنے کا دن بنائیں۔</string>
+					<key>nl</key>
+					<string>Maak van morgen de dag om weer op koers te komen.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day17</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The day isn’t over yet!</string>
+					<key>ar</key>
+					<string>اليوم لم ينته بعد!</string>
+					<key>fr</key>
+					<string>La journée n’est pas finie !</string>
+					<key>de</key>
+					<string>Der Tag ist noch nicht vorbei!</string>
+					<key>ru</key>
+					<string>День ещё не закончился!</string>
+					<key>tr</key>
+					<string>Gün henüz bitmedi!</string>
+					<key>it</key>
+					<string>La giornata non è finita!</string>
+					<key>ur</key>
+					<string>دن ابھی ختم نہیں ہوا!</string>
+					<key>nl</key>
+					<string>De dag is nog niet voorbij!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in now to keep your streak and momentum going.</string>
+					<key>ar</key>
+					<string>سجل دخولك الآن للحفاظ على سلسلة تقدمك والزخم مستمرًا.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous maintenant pour garder votre série et votre élan.</string>
+					<key>de</key>
+					<string>Checke jetzt ein, um deine Serie zu halten.</string>
+					<key>ru</key>
+					<string>Отметьтесь сейчас, чтобы сохранить серию и импульс.</string>
+					<key>tr</key>
+					<string>Serini ve ivmeni korumak için şimdi giriş yap.</string>
+					<key>it</key>
+					<string>Accedi ora per mantenere la serie e lo slancio.</string>
+					<key>ur</key>
+					<string>ابھی چیک اِن کریں اور اپنی سلسلہ برقرار رکھیں۔</string>
+					<key>nl</key>
+					<string>Check nu in om je reeks en momentum te behouden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>You missed the check-in.</string>
+					<key>ar</key>
+					<string>لقد فاتك تسجيل الدخول.</string>
+					<key>fr</key>
+					<string>Enregistrement manqué.</string>
+					<key>de</key>
+					<string>Check-in verpasst.</string>
+					<key>ru</key>
+					<string>Отметка пропущена.</string>
+					<key>tr</key>
+					<string>Giriş kaçırıldı.</string>
+					<key>it</key>
+					<string>Accesso mancato.</string>
+					<key>ur</key>
+					<string>چیک اِن رہ گیا۔</string>
+					<key>nl</key>
+					<string>Check-in gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Try again tomorrow with new determination.</string>
+					<key>ar</key>
+					<string>حاول مرة أخرى غدًا بعزيمة جديدة.</string>
+					<key>fr</key>
+					<string>Essayez encore demain avec une nouvelle détermination.</string>
+					<key>de</key>
+					<string>Versuche es morgen mit neuer Entschlossenheit.</string>
+					<key>ru</key>
+					<string>Попробуйте снова завтра с новой решимостью.</string>
+					<key>tr</key>
+					<string>Yarın yeni bir kararlılıkla tekrar dene.</string>
+					<key>it</key>
+					<string>Riprova domani con nuova determinazione.</string>
+					<key>ur</key>
+					<string>کل نئی عزم کے ساتھ دوبارہ کوشش کریں۔</string>
+					<key>nl</key>
+					<string>Probeer het morgen opnieuw met nieuwe vastberadenheid.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day18</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t let the day slip away!</string>
+					<key>ar</key>
+					<string>لا تدع اليوم يمر دون تسجيل الدخول!</string>
+					<key>fr</key>
+					<string>Ne laissez pas la journée filer !</string>
+					<key>de</key>
+					<string>Lass den Tag nicht verstreichen!</string>
+					<key>ru</key>
+					<string>Не упустите этот день!</string>
+					<key>tr</key>
+					<string>Günün kayıp gitmesine izin verme!</string>
+					<key>it</key>
+					<string>Non lasciare scivolare via la giornata!</string>
+					<key>ur</key>
+					<string>دن کو یوں ہی گزرنے نہ دیں!</string>
+					<key>nl</key>
+					<string>Laat de dag niet voorbijgaan!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There’s still time to check in and keep your streak going.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت لتسجيل الدخول والحفاظ على سلسلتك مستمرة.</string>
+					<key>fr</key>
+					<string>Il est encore temps de vous enregistrer et de garder votre série.</string>
+					<key>de</key>
+					<string>Es ist noch Zeit einzuchecken und deine Serie zu halten.</string>
+					<key>ru</key>
+					<string>Ещё есть время отметиться и сохранить серию.</string>
+					<key>tr</key>
+					<string>Hâlâ giriş yapabilir ve serini sürdürebilirsin.</string>
+					<key>it</key>
+					<string>C’è ancora tempo per accedere e mantenere la serie.</string>
+					<key>ur</key>
+					<string>ابھی بھی چیک اِن کا وقت ہے اور سلسلہ جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd om in te checken en je reeks te behouden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Restart your streak with renewed focus.</string>
+					<key>ar</key>
+					<string>ابدأ سلسلتك من جديد بتركيز متجدد.</string>
+					<key>fr</key>
+					<string>Recommencez avec une concentration renouvelée.</string>
+					<key>de</key>
+					<string>Starte mit neuem Fokus.</string>
+					<key>ru</key>
+					<string>Начните заново с новой сосредоточенностью.</string>
+					<key>tr</key>
+					<string>Yenilenmiş bir odakla yeniden başla.</string>
+					<key>it</key>
+					<string>Ricomincia con rinnovata concentrazione.</string>
+					<key>ur</key>
+					<string>نئی توجہ کے ساتھ دوبارہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Begin opnieuw met hernieuwde focus.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day19</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Almost there!</string>
+					<key>ar</key>
+					<string>تقريبًا هناك!</string>
+					<key>fr</key>
+					<string>Presque arrivé !</string>
+					<key>de</key>
+					<string>Fast geschafft!</string>
+					<key>ru</key>
+					<string>Почти достигнуто!</string>
+					<key>tr</key>
+					<string>Neredeyse tamam!</string>
+					<key>it</key>
+					<string>Quasi fatto!</string>
+					<key>ur</key>
+					<string>تقریباً مکمل!</string>
+					<key>nl</key>
+					<string>Bijna voltooid!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t miss your check-in today and continue building your streak.</string>
+					<key>ar</key>
+					<string>لا تفوّت تسجيل دخولك اليوم واستمر في بناء سلسلتك.</string>
+					<key>fr</key>
+					<string>Ne manquez pas votre enregistrement aujourd’hui et continuez votre série.</string>
+					<key>de</key>
+					<string>Verpasse heute dein Check-in nicht und setze deine Serie fort.</string>
+					<key>ru</key>
+					<string>Не пропустите отметку сегодня и продолжайте серию.</string>
+					<key>tr</key>
+					<string>Bugünkü girişi kaçırma ve serini sürdür.</string>
+					<key>it</key>
+					<string>Non perdere l’accesso oggi e continua la serie.</string>
+					<key>ur</key>
+					<string>آج چیک اِن مت چھوڑیں اور سلسلہ جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Mis je check-in vandaag niet en zet je reeks voort.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Renew your commitment and keep moving forward.</string>
+					<key>ar</key>
+					<string>جدّد التزامك واستمر في التقدم.</string>
+					<key>fr</key>
+					<string>Renouvelez votre engagement et continuez d’avancer.</string>
+					<key>de</key>
+					<string>Erneuere dein Engagement und geh weiter.</string>
+					<key>ru</key>
+					<string>Обновите свою решимость и двигайтесь дальше.</string>
+					<key>tr</key>
+					<string>Kararlılığını yenile ve ilerlemeye devam et.</string>
+					<key>it</key>
+					<string>Rinnova il tuo impegno e continua ad andare avanti.</string>
+					<key>ur</key>
+					<string>اپنا عزم تازہ کریں اور آگے بڑھتے رہیں۔</string>
+					<key>nl</key>
+					<string>Vernieuw je inzet en blijf vooruitgaan.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day20</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>You’re so close!</string>
+					<key>ar</key>
+					<string>أنت قريب جدًا!</string>
+					<key>fr</key>
+					<string>Vous êtes si proche !</string>
+					<key>de</key>
+					<string>Du bist so nah dran!</string>
+					<key>ru</key>
+					<string>Вы так близки!</string>
+					<key>tr</key>
+					<string>Çok yaklaştın!</string>
+					<key>it</key>
+					<string>Sei così vicino!</string>
+					<key>ur</key>
+					<string>آپ بہت قریب ہیں!</string>
+					<key>nl</key>
+					<string>Je bent er bijna!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Make sure to check in today and keep that | day streak intact.</string>
+					<key>ar</key>
+					<string>تأكد من تسجيل دخولك اليوم للحفاظ على سلسلة | يوم سليمة.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui pour garder votre série de | jours intacte.</string>
+					<key>de</key>
+					<string>Checke heute ein, um deine |-Tage-Serie zu bewahren.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня, чтобы сохранить серию | дней.</string>
+					<key>tr</key>
+					<string>| günlük serini korumak için bugün giriş yap.</string>
+					<key>it</key>
+					<string>Accedi oggi per mantenere la tua serie di | giorni.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں تاکہ | دن کی سلسلہ برقرار رہے۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je | dagen-reeks te behouden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep pushing forward and stay on track.</string>
+					<key>ar</key>
+					<string>استمر في التقدم وابق على المسار.</string>
+					<key>fr</key>
+					<string>Continuez d’avancer et restez sur la bonne voie.</string>
+					<key>de</key>
+					<string>Mach weiter und bleib auf Kurs.</string>
+					<key>ru</key>
+					<string>Продолжайте двигаться вперёд и оставайтесь на пути.</string>
+					<key>tr</key>
+					<string>İlerlemeye devam et ve yolda kal.</string>
+					<key>it</key>
+					<string>Continua ad andare avanti e resta sulla strada giusta.</string>
+					<key>ur</key>
+					<string>آگے بڑھتے رہیں اور درست راستے پر قائم رہیں۔</string>
+					<key>nl</key>
+					<string>Blijf vooruitgaan en op koers blijven.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day21</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep up the momentum!</string>
+					<key>ar</key>
+					<string>حافظ على الزخم!</string>
+					<key>fr</key>
+					<string>Gardez l’élan !</string>
+					<key>de</key>
+					<string>Bleib im Schwung!</string>
+					<key>ru</key>
+					<string>Сохраняйте темп!</string>
+					<key>tr</key>
+					<string>İvmeyi sürdür!</string>
+					<key>it</key>
+					<string>Mantieni il ritmo!</string>
+					<key>ur</key>
+					<string>رفتار برقرار رکھیں!</string>
+					<key>nl</key>
+					<string>Houd het tempo vast!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in today to continue your three-week streak and stay consistent.</string>
+					<key>ar</key>
+					<string>سجل دخولك اليوم لمواصلة سلسلة الأسابيع الثلاثة والبقاء مستمرًا.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui pour poursuivre votre série de trois semaines.</string>
+					<key>de</key>
+					<string>Checke heute ein, um deine dreiwöchige Serie fortzusetzen.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня, чтобы продолжить трёхнедельную серию.</string>
+					<key>tr</key>
+					<string>Üç haftalık serini sürdürmek için bugün giriş yap.</string>
+					<key>it</key>
+					<string>Accedi oggi per continuare la tua serie di tre settimane.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں اور اپنی تین ہفتوں کی سلسلہ جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je reeks van drie weken voort te zetten.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Start fresh tomorrow and reignite your streak.</string>
+					<key>ar</key>
+					<string>ابدأ من جديد غدًا وأعد إشعال سلسلتك.</string>
+					<key>fr</key>
+					<string>Recommencez demain et rallumez votre série.</string>
+					<key>de</key>
+					<string>Starte morgen neu und belebe deine Serie.</string>
+					<key>ru</key>
+					<string>Начните завтра и восстановите серию.</string>
+					<key>tr</key>
+					<string>Yarın yeniden başla ve serini canlandır.</string>
+					<key>it</key>
+					<string>Ricomincia domani e riaccendi la tua serie.</string>
+					<key>ur</key>
+					<string>کل دوبارہ شروع کریں اور اپنی سلسلہ بحال کریں۔</string>
+					<key>nl</key>
+					<string>Begin morgen opnieuw en blaas je reeks nieuw leven in.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day22</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Stay consistent, keep the streak alive!</string>
+					<key>ar</key>
+					<string>ابقَ مستمرًا، حافظ على السلسلة حية!</string>
+					<key>fr</key>
+					<string>Restez constant, gardez la série vivante !</string>
+					<key>de</key>
+					<string>Bleib konstant, halte die Serie am Leben!</string>
+					<key>ru</key>
+					<string>Будьте постоянны, сохраняйте серию!</string>
+					<key>tr</key>
+					<string>İstikrarlı kal, serini yaşat!</string>
+					<key>it</key>
+					<string>Rimani costante, mantieni viva la serie!</string>
+					<key>ur</key>
+					<string>مسلسل رہیں، سلسلہ زندہ رکھیں!</string>
+					<key>nl</key>
+					<string>Blijf consistent, houd je reeks levend!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in before the day ends and keep up the great work.</string>
+					<key>ar</key>
+					<string>سجل دخولك قبل نهاية اليوم واستمر في العمل الرائع.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous avant la fin de la journée et continuez votre bon travail.</string>
+					<key>de</key>
+					<string>Checke vor Tagesende ein und mach weiter so.</string>
+					<key>ru</key>
+					<string>Отметьтесь до конца дня и продолжайте в том же духе.</string>
+					<key>tr</key>
+					<string>Gün bitmeden giriş yap ve iyi çalışmanı sürdür.</string>
+					<key>it</key>
+					<string>Accedi prima della fine della giornata e continua così.</string>
+					<key>ur</key>
+					<string>دن ختم ہونے سے پہلے چیک اِن کریں اور اچھا کام جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Check in vóór het einde van de dag en blijf goed bezig.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay focused and keep moving forward with new streak.</string>
+					<key>ar</key>
+					<string>ابقَ مركزًا واستمر في التقدم بسلسلة جديدة.</string>
+					<key>fr</key>
+					<string>Restez concentré et avancez avec une nouvelle série.</string>
+					<key>de</key>
+					<string>Bleib fokussiert und starte eine neue Serie.</string>
+					<key>ru</key>
+					<string>Оставайтесь сосредоточенными и начните новую серию.</string>
+					<key>tr</key>
+					<string>Odaklan ve yeni bir seri başlat.</string>
+					<key>it</key>
+					<string>Rimani concentrato e inizia una nuova serie.</string>
+					<key>ur</key>
+					<string>توجہ برقرار رکھیں اور نئی سلسلہ شروع کریں۔</string>
+					<key>nl</key>
+					<string>Blijf gefocust en start een nieuwe reeks.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day23</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Time’s ticking, but there’s still a chance to check in today.</string>
+					<key>ar</key>
+					<string>الوقت يمضي، ولكن لا يزال هناك فرصة لتسجيل الدخول اليوم.</string>
+					<key>fr</key>
+					<string>Le temps passe, mais il reste une chance.</string>
+					<key>de</key>
+					<string>Die Zeit läuft, aber du hast noch eine Chance.</string>
+					<key>ru</key>
+					<string>Время идёт, но шанс ещё есть.</string>
+					<key>tr</key>
+					<string>Zaman akıyor ama hâlâ şansın var.</string>
+					<key>it</key>
+					<string>Il tempo scorre, ma c’è ancora una possibilità.</string>
+					<key>ur</key>
+					<string>وقت گزر رہا ہے، مگر ابھی موقع ہے۔</string>
+					<key>nl</key>
+					<string>De tijd tikt, maar je hebt nog een kans.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t let your streak end now!</string>
+					<key>ar</key>
+					<string>لا تدع سلسلتك تنتهي الآن!</string>
+					<key>fr</key>
+					<string>Ne laissez pas votre série s’arrêter maintenant !</string>
+					<key>de</key>
+					<string>Lass deine Serie jetzt nicht enden!</string>
+					<key>ru</key>
+					<string>Не позволяйте серии прерваться сейчас!</string>
+					<key>tr</key>
+					<string>Serinin şimdi bitmesine izin verme!</string>
+					<key>it</key>
+					<string>Non lasciare che la tua serie finisca ora!</string>
+					<key>ur</key>
+					<string>اب اپنی سلسلہ ختم نہ ہونے دیں!</string>
+					<key>nl</key>
+					<string>Laat je reeks nu niet eindigen!</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Reconnect tomorrow and restart your streak.</string>
+					<key>ar</key>
+					<string>عاود التواصل غدًا وابدأ سلسلتك من جديد.</string>
+					<key>fr</key>
+					<string>Reconnectez-vous demain et recommencez.</string>
+					<key>de</key>
+					<string>Verbinde dich morgen neu und starte erneut.</string>
+					<key>ru</key>
+					<string>Восстановите связь завтра и начните снова.</string>
+					<key>tr</key>
+					<string>Yarın yeniden bağlan ve tekrar başla.</string>
+					<key>it</key>
+					<string>Riconnettiti domani e ricomincia.</string>
+					<key>ur</key>
+					<string>کل دوبارہ جڑیں اور نئی شروعات کریں۔</string>
+					<key>nl</key>
+					<string>Verbind morgen opnieuw en begin weer.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day24</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The day’s not over yet!</string>
+					<key>ar</key>
+					<string>اليوم لم ينته بعد!</string>
+					<key>fr</key>
+					<string>La journée n’est pas finie !</string>
+					<key>de</key>
+					<string>Der Tag ist noch nicht vorbei!</string>
+					<key>ru</key>
+					<string>День ещё не закончился!</string>
+					<key>tr</key>
+					<string>Gün henüz bitmedi!</string>
+					<key>it</key>
+					<string>La giornata non è finita!</string>
+					<key>ur</key>
+					<string>دن ابھی ختم نہیں ہوا!</string>
+					<key>nl</key>
+					<string>De dag is nog niet voorbij!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in now to keep your | day streak going strong.</string>
+					<key>ar</key>
+					<string>تحقق الآن للحفاظ على سلسلتك المستمرة لليوم | قويًا.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous maintenant pour garder votre série de | jours forte.</string>
+					<key>de</key>
+					<string>Checke jetzt ein, um deine |-Tage-Serie stark zu halten.</string>
+					<key>ru</key>
+					<string>Отметьтесь сейчас, чтобы сохранить серию | дней.</string>
+					<key>tr</key>
+					<string>| günlük serini güçlü tutmak için şimdi giriş yap.</string>
+					<key>it</key>
+					<string>Accedi ora per mantenere forte la tua serie di | giorni.</string>
+					<key>ur</key>
+					<string>ابھی چیک اِن کریں تاکہ | دن کی سلسلہ مضبوط رہے۔</string>
+					<key>nl</key>
+					<string>Check nu in om je | dagen-reeks sterk te houden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay committed and continue your journey.</string>
+					<key>ar</key>
+					<string>التزم واستمر في رحلتك.</string>
+					<key>fr</key>
+					<string>Restez engagé et poursuivez votre parcours.</string>
+					<key>de</key>
+					<string>Bleib engagiert und setze deine Reise fort.</string>
+					<key>ru</key>
+					<string>Оставайтесь преданными и продолжайте путь.</string>
+					<key>tr</key>
+					<string>Kararlı kal ve yolculuğuna devam et.</string>
+					<key>it</key>
+					<string>Rimani impegnato e continua il tuo percorso.</string>
+					<key>ur</key>
+					<string>پابند رہیں اور اپنا سفر جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Blijf toegewijd en ga verder met je reis.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day25</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t let today pass without a check-in!</string>
+					<key>ar</key>
+					<string>لا تدع اليوم يمر دون تسجيل الدخول!</string>
+					<key>fr</key>
+					<string>Ne laissez pas passer cette journée !</string>
+					<key>de</key>
+					<string>Lass diesen Tag nicht verstreichen!</string>
+					<key>ru</key>
+					<string>Не упустите этот день!</string>
+					<key>tr</key>
+					<string>Bugünü kaçırma!</string>
+					<key>it</key>
+					<string>Non lasciare passare questa giornata!</string>
+					<key>ur</key>
+					<string>آج کا دن ضائع نہ کریں!</string>
+					<key>nl</key>
+					<string>Laat deze dag niet voorbijgaan!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep your streak going &amp; finish the month with pride.</string>
+					<key>ar</key>
+					<string>حافظ على سلسلتك واستمر في الشهر بكل فخر.</string>
+					<key>fr</key>
+					<string>Gardez votre série &amp; terminez le mois avec fierté.</string>
+					<key>de</key>
+					<string>Halte deine Serie &amp; beende den Monat mit Stolz.</string>
+					<key>ru</key>
+					<string>Сохраните серию &amp; завершите месяц с гордостью.</string>
+					<key>tr</key>
+					<string>Serini koru &amp; ayı gururla tamamla.</string>
+					<key>it</key>
+					<string>Mantieni la serie &amp; concludi il mese con orgoglio.</string>
+					<key>ur</key>
+					<string>اپنی سلسلہ برقرار رکھیں &amp; مہینہ فخر سے مکمل کریں۔</string>
+					<key>nl</key>
+					<string>Behoud je reeks &amp; sluit de maand trots af.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay focused and keep pushing forward.</string>
+					<key>ar</key>
+					<string>ركز واستمر في المضي قدمًا.</string>
+					<key>fr</key>
+					<string>Restez concentré et continuez d’avancer.</string>
+					<key>de</key>
+					<string>Bleib fokussiert und geh weiter voran.</string>
+					<key>ru</key>
+					<string>Оставайтесь сосредоточенными и двигайтесь дальше.</string>
+					<key>tr</key>
+					<string>Odaklan ve ilerlemeye devam et.</string>
+					<key>it</key>
+					<string>Rimani concentrato e continua ad andare avanti.</string>
+					<key>ur</key>
+					<string>توجہ برقرار رکھیں اور آگے بڑھتے رہیں۔</string>
+					<key>nl</key>
+					<string>Blijf gefocust en blijf vooruitgaan.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day26</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Make sure you&apos;re in!</string>
+					<key>ar</key>
+					<string>تأكد من وجودك!</string>
+					<key>fr</key>
+					<string>Assurez-vous d’être présent !</string>
+					<key>de</key>
+					<string>Sei dabei!</string>
+					<key>ru</key>
+					<string>Обязательно отметьтесь!</string>
+					<key>tr</key>
+					<string>Giriş yaptığından emin ol!</string>
+					<key>it</key>
+					<string>Assicurati di esserci!</string>
+					<key>ur</key>
+					<string>یقینی بنائیں کہ آپ شامل ہیں!</string>
+					<key>nl</key>
+					<string>Zorg dat je erbij bent!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>There’s still time today to check in and keep your streak alive.</string>
+					<key>ar</key>
+					<string>لا يزال هناك وقت اليوم للتسجيل والحفاظ على سلسلتك.</string>
+					<key>fr</key>
+					<string>Il est encore temps aujourd’hui pour garder votre série vivante.</string>
+					<key>de</key>
+					<string>Heute ist noch Zeit, deine Serie am Leben zu halten.</string>
+					<key>ru</key>
+					<string>Сегодня ещё есть время сохранить серию.</string>
+					<key>tr</key>
+					<string>Bugün hâlâ zaman var, serini yaşat.</string>
+					<key>it</key>
+					<string>C’è ancora tempo oggi per mantenere viva la serie.</string>
+					<key>ur</key>
+					<string>آج بھی وقت ہے اپنی سلسلہ برقرار رکھنے کا۔</string>
+					<key>nl</key>
+					<string>Er is nog tijd vandaag om je reeks levend te houden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay committed and keep moving forward.</string>
+					<key>ar</key>
+					<string>التزم واستمر في المضي قدمًا.</string>
+					<key>fr</key>
+					<string>Restez engagé et continuez d’avancer.</string>
+					<key>de</key>
+					<string>Bleib engagiert und geh weiter.</string>
+					<key>ru</key>
+					<string>Оставайтесь преданными и двигайтесь вперёд.</string>
+					<key>tr</key>
+					<string>Kararlı kal ve ilerlemeye devam et.</string>
+					<key>it</key>
+					<string>Rimani impegnato e continua ad andare avanti.</string>
+					<key>ur</key>
+					<string>پابند رہیں اور آگے بڑھتے رہیں۔</string>
+					<key>nl</key>
+					<string>Blijf toegewijd en ga vooruit.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day27</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Don’t let the day slip by!</string>
+					<key>ar</key>
+					<string>لا تدع اليوم يمر!</string>
+					<key>fr</key>
+					<string>Ne laissez pas la journée passer !</string>
+					<key>de</key>
+					<string>Lass den Tag nicht verstreichen!</string>
+					<key>ru</key>
+					<string>Не дайте дню пройти зря!</string>
+					<key>tr</key>
+					<string>Günün geçip gitmesine izin verme!</string>
+					<key>it</key>
+					<string>Non lasciare che la giornata passi!</string>
+					<key>ur</key>
+					<string>دن کو یوں ہی گزرنے نہ دیں!</string>
+					<key>nl</key>
+					<string>Laat de dag niet voorbijgaan!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in now to keep your | day streak going.</string>
+					<key>ar</key>
+					<string>قم بتسجيل الدخول الآن للحفاظ على سلسلتك المستمرة لليوم |.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous maintenant pour garder votre série de | jours.</string>
+					<key>de</key>
+					<string>Checke jetzt ein, um deine |-Tage-Serie zu halten.</string>
+					<key>ru</key>
+					<string>Отметьтесь сейчас, чтобы сохранить серию | дней.</string>
+					<key>tr</key>
+					<string>| günlük serini korumak için şimdi giriş yap.</string>
+					<key>it</key>
+					<string>Accedi ora per mantenere la tua serie di | giorni.</string>
+					<key>ur</key>
+					<string>ابھی چیک اِن کریں تاکہ | دن کی سلسلہ برقرار رہے۔</string>
+					<key>nl</key>
+					<string>Check nu in om je | dagen-reeks te behouden.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay focused and keep your streak alive.</string>
+					<key>ar</key>
+					<string>ركز وحافظ على سلسلتك.</string>
+					<key>fr</key>
+					<string>Restez concentré et gardez votre série active.</string>
+					<key>de</key>
+					<string>Bleib fokussiert und halte deine Serie am Leben.</string>
+					<key>ru</key>
+					<string>Оставайтесь сосредоточенными и поддерживайте серию.</string>
+					<key>tr</key>
+					<string>Odaklan ve serini canlı tut.</string>
+					<key>it</key>
+					<string>Rimani concentrato e mantieni viva la serie.</string>
+					<key>ur</key>
+					<string>توجہ برقرار رکھیں اور اپنی سلسلہ جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Blijf gefocust en houd je reeks levend.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day28</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Keep up the great work!</string>
+					<key>ar</key>
+					<string>استمر في العمل الرائع!</string>
+					<key>fr</key>
+					<string>Continuez votre excellent travail !</string>
+					<key>de</key>
+					<string>Mach weiter so!</string>
+					<key>ru</key>
+					<string>Продолжайте в том же духе!</string>
+					<key>tr</key>
+					<string>Harika devam et!</string>
+					<key>it</key>
+					<string>Continua così!</string>
+					<key>ur</key>
+					<string>اسی طرح جاری رکھیں!</string>
+					<key>nl</key>
+					<string>Ga zo door!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in today to maintain your streak and finish the month strong.</string>
+					<key>ar</key>
+					<string>سجل الدخول اليوم للحفاظ على سلسلتك وإنهاء الشهر بقوة.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui pour maintenir votre série et finir le mois en force.</string>
+					<key>de</key>
+					<string>Checke heute ein, um deine Serie zu halten und den Monat stark zu beenden.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня, чтобы сохранить серию и завершить месяц уверенно.</string>
+					<key>tr</key>
+					<string>Serini korumak ve ayı güçlü bitirmek için bugün giriş yap.</string>
+					<key>it</key>
+					<string>Accedi oggi per mantenere la serie e concludere il mese in forza.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں تاکہ سلسلہ برقرار رہے اور مہینہ مضبوطی سے ختم ہو۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je reeks te behouden en de maand sterk af te sluiten.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep pushing forward and stay consistent.</string>
+					<key>ar</key>
+					<string>استمر في المضي قدمًا وحافظ على الاتساق.</string>
+					<key>fr</key>
+					<string>Continuez d’avancer et restez constant.</string>
+					<key>de</key>
+					<string>Mach weiter und bleib konstant.</string>
+					<key>ru</key>
+					<string>Продолжайте двигаться вперёд и сохраняйте постоянство.</string>
+					<key>tr</key>
+					<string>İlerlemeye devam et ve istikrarlı kal.</string>
+					<key>it</key>
+					<string>Continua ad andare avanti e resta costante.</string>
+					<key>ur</key>
+					<string>آگے بڑھتے رہیں اور مستقل مزاج رہیں۔</string>
+					<key>nl</key>
+					<string>Blijf vooruitgaan en consistent blijven.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day29</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>You’re almost at the finish line!</string>
+					<key>ar</key>
+					<string>أنت على وشك الوصول إلى خط النهاية!</string>
+					<key>fr</key>
+					<string>Vous êtes presque à la ligne d’arrivée !</string>
+					<key>de</key>
+					<string>Du bist fast am Ziel!</string>
+					<key>ru</key>
+					<string>Вы почти у финиша!</string>
+					<key>tr</key>
+					<string>Bitiş çizgisine çok yaklaştın!</string>
+					<key>it</key>
+					<string>Sei quasi al traguardo!</string>
+					<key>ur</key>
+					<string>آپ تقریباً اختتام تک پہنچ گئے ہیں!</string>
+					<key>nl</key>
+					<string>Je bent bijna bij de finish!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in today and keep your streak alive for one more day.</string>
+					<key>ar</key>
+					<string>سجل الدخول اليوم وحافظ على سلسلتك حية ليوم آخر.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui et gardez votre série vivante encore un jour.</string>
+					<key>de</key>
+					<string>Checke heute ein und halte deine Serie noch einen Tag.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня и сохраните серию ещё на один день.</string>
+					<key>tr</key>
+					<string>Bugün giriş yap ve serini bir gün daha koru.</string>
+					<key>it</key>
+					<string>Accedi oggi e mantieni la serie per un altro giorno.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں اور اپنی سلسلہ ایک دن اور جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Check vandaag in en houd je reeks nog één dag levend.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Stay focused and keep your streak going tomorrow.</string>
+					<key>ar</key>
+					<string>ركز وحافظ على سلسلتك غدًا.</string>
+					<key>fr</key>
+					<string>Restez concentré et continuez demain.</string>
+					<key>de</key>
+					<string>Bleib fokussiert und mach morgen weiter.</string>
+					<key>ru</key>
+					<string>Оставайтесь сосредоточенными и продолжайте завтра.</string>
+					<key>tr</key>
+					<string>Odaklan ve yarın devam et.</string>
+					<key>it</key>
+					<string>Rimani concentrato e continua domani.</string>
+					<key>ur</key>
+					<string>توجہ برقرار رکھیں اور کل جاری رکھیں۔</string>
+					<key>nl</key>
+					<string>Blijf gefocust en ga morgen verder.</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>day30</key>
+		<dict>
+			<key>ifnci</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>The finish line is in sight!</string>
+					<key>ar</key>
+					<string>خط النهاية في الأفق!</string>
+					<key>fr</key>
+					<string>La ligne d’arrivée est en vue !</string>
+					<key>de</key>
+					<string>Die Ziellinie ist in Sicht!</string>
+					<key>ru</key>
+					<string>Финишная линия уже близко!</string>
+					<key>tr</key>
+					<string>Bitiş çizgisi göründü!</string>
+					<key>it</key>
+					<string>Il traguardo è in vista!</string>
+					<key>ur</key>
+					<string>اختتامی لائن سامنے ہے!</string>
+					<key>nl</key>
+					<string>De finish is in zicht!</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Check in today to complete your | day streak with pride.</string>
+					<key>ar</key>
+					<string>تحقق اليوم لإكمال سلسلتك المستمرة لليوم | بفخر.</string>
+					<key>fr</key>
+					<string>Enregistrez-vous aujourd’hui pour compléter votre série de | jours avec fierté.</string>
+					<key>de</key>
+					<string>Checke heute ein, um deine |-Tage-Serie stolz zu vollenden.</string>
+					<key>ru</key>
+					<string>Отметьтесь сегодня, чтобы завершить серию | дней с гордостью.</string>
+					<key>tr</key>
+					<string>| günlük serini gururla tamamlamak için bugün giriş yap.</string>
+					<key>it</key>
+					<string>Accedi oggi per completare con orgoglio la tua serie di | giorni.</string>
+					<key>ur</key>
+					<string>آج چیک اِن کریں تاکہ | دن کی سلسلہ فخر سے مکمل ہو۔</string>
+					<key>nl</key>
+					<string>Check vandaag in om je | dagen-reeks trots te voltooien.</string>
+				</dict>
+			</dict>
+			<key>ifncide</key>
+			<dict>
+				<key>titles</key>
+				<dict>
+					<key>en</key>
+					<string>Missed your streak.</string>
+					<key>ar</key>
+					<string>فاتتك سلسلتك.</string>
+					<key>fr</key>
+					<string>Série manquée.</string>
+					<key>de</key>
+					<string>Serie verpasst.</string>
+					<key>ru</key>
+					<string>Серия прервана.</string>
+					<key>tr</key>
+					<string>Seri kaçtı.</string>
+					<key>it</key>
+					<string>Serie persa.</string>
+					<key>ur</key>
+					<string>سلسلہ رہ گئی۔</string>
+					<key>nl</key>
+					<string>Reeks gemist.</string>
+				</dict>
+				<key>messages</key>
+				<dict>
+					<key>en</key>
+					<string>Keep moving forward and build on your success next month!</string>
+					<key>ar</key>
+					<string>استمر في المضي قدمًا وابني على نجاحك في الشهر المقبل!</string>
+					<key>fr</key>
+					<string>Continuez d’avancer et construisez sur votre réussite le mois prochain !</string>
+					<key>de</key>
+					<string>Mach weiter und baue nächsten Monat darauf auf!</string>
+					<key>ru</key>
+					<string>Продолжайте двигаться вперёд и развивайте успех в следующем месяце!</string>
+					<key>tr</key>
+					<string>İlerlemeye devam et ve gelecek ay başarını artır!</string>
+					<key>it</key>
+					<string>Continua ad andare avanti e costruisci sul tuo successo il prossimo mese!</string>
+					<key>ur</key>
+					<string>آگے بڑھتے رہیں اور اگلے مہینے اپنی کامیابی کو مزید مضبوط کریں!</string>
+					<key>nl</key>
+					<string>Blijf vooruitgaan en bouw volgende maand voort op je succes!</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

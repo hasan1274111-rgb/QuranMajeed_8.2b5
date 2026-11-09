@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="3.0">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/checkMushaflines" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/_15_lines" android:lines="2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/checkPageLines" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/page_lines" android:lines="2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/checkSideMarks" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/checkScreenTimeout" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/screen_timeout" android:lines="2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/checkQuranAnimation" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/quran_animation" android:lines="2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <CheckBox android:id="@id/isNewToolbar" android:background="@drawable/checkbox_selector" android:layout_width="@dimen/dash_check_width" android:layout_height="@dimen/dash_check_height" android:button="@color/fui_transparent" android:foreground="?android:selectableItemBackground" />
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/new_toolbar" android:lines="2" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="4.0" />
+</LinearLayout>

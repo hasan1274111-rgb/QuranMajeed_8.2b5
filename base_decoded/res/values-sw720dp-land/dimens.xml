@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">128.0dip</dimen>
+    <dimen name="bottom_settings_margin">10.0dip</dimen>
+    <dimen name="dash_top_header_height">250.0dip</dimen>
+    <dimen name="more_app_margin">50.0dip</dimen>
+</resources>

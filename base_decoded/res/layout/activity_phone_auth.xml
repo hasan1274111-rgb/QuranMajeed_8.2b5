@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/main_layout" android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/top_view" android:background="?cell_color_top" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:layout_alignParentTop="true" android:elevation="5.0dip">
+        <RelativeLayout android:id="@id/backBtn" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip">
+            <ImageView android:textSize="16.0dip" android:textColor="?topbar_content" android:id="@id/btnBack" android:layout_width="wrap_content" android:layout_height="@dimen/dash_nav_icon_size" android:src="@null" android:tint="?topbar_content" android:text="@string/back_text" android:layout_centerVertical="true" android:rotation="@integer/backBtnRotation" />
+        </RelativeLayout>
+        <View android:id="@id/view" android:background="?topbar_divider" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_toRightOf="@id/backBtn" android:layout_toEndOf="@id/backBtn" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="18.0sp" android:textColor="?topbar_title" android:gravity="center" android:layout_gravity="center" android:id="@id/header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:text="Sign In with Phone Number" android:layout_weight="1.0" android:layout_centerInParent="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/firstView" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/top_view">
+        <LinearLayout android:orientation="vertical" android:id="@id/bgView1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+            <LinearLayout android:orientation="vertical" android:background="@color/surface_qm" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5">
+                <ImageView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/phone_verification_img_1" android:scaleType="centerInside" android:layout_weight="0.25" android:layout_above="@id/phoneVerifyTitle" />
+                <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/phoneVerifyTitle" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="Enter Your Mobile Number" android:layout_weight="0.15" android:layout_above="@id/phoneDetails" />
+                <TextView android:textSize="15.0sp" android:textColor="@color/dark_gray" android:gravity="center" android:id="@id/phoneDetails" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="We will send a verify code to your number." android:layout_weight="0.2" android:layout_above="@id/numberView" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.3" />
+            </LinearLayout>
+            <LinearLayout android:background="@color/QMBackground" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5" />
+        </LinearLayout>
+        <RelativeLayout android:id="@id/overlay_view1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/hiad_66_dp">
+            <LinearLayout android:orientation="horizontal" android:id="@id/numberView" android:background="@drawable/border_bg" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="70.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:weightSum="1.0" android:layout_centerVertical="true">
+                <androidx.appcompat.widget.AppCompatRadioButton android:enabled="true" android:textSize="@dimen/about_quran_text_size" android:ellipsize="end" android:id="@id/buttonCountry" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="" android:lines="1" android:layout_weight="0.25" android:textAlignment="viewStart" android:drawableTint="@color/on_surface_qm" style="@style/RadioButton" />
+                <EditText android:textSize="@dimen/dash_tip_detail_textsize" android:gravity="center" android:id="@id/CountryCode" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="+966" android:hint="+966" android:maxLength="5" android:digits="+1234567890" android:layout_weight="0.2" android:inputType="number" android:imeOptions="actionNext" />
+                <EditText android:textSize="@dimen/about_website_text_size" android:id="@id/fieldPhoneNumber" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="Enter Phone Number" android:maxLength="10" android:digits="\ 1234567890" android:layout_weight="0.55" android:inputType="number" android:imeOptions="actionDone" />
+            </LinearLayout>
+            <Button android:textSize="15.0dip" android:textColor="@color/whiteAlways" android:id="@id/verfiyNow" android:background="@drawable/dash_button_selected" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="Verify Now" android:layout_below="@id/numberView" android:layout_centerHorizontal="true" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:layout_below="@id/verfiyNow">
+                <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0">
+                    <View android:id="@id/divider3" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_weight="0.3" />
+                    <TextView android:gravity="center" android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="OR" android:layout_weight="0.4" />
+                    <View android:id="@id/divider4" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_weight="0.3" />
+                </LinearLayout>
+                <LinearLayout android:gravity="start" android:orientation="horizontal" android:id="@id/sign_in_with_email" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sign_in_with_email" />
+                    <TextView android:textStyle="bold" android:textColor="@color/dash_green" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/email" android:layout_marginStart="2.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/secondView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/hiad_66_dp" android:layout_below="@id/top_view">
+        <LinearLayout android:orientation="vertical" android:id="@id/bgView2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+            <LinearLayout android:orientation="vertical" android:background="?cell_color" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5">
+                <ImageView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="10.0dip" android:src="@drawable/phone_verification_img_2" android:scaleType="centerInside" android:layout_weight="0.35" />
+                <TextView android:textSize="19.0sp" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/codeEnterTitle" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="10.0dip" android:text="Enter Verification Code" android:layout_weight="0.2" />
+                <TextView android:textSize="16.0sp" android:textColor="@color/grey_light" android:gravity="center" android:id="@id/codeEnterDetails" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="5.0dip" android:text="We have sent you  averification code to your number." android:layout_weight="0.15" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.3" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="@color/QMBackground" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.5" />
+        </LinearLayout>
+        <RelativeLayout android:id="@id/overlay_view2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:id="@id/verificationCodeView" android:background="@drawable/border_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginRight="60.0dip" android:layout_centerVertical="true">
+                <EditText android:textSize="40.0sp" android:gravity="center" android:id="@id/fieldVerificationCode" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:cursorVisible="false" android:maxLength="6" android:digits="\ 1234567890" android:layout_weight="0.15" android:inputType="number" android:textIsSelectable="false" />
+            </LinearLayout>
+            <Button android:textSize="15.0dip" android:textColor="@color/whiteAlways" android:id="@id/buttonVerifyPhone" android:background="@drawable/dash_button_selected" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="Continue" android:layout_below="@id/verificationCodeView" android:layout_centerHorizontal="true" />
+            <Button android:textSize="15.0dip" android:textColor="?header_text_color" android:id="@id/buttonResend" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="Resend Code" android:layout_below="@id/buttonVerifyPhone" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <TextView android:id="@id/detail" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:id="@id/status" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="You are not signed in. To use this sample, first navigate to the Email/Password example to sign in and then return here to enroll in multi-factor auth." />
+    <androidx.constraintlayout.widget.Group android:id="@id/phoneAuthFields" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</RelativeLayout>

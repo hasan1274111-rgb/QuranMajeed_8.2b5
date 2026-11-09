@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="?new_bgc" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/loading_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/loading_ad_title" android:layout_centerHorizontal="true" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/progressBar_cyclic" android:visibility="visible" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginTop="8.0dip" android:minWidth="40.0dip" android:minHeight="40.0dip" android:layout_below="@id/loading_text" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:id="@id/loading_text_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="48.0dip" android:text="@string/quran_majeed_premium_quot_to_remove_ads" android:layout_below="@id/progressBar_cyclic" android:layout_centerHorizontal="true" android:textAlignment="center" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

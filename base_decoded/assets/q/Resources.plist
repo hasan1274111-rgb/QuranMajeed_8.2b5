@@ -1,0 +1,3635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Translations</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>English-TaqiUsmani</key>
+			<dict>
+				<key>size</key>
+				<real>950974750</real>
+				<key>name</key>
+				<string>English-Taqi Usmani</string>
+				<key>name_ar</key>
+				<string>االإنجليزية: تقی عثمانی</string>
+				<key>creation_date</key>
+				<date>2023-03-13T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Eng-Mufti-Taqi-Usmani</string>
+			</dict>
+			<key>Urdu-TaqiUsmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-TaqiUsmani</string>
+				<key>name_ar</key>
+				<string>الأردية: تقی عثمانی</string>
+				<key>name_ur</key>
+				<string>اردو: تقی عثمانی</string>
+				<key>creation_date</key>
+				<date>2013-05-05T09:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Dutch-Keyzer</key>
+			<dict>
+				<key>name</key>
+				<string>Dutch-Keyzer</string>
+				<key>name_ar</key>
+				<string>الهولندية: Keyzer</string>
+				<key>name_ur</key>
+				<string>ڈچ: Keyzer</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Mohsin</key>
+			<dict>
+				<key>name</key>
+				<string>English-Mohsin</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: محسن</string>
+				<key>name_ur</key>
+				<string>انگریزی: محسن</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Pickthal</key>
+			<dict>
+				<key>size</key>
+				<integer>483274241</integer>
+				<key>name</key>
+				<string>English-Pickthal</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: بيكثال</string>
+				<key>name_ur</key>
+				<string>انگریزی: پيكتهال</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Eng-Pickthal</string>
+				<key>apple_id</key>
+				<string>481931714</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>English-Yusuf</key>
+			<dict>
+				<key>name</key>
+				<string>English-Yusuf</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: يوسف</string>
+				<key>name_ur</key>
+				<string>انگریزی: يوسف</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Mahmood</key>
+			<dict>
+				<key>size</key>
+				<integer>1418724099</integer>
+				<key>name</key>
+				<string>English-Mahmood</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: محمود حسن</string>
+				<key>name_ur</key>
+				<string>انگریزی: محمود</string>
+				<key>creation_date</key>
+				<date>2013-07-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Eng-Mahmood</string>
+			</dict>
+			<key>English-Saheeh</key>
+			<dict>
+				<key>size</key>
+				<real>1044658452</real>
+				<key>name</key>
+				<string>English-Saheeh International</string>
+				<key>name_ar</key>
+				<string>الإنجليزية:سَحِيح إنتَرناشيونال</string>
+				<key>creation_date</key>
+				<date>2021-04-06T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Eng-Saheeh-Audio</string>
+			</dict>
+			<key>Kazakh-Ibadullaev</key>
+			<dict>
+				<key>size</key>
+				<integer>1306451378</integer>
+				<key>name</key>
+				<string>Kazakh-Ibadullaev</string>
+				<key>name_ar</key>
+				<string>Kazakh-Ibadullaev</string>
+				<key>creation_date</key>
+				<date>2021-04-06T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Kazakh-Ibadullaev-Sabit</string>
+			</dict>
+			<key>Filipino-AbdulRakman</key>
+			<dict>
+				<key>name</key>
+				<string>Filipino-AbdulRakman</string>
+				<key>name_ar</key>
+				<string>Filipino-AbdulRakman</string>
+				<key>creation_date</key>
+				<date>2021-04-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Ismatullah</key>
+			<dict>
+				<key>name</key>
+				<string>English-Ismatullah</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: عصمت الله</string>
+				<key>name_ur</key>
+				<string>انگریزی: عصمت الله</string>
+				<key>creation_date</key>
+				<date>2018-04-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Mawdudi</key>
+			<dict>
+				<key>size</key>
+				<integer>2141453916</integer>
+				<key>name</key>
+				<string>English: Zafar Ishaq Ansari (Mawdudi)</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: ظفر اسحاق انصاري (المودودي)</string>
+				<key>name_ur</key>
+				<string>انگریزی: ﻇﻔﺮ اسحاق انصاﺭﻯ (مودودی‎)</string>
+				<key>creation_date</key>
+				<date>2020-04-20T08:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Eng-Mawdudi-ZafarIshaq</string>
+			</dict>
+			<key>English-Transliteration</key>
+			<dict>
+				<key>name</key>
+				<string>Transliteration-DrAbdulAzeez</string>
+				<key>name_ar</key>
+				<string>النقل الحرفي د. عبدالعزيز</string>
+				<key>name_ur</key>
+				<string>نقل حرفی ڈاکٹر عبدالعزیز</string>
+				<key>creation_date</key>
+				<date>2015-04-11T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>French</key>
+			<dict>
+				<key>name</key>
+				<string>French</string>
+				<key>name_ar</key>
+				<string>الفرنسية</string>
+				<key>name_ur</key>
+				<string>فرانسیسی</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>German-AbuRida</key>
+			<dict>
+				<key>name</key>
+				<string>German-Abu Rida</string>
+				<key>name_ar</key>
+				<string>الألمانية: أبو رضا</string>
+				<key>name_ur</key>
+				<string>جرمن: ابو ردا</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Indonesian</key>
+			<dict>
+				<key>name</key>
+				<string>Indonesian</string>
+				<key>name_ar</key>
+				<string>الاندونيسية</string>
+				<key>name_ur</key>
+				<string>انڈونیشیا</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Italian-Piccardo</key>
+			<dict>
+				<key>name</key>
+				<string>Italian-Piccardo</string>
+				<key>name_ar</key>
+				<string>إيطالي: Piccardo</string>
+				<key>name_ur</key>
+				<string>اطالوی: پیکاردو</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Malaysian</key>
+			<dict>
+				<key>name</key>
+				<string>Malaysian</string>
+				<key>name_ar</key>
+				<string>الماليزية</string>
+				<key>name_ur</key>
+				<string>ملائیشیا</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Norwegian-Berg</key>
+			<dict>
+				<key>name</key>
+				<string>Norwegian-Berg</string>
+				<key>name_ar</key>
+				<string>النرويجية: Berg</string>
+				<key>name_ur</key>
+				<string>ناروے: برگ</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Russian-AbuAdel</key>
+			<dict>
+				<key>name</key>
+				<string>Russian-Abu Adel</string>
+				<key>name_ar</key>
+				<string>الروسي: أبو عادل</string>
+				<key>name_ur</key>
+				<string>روسی: ابو عادل</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Swedish-Bernstrom</key>
+			<dict>
+				<key>name</key>
+				<string>Swedish-Bernstrom</string>
+				<key>name_ar</key>
+				<string>السويدي: Bernstrom</string>
+				<key>name_ur</key>
+				<string>سویڈش: برناسٹروم</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Turkish-Vakfi</key>
+			<dict>
+				<key>name</key>
+				<string>Turkish-Vakfi</string>
+				<key>name_ar</key>
+				<string>التركي: Vaqfi</string>
+				<key>name_ur</key>
+				<string>ترکی: واقفی</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Urdu-AhmedAli</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-AhmedAli</string>
+				<key>name_ar</key>
+				<string>الأردية: احمد علي</string>
+				<key>name_ur</key>
+				<string>اردو: احمد علي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Urdu-Fateh</key>
+			<dict>
+				<key>size</key>
+				<integer>481758154</integer>
+				<key>name</key>
+				<string>Urdu-Fateh</string>
+				<key>name_ar</key>
+				<string>الأردية: فتح محمد</string>
+				<key>name_ur</key>
+				<string>اردو: فتح</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Urdu-Jalandhry</string>
+				<key>apple_id</key>
+				<string>481926945</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Urdu-Mahmood</key>
+			<dict>
+				<key>size</key>
+				<integer>923496583</integer>
+				<key>name</key>
+				<string>Urdu-Mahmood</string>
+				<key>name_ar</key>
+				<string>الأردية: محمود حسن</string>
+				<key>name_ur</key>
+				<string>اردو: محمود</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Urdu-Mahmood</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Urdu-Thanvi</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Thanvi</string>
+				<key>name_ar</key>
+				<string>الأردية: تھانوي</string>
+				<key>name_ur</key>
+				<string>اردو: تھانوي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Bengali-Muhiuddin</key>
+			<dict>
+				<key>name</key>
+				<string>Bengali-Muhiuddin</string>
+				<key>name_ar</key>
+				<string>البنغالية: محي الدين</string>
+				<key>name_ur</key>
+				<string>بنگالی: محي الدين</string>
+				<key>creation_date</key>
+				<date>2012-01-15T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Malayalam-Karakunnu</key>
+			<dict>
+				<key>name</key>
+				<string>Malayalam-Karakunnu</string>
+				<key>name_ar</key>
+				<string>الماليالام: Karakunnu</string>
+				<key>name_ur</key>
+				<string>ملیالم: کاراکوننو</string>
+				<key>creation_date</key>
+				<date>2012-07-05T06:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Bosnian-Korkut</key>
+			<dict>
+				<key>name</key>
+				<string>Bosnian-Korkut</string>
+				<key>name_ar</key>
+				<string>البوسنة: كوركوت</string>
+				<key>name_ur</key>
+				<string>بوسنیائی: كوركوت</string>
+				<key>creation_date</key>
+				<date>2012-01-15T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Sindhi-Amroti</key>
+			<dict>
+				<key>name</key>
+				<string>Sindhi-Amroti</string>
+				<key>name_ar</key>
+				<string>السندية: امروتي</string>
+				<key>name_ur</key>
+				<string>سندھی: امروتي</string>
+				<key>creation_date</key>
+				<date>2012-01-15T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Uyghur-Saleh</key>
+			<dict>
+				<key>name</key>
+				<string>Uyghur-Saleh</string>
+				<key>name_ar</key>
+				<string>الأويغور: الصالح</string>
+				<key>name_ur</key>
+				<string>اويغور: صالح</string>
+				<key>creation_date</key>
+				<date>2012-01-15T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Persian-Khorramdel</key>
+			<dict>
+				<key>name</key>
+				<string>Persian-Khorramdel</string>
+				<key>name_ar</key>
+				<string>الفارسي: خرمدل</string>
+				<key>name_ur</key>
+				<string>فارسی: خرمدل</string>
+				<key>creation_date</key>
+				<date>2012-07-05T11:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Uzbek-Sodik</key>
+			<dict>
+				<key>name</key>
+				<string>Uzbek-Sodik</string>
+				<key>name_ar</key>
+				<string>الأوزبكية: صادق</string>
+				<key>name_ur</key>
+				<string>ازبک: صادق</string>
+				<key>creation_date</key>
+				<date>2012-01-15T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Azerbaijani-Musayev</key>
+			<dict>
+				<key>name</key>
+				<string>Azerbaijani-Musayev</string>
+				<key>name_ar</key>
+				<string>Azerbaijani-Musayev</string>
+				<key>creation_date</key>
+				<date>2013-09-22T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Albanian-Nahi</key>
+			<dict>
+				<key>name</key>
+				<string>Albanian-Nahi</string>
+				<key>name_ar</key>
+				<string>Albanian-Nahi</string>
+				<key>creation_date</key>
+				<date>2013-09-24T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Kurdish-Asan</key>
+			<dict>
+				<key>name</key>
+				<string>Kurdish-Asan</string>
+				<key>name_ar</key>
+				<string>Kurdish-Asan</string>
+				<key>creation_date</key>
+				<date>2013-09-24T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Pashto-Abdulwali</key>
+			<dict>
+				<key>name</key>
+				<string>Pashto-Abdulwali</string>
+				<key>name_ar</key>
+				<string>Pashto-Abdulwali</string>
+				<key>creation_date</key>
+				<date>2018-05-11T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Pashto-Audio-Only</key>
+			<dict>
+				<key>size</key>
+				<integer>1071356942</integer>
+				<key>name</key>
+				<string>Pashto-Audio-Only</string>
+				<key>name_ar</key>
+				<string>Pashto-Audio-Only</string>
+				<key>creation_date</key>
+				<date>2020-05-01T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Pashto-Audio</string>
+			</dict>
+			<key>Gujrati-Audio-Only</key>
+			<dict>
+				<key>size</key>
+				<integer>1695502517</integer>
+				<key>name</key>
+				<string>Gujrati-Audio-Only</string>
+				<key>name_ar</key>
+				<string>Gujrati-Audio-Only</string>
+				<key>creation_date</key>
+				<date>2020-05-03T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Gujrati-Audio</string>
+			</dict>
+			<key>Baluchi-Audio-Only</key>
+			<dict>
+				<key>size</key>
+				<integer>2017480100</integer>
+				<key>name</key>
+				<string>Baluchi-Audio-Only</string>
+				<key>name_ar</key>
+				<string>Baluchi-Audio-Only</string>
+				<key>creation_date</key>
+				<date>2020-05-03T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Baluchi-Audio</string>
+			</dict>
+			<key>Urdu-TariqMasood-Tafsir-Audio-Only</key>
+			<dict>
+				<key>size</key>
+				<real>3041875713</real>
+				<key>name</key>
+				<string>Mufti Tariq Masood Tafsir Audio (partial)</string>
+				<key>name_ar</key>
+				<string>المفتي طارق مسعود التفسير الصوتي (جزئي)</string>
+				<key>name_ur</key>
+				<string>مفتی طارق مسعود تفسیر آڈیو (جزوی)</string>
+				<key>creation_date</key>
+				<date>2024-03-05T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Urdu-TariqMasood-TafsirAudio</string>
+				<key>missing_roukhs</key>
+				<string>14-22,24,26,28-29,31-32,269-270,300-518,</string>
+			</dict>
+			<key>Amazigh-Mansour</key>
+			<dict>
+				<key>name</key>
+				<string>Amazigh-Mansour</string>
+				<key>name_ar</key>
+				<string>Amazigh-Mansour</string>
+				<key>creation_date</key>
+				<date>2013-09-24T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Bulgarian-Theophanov</key>
+			<dict>
+				<key>name</key>
+				<string>Bulgarian-Theophanov</string>
+				<key>name_ar</key>
+				<string>Bulgarian-Theophanov</string>
+				<key>creation_date</key>
+				<date>2013-09-24T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Polish-Bielawskiego</key>
+			<dict>
+				<key>name</key>
+				<string>Polish-Bielawskiego</string>
+				<key>name_ar</key>
+				<string>Polish-Bielawskiego</string>
+				<key>creation_date</key>
+				<date>2013-09-24T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Portuguese-Hayek</key>
+			<dict>
+				<key>name</key>
+				<string>Portuguese-Hayek</string>
+				<key>name_ar</key>
+				<string>Portuguese-Hayek</string>
+				<key>creation_date</key>
+				<date>2013-09-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Romanian-Grigore</key>
+			<dict>
+				<key>name</key>
+				<string>Romanian-Grigore</string>
+				<key>name_ar</key>
+				<string>Romanian-Grigore</string>
+				<key>creation_date</key>
+				<date>2013-09-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Spanish-Cortes</key>
+			<dict>
+				<key>name</key>
+				<string>Spanish-Cortes</string>
+				<key>name_ar</key>
+				<string>Spanish-Cortes</string>
+				<key>creation_date</key>
+				<date>2013-09-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Swahili-Barwani</key>
+			<dict>
+				<key>name</key>
+				<string>Swahili-Barwani</string>
+				<key>name_ar</key>
+				<string>Swahili-Barwani</string>
+				<key>creation_date</key>
+				<date>2013-09-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Somali-Abduh</key>
+			<dict>
+				<key>name</key>
+				<string>Somali-Abduh</string>
+				<key>name_ar</key>
+				<string>Somali-Abduh</string>
+				<key>creation_date</key>
+				<date>2013-09-25T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Tatar-Nugman</key>
+			<dict>
+				<key>name</key>
+				<string>Tatar-Nugman</string>
+				<key>name_ar</key>
+				<string>Tatar-Nugman</string>
+				<key>creation_date</key>
+				<date>2013-09-26T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Tajik-Ayati</key>
+			<dict>
+				<key>name</key>
+				<string>Tajik-Ayati</string>
+				<key>name_ar</key>
+				<string>Tajik-Ayati</string>
+				<key>creation_date</key>
+				<date>2013-09-26T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Arabic-TafsirJalalayn</key>
+			<dict>
+				<key>name</key>
+				<string>Arabic-TafsirJalalayn</string>
+				<key>name_ar</key>
+				<string>Arabic-TafsirJalalayn</string>
+				<key>creation_date</key>
+				<date>2013-09-26T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Amharic-Sadiq</key>
+			<dict>
+				<key>name</key>
+				<string>Amharic-Sadiq</string>
+				<key>name_ar</key>
+				<string>Amharic-Sadiq</string>
+				<key>creation_date</key>
+				<date>2013-10-02T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>ChineseSimplified</key>
+			<dict>
+				<key>name</key>
+				<string>ChineseSimplified</string>
+				<key>name_ar</key>
+				<string>ChineseSimplified</string>
+				<key>creation_date</key>
+				<date>2013-10-04T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>ChineseTraditional</key>
+			<dict>
+				<key>name</key>
+				<string>ChineseTraditional</string>
+				<key>name_ar</key>
+				<string>ChineseTraditional</string>
+				<key>creation_date</key>
+				<date>2013-10-04T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Tamil-Jantrust</key>
+			<dict>
+				<key>name</key>
+				<string>Tamil-Jantrust</string>
+				<key>name_ar</key>
+				<string>Tamil-Jantrust</string>
+				<key>creation_date</key>
+				<date>2013-10-02T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Hindi-Farooq</key>
+			<dict>
+				<key>name</key>
+				<string>Hindi-Farooq</string>
+				<key>name_ar</key>
+				<string>Hindi-Farooq</string>
+				<key>creation_date</key>
+				<date>2013-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Japanese</key>
+			<dict>
+				<key>name</key>
+				<string>Japanese</string>
+				<key>name_ar</key>
+				<string>Japanese</string>
+				<key>creation_date</key>
+				<date>2013-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Korean</key>
+			<dict>
+				<key>name</key>
+				<string>Korean</string>
+				<key>name_ar</key>
+				<string>Korean</string>
+				<key>creation_date</key>
+				<date>2013-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Hausa-Gumi</key>
+			<dict>
+				<key>name</key>
+				<string>Hausa-Gumi</string>
+				<key>name_ar</key>
+				<string>Hausa-Gumi</string>
+				<key>creation_date</key>
+				<date>2013-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Divehi</key>
+			<dict>
+				<key>name</key>
+				<string>Divehi</string>
+				<key>name_ar</key>
+				<string>Divehi</string>
+				<key>creation_date</key>
+				<date>2013-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Malayalam-AbdulHameed</key>
+			<dict>
+				<key>size</key>
+				<integer>761454008</integer>
+				<key>name</key>
+				<string>Malayalam-AbdulHameed</string>
+				<key>name_ar</key>
+				<string>Malayalam-AbdulHameed</string>
+				<key>creation_date</key>
+				<date>2013-10-22T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Malayalam-AbdulHameed-Audio</string>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Indonesian-Jalalayn</key>
+			<dict>
+				<key>name</key>
+				<string>Indonesian-Jalalayn</string>
+				<key>name_ar</key>
+				<string>Indonesian-Jalalayn</string>
+				<key>creation_date</key>
+				<date>2014-01-19T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Indonesian-Shihab</key>
+			<dict>
+				<key>name</key>
+				<string>Indonesian-Shihab</string>
+				<key>name_ar</key>
+				<string>Indonesian-Shihab</string>
+				<key>creation_date</key>
+				<date>2014-01-19T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>Czech-Hrbek</key>
+			<dict>
+				<key>name</key>
+				<string>Czech-Hrbek</string>
+				<key>name_ar</key>
+				<string>Czech-Hrbek</string>
+				<key>creation_date</key>
+				<date>2014-05-20T11:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+			</dict>
+			<key>English-Daryabadi</key>
+			<dict>
+				<key>name</key>
+				<string>English-Abdul Majid Daryabadi</string>
+				<key>name_ar</key>
+				<string>الإنجليزية: عبدالمجيد دريابادي</string>
+				<key>name_ur</key>
+				<string>انگریزی:عبدالمجید دریابادی</string>
+				<key>creation_date</key>
+				<date>2024-11-19T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Turkish-Diyanet</key>
+			<dict>
+				<key>name</key>
+				<string>Turkish-Diyanet Isleri</string>
+				<key>name_ar</key>
+				<string>التركي: ديانات إشلري</string>
+				<key>name_ur</key>
+				<string>ترکی: دیانت اِشلری</string>
+				<key>creation_date</key>
+				<date>2024-11-20T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Turkish-Yazir</key>
+			<dict>
+				<key>name</key>
+				<string>Turkish Elmalili Hamdi Yazir</string>
+				<key>name_ar</key>
+				<string>التركي: الماللي حمدي يازر</string>
+				<key>name_ur</key>
+				<string>ترکی: الماللی حمدی یازر</string>
+				<key>creation_date</key>
+				<date>2024-11-21T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Russian-Kuliev</key>
+			<dict>
+				<key>name</key>
+				<string>Russian Elmir Kuliev</string>
+				<key>name_ar</key>
+				<string>الروسي: إلمير كولييف</string>
+				<key>name_ur</key>
+				<string>روسی: المیر کلیف</string>
+				<key>creation_date</key>
+				<date>2024-11-20T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Talysh-GironBitov</key>
+			<dict>
+				<key>name</key>
+				<string>Talysh-Rustamzade Kahraman</string>
+				<key>name_ar</key>
+				<string>الطاليش: رستم زاده قهرمان</string>
+				<key>name_ur</key>
+				<string>تالش: رستم زاده قهرمان</string>
+				<key>creation_date</key>
+				<date>2025-08-26T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Turkmen-Younus_Erdem</key>
+			<dict>
+				<key>name</key>
+				<string>Turkmen-Younus Erdem Guloglu</string>
+				<key>name_ar</key>
+				<string>التركماني: يونس أردم غولوغلو</string>
+				<key>name_ur</key>
+				<string>ترکمان: یونس اَردَم گولوغلو</string>
+				<key>creation_date</key>
+				<date>2025-10-03T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Urdu-Usmani-Tafsir-Audio</key>
+			<dict>
+				<key>size</key>
+				<real>3041875713</real>
+				<key>name</key>
+				<string>Tafsir-Urdu-Shabbir Ahmad Usmani Audio</string>
+				<key>name_ar</key>
+				<string>الأردية - التفسير الصوتي لشَبِير أحمَد عُثماني</string>
+				<key>name_ur</key>
+				<string>اردو - شبیر احمد عثمانی تفسیر آڈیو</string>
+				<key>creation_date</key>
+				<date>2025-10-07T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>audio</key>
+				<string>Urdu-Usmani-Tafsir-Audio</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>Reciters</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Abdul-Baasit</key>
+			<dict>
+				<key>size</key>
+				<integer>1722860953</integer>
+				<key>name</key>
+				<string>Abdul-Baasit</string>
+				<key>name_ar</key>
+				<string>عبد الباسط</string>
+				<key>name_ur</key>
+				<string>عبد الباسط</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>12865</integer>
+				<key>apple_id</key>
+				<string>480917715</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Abu-Bakr-Shatry</key>
+			<dict>
+				<key>size</key>
+				<integer>1490974097</integer>
+				<key>name</key>
+				<string>Abu Bakr Shatry</string>
+				<key>name_ar</key>
+				<string>أبو بكر الشاطري</string>
+				<key>name_ur</key>
+				<string>أبو بكر الشاطري</string>
+				<key>creation_date</key>
+				<date>2012-01-08T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>40224</integer>
+				<key>apple_id</key>
+				<string>485277876</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>As-Sudays-Shraym</key>
+			<dict>
+				<key>size</key>
+				<integer>591481227</integer>
+				<key>name</key>
+				<string>As-Sudays-Shraym</string>
+				<key>name_ar</key>
+				<string>السديس الشريم</string>
+				<key>name_ur</key>
+				<string>السديس الشريم</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>25695</integer>
+				<key>apple_id</key>
+				<string>474156566</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Mahir-al-Muayqali</key>
+			<dict>
+				<key>size</key>
+				<integer>650909345</integer>
+				<key>name</key>
+				<string>Mahir-al-Muayqali</string>
+				<key>name_ar</key>
+				<string>ماهر المعيقلي</string>
+				<key>name_ur</key>
+				<string>ماهر المعيقلي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>15490</integer>
+				<key>apple_id</key>
+				<string>480922361</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Mishari-Rashid</key>
+			<dict>
+				<key>size</key>
+				<integer>865066754</integer>
+				<key>name</key>
+				<string>Mishari-Rashid</string>
+				<key>name_ar</key>
+				<string>مشاري راشد</string>
+				<key>name_ur</key>
+				<string>مشاري راشد</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>12537</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Mishari-Rashid-HQ</key>
+			<dict>
+				<key>size</key>
+				<integer>1715145243</integer>
+				<key>name</key>
+				<string>Mishari-Rashid-HQ</string>
+				<key>name_ar</key>
+				<string>مشاري (جودة عالية)</string>
+				<key>name_ur</key>
+				<string>مشاري (جودة عالية)</string>
+				<key>creation_date</key>
+				<date>2012-01-08T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>14955</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Saad Al Ghamdi</key>
+			<dict>
+				<key>size</key>
+				<integer>446180398</integer>
+				<key>name</key>
+				<string>Saad Al Ghamdi</string>
+				<key>name_ar</key>
+				<string>سعد الغامدي</string>
+				<key>name_ur</key>
+				<string>سعد الغامدي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>7662</integer>
+				<key>apple_id</key>
+				<string>482334749</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Sheikh Al-Huzaifi</key>
+			<dict>
+				<key>size</key>
+				<integer>844871216</integer>
+				<key>name</key>
+				<string>Sheikh Al-Huzaifi</string>
+				<key>name_ar</key>
+				<string>علي الحذيفي</string>
+				<key>name_ur</key>
+				<string>علي الحذيفي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>1720</integer>
+				<key>apple_id</key>
+				<string>481594772</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Sheikh-Ahmed-Ajmi</key>
+			<dict>
+				<key>size</key>
+				<integer>566424056</integer>
+				<key>name</key>
+				<string>Sheikh-Ahmed-Ajmi</string>
+				<key>name_ar</key>
+				<string>أحمد العجمي</string>
+				<key>name_ur</key>
+				<string>أحمد العجمي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>3721</integer>
+				<key>apple_id</key>
+				<string>482332935</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Sheikh-Ayub</key>
+			<dict>
+				<key>size</key>
+				<integer>695797088</integer>
+				<key>name</key>
+				<string>Sheikh-Ayub</string>
+				<key>name_ar</key>
+				<string>محمد أيوب</string>
+				<key>name_ur</key>
+				<string>محمد أيوب</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>1997</integer>
+				<key>apple_id</key>
+				<string>481592222</string>
+			</dict>
+			<key>Sheikh-Basfar</key>
+			<dict>
+				<key>size</key>
+				<integer>684770480</integer>
+				<key>name</key>
+				<string>Sheikh-Basfar</string>
+				<key>name_ar</key>
+				<string>عبد الله بصفر</string>
+				<key>name_ur</key>
+				<string>عبد الله بصفر</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>2763</integer>
+				<key>apple_id</key>
+				<string>481593387</string>
+			</dict>
+			<key>Sheikh-Minshawi</key>
+			<dict>
+				<key>size</key>
+				<integer>1248545337</integer>
+				<key>name</key>
+				<string>Sheikh-Minshawi</string>
+				<key>name_ar</key>
+				<string>محمد المنشاوي</string>
+				<key>name_ur</key>
+				<string>محمد المنشاوي</string>
+				<key>creation_date</key>
+				<date>2010-04-01T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>4960</integer>
+				<key>apple_id</key>
+				<string>481587866</string>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Khalil-Husari</key>
+			<dict>
+				<key>size</key>
+				<integer>1839194678</integer>
+				<key>name</key>
+				<string>Khalil-Husari</string>
+				<key>name_ar</key>
+				<string>خليل الحصري</string>
+				<key>name_ur</key>
+				<string>خليل الحصري</string>
+				<key>creation_date</key>
+				<date>2012-01-08T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>4219</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Salah Bukhatir</key>
+			<dict>
+				<key>size</key>
+				<integer>328359904</integer>
+				<key>name</key>
+				<string>Salah Bukhatir</string>
+				<key>name_ar</key>
+				<string>صلاح بو خاطر</string>
+				<key>name_ur</key>
+				<string>صلاح بو خاطر</string>
+				<key>creation_date</key>
+				<date>2012-01-08T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>3620</integer>
+			</dict>
+			<key>Mahmood-AlBana</key>
+			<dict>
+				<key>size</key>
+				<integer>1174840529</integer>
+				<key>name</key>
+				<string>Mahmood-AlBana</string>
+				<key>name_ar</key>
+				<string>محمود البنا</string>
+				<key>name_ur</key>
+				<string>محمود البنا</string>
+				<key>creation_date</key>
+				<date>2013-03-27T00:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>909</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Abdulmohsen-Al-Qasim</key>
+			<dict>
+				<key>size</key>
+				<integer>1793352944</integer>
+				<key>name</key>
+				<string>Abdulmohsen-Al-Qasim</string>
+				<key>name_ar</key>
+				<string>عبد المحسن القاسم</string>
+				<key>name_ur</key>
+				<string>عبد المحسن القاسم</string>
+				<key>creation_date</key>
+				<date>2014-05-08T07:11:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>924</integer>
+			</dict>
+			<key>Abdullah-Matroud</key>
+			<dict>
+				<key>size</key>
+				<integer>1608803896</integer>
+				<key>name</key>
+				<string>Abdullah-Matroud</string>
+				<key>name_ar</key>
+				<string>عبد الله المطرود</string>
+				<key>name_ur</key>
+				<string>عبد الله المطرود</string>
+				<key>creation_date</key>
+				<date>2014-05-08T07:11:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>2829</integer>
+			</dict>
+			<key>Ahmed-Neana</key>
+			<dict>
+				<key>size</key>
+				<integer>1743757472</integer>
+				<key>name</key>
+				<string>Ahmed-Neana</string>
+				<key>name_ar</key>
+				<string>أحمد نعينع</string>
+				<key>name_ur</key>
+				<string>أحمد نعينع</string>
+				<key>creation_date</key>
+				<date>2014-05-08T08:11:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>806</integer>
+			</dict>
+			<key>Ali-Hajjaj-Souissi</key>
+			<dict>
+				<key>size</key>
+				<integer>1779681474</integer>
+				<key>name</key>
+				<string>Ali-Hajjaj-Souissi</string>
+				<key>name_ar</key>
+				<string>علي حجاج السويسي</string>
+				<key>name_ur</key>
+				<string>علي حجاج السويسي</string>
+				<key>creation_date</key>
+				<date>2014-05-08T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>127</integer>
+			</dict>
+			<key>Aziz-Alili</key>
+			<dict>
+				<key>size</key>
+				<integer>1477575158</integer>
+				<key>name</key>
+				<string>Aziz-Alili</string>
+				<key>name_ar</key>
+				<string>عزيز عليلي</string>
+				<key>name_ur</key>
+				<string>عزيز عليلي</string>
+				<key>creation_date</key>
+				<date>2014-05-12T09:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>1637</integer>
+			</dict>
+			<key>Khaled-Al-Qahtani</key>
+			<dict>
+				<key>size</key>
+				<integer>1556033186</integer>
+				<key>name</key>
+				<string>Khaled-Al-Qahtani</string>
+				<key>name_ar</key>
+				<string>خالد القحطاني</string>
+				<key>name_ur</key>
+				<string>خالد القحطاني</string>
+				<key>creation_date</key>
+				<date>2014-05-16T06:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>93</integer>
+			</dict>
+			<key>Abdullah-Al-Juhani</key>
+			<dict>
+				<key>size</key>
+				<integer>1177103890</integer>
+				<key>name</key>
+				<string>Abdullah-Al-Juhani</string>
+				<key>name_ar</key>
+				<string>عبد الله الجهني</string>
+				<key>name_ur</key>
+				<string>عبد الله الجهني</string>
+				<key>creation_date</key>
+				<date>2014-05-19T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>3016</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Muhammad-Al-Tablawi</key>
+			<dict>
+				<key>size</key>
+				<integer>1709811666</integer>
+				<key>name</key>
+				<string>Muhammad-Al-Tablawi</string>
+				<key>name_ar</key>
+				<string>محمد الطبلاوي</string>
+				<key>name_ur</key>
+				<string>محمد الطبلاوي</string>
+				<key>creation_date</key>
+				<date>2014-05-20T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>180</integer>
+			</dict>
+			<key>Nasser-Alqatami</key>
+			<dict>
+				<key>size</key>
+				<integer>1555331444</integer>
+				<key>name</key>
+				<string>Nasser-Alqatami</string>
+				<key>name_ar</key>
+				<string>ناصر القطامي</string>
+				<key>name_ur</key>
+				<string>ناصر القطامي</string>
+				<key>creation_date</key>
+				<date>2014-05-29T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>946</integer>
+			</dict>
+			<key>Sahl-Yassin</key>
+			<dict>
+				<key>size</key>
+				<integer>1401460180</integer>
+				<key>name</key>
+				<string>Sahl-Yassin</string>
+				<key>name_ar</key>
+				<string>سهل ياسين</string>
+				<key>name_ur</key>
+				<string>سهل ياسين</string>
+				<key>creation_date</key>
+				<date>2014-05-31T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>99</integer>
+			</dict>
+			<key>Yasser-Al-Dosari</key>
+			<dict>
+				<key>size</key>
+				<integer>1495582092</integer>
+				<key>name</key>
+				<string>Yasser-Al-Dosari</string>
+				<key>name_ar</key>
+				<string>ياسر الدوسري</string>
+				<key>name_ur</key>
+				<string>ياسر الدوسري</string>
+				<key>creation_date</key>
+				<date>2014-06-03T12:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>543</integer>
+			</dict>
+			<key>Tawfeeq-As-Sayegh</key>
+			<dict>
+				<key>size</key>
+				<integer>1468484835</integer>
+				<key>name</key>
+				<string>Tawfeeq-As-Sayegh</string>
+				<key>name_ar</key>
+				<string>توفيق الصايغ</string>
+				<key>name_ur</key>
+				<string>توفيق الصايغ</string>
+				<key>creation_date</key>
+				<date>2015-05-29T11:30:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>3000</integer>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Sheikh-Ridhwan</key>
+			<dict>
+				<key>size</key>
+				<integer>1150433485</integer>
+				<key>name</key>
+				<string>Ridhwan Aal-e-Ismail</string>
+				<key>name_ar</key>
+				<string>رضوان آل إسماعيل‎‎</string>
+				<key>name_ur</key>
+				<string>رضوان آل إسماعيل‎‎</string>
+				<key>creation_date</key>
+				<date>2019-05-10T05:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>0</integer>
+			</dict>
+			<key>Ateeq-ur-Rehman</key>
+			<dict>
+				<key>size</key>
+				<integer>2369344253</integer>
+				<key>name</key>
+				<string>Ateeq-ur-Rehman</string>
+				<key>name_ar</key>
+				<string>عتیق الرحمان</string>
+				<key>name_ur</key>
+				<string>عتیق الرحمان</string>
+				<key>creation_date</key>
+				<date>2020-06-29T05:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>0</integer>
+			</dict>
+			<key>Farooq-ul-Hasan</key>
+			<dict>
+				<key>size</key>
+				<integer>2239155874</integer>
+				<key>name</key>
+				<string>Farooq-ul-Hasan</string>
+				<key>name_ar</key>
+				<string>فاروق الحسن</string>
+				<key>name_ur</key>
+				<string>فاروق الحسن</string>
+				<key>creation_date</key>
+				<date>2020-06-29T05:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>0</integer>
+			</dict>
+			<key>Jimaleh-Hussein-Nuur</key>
+			<dict>
+				<key>size</key>
+				<integer>1184862868</integer>
+				<key>name</key>
+				<string>Jimaleh-Hussein-Nuur</string>
+				<key>name_ar</key>
+				<string>جمالى حسين نور</string>
+				<key>name_ur</key>
+				<string>جمالى حسين نور</string>
+				<key>creation_date</key>
+				<date>2021-12-21T05:00:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>0</integer>
+			</dict>
+			<key>Ibrahim-Al-Akhdar</key>
+			<dict>
+				<key>size</key>
+				<integer>975611325</integer>
+				<key>name</key>
+				<string>Ibrahim-Al-Akhdar</string>
+				<key>name_ar</key>
+				<string>ابراهيم الأخضر</string>
+				<key>name_ur</key>
+				<string>ابراهيم الأخضر</string>
+				<key>creation_date</key>
+				<date>2022-08-22T12:18:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>50000</integer>
+			</dict>
+			<key>Yaser-Salamah</key>
+			<dict>
+				<key>size</key>
+				<integer>1553519431</integer>
+				<key>name</key>
+				<string>Yaser-Salamah</string>
+				<key>name_ar</key>
+				<string>ياسر سلامة</string>
+				<key>name_ur</key>
+				<string>ياسر سلامة</string>
+				<key>creation_date</key>
+				<date>2022-08-22T12:18:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>49000</real>
+			</dict>
+			<key>Muhammad-Jibreel</key>
+			<dict>
+				<key>size</key>
+				<integer>1657864165</integer>
+				<key>name</key>
+				<string>Muhammad-Jibreel</string>
+				<key>name_ar</key>
+				<string>محمد جبريل</string>
+				<key>name_ur</key>
+				<string>محمد جبريل</string>
+				<key>creation_date</key>
+				<date>2022-08-22T12:18:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>48000</real>
+			</dict>
+			<key>Akram-Al-Alaqimy</key>
+			<dict>
+				<key>size</key>
+				<integer>1767661723</integer>
+				<key>name</key>
+				<string>Akram-Al-Alaqimy</string>
+				<key>name_ar</key>
+				<string>اكرم العقمي</string>
+				<key>name_ur</key>
+				<string>اكرم العقمي</string>
+				<key>creation_date</key>
+				<date>2022-08-22T12:18:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>47000</real>
+			</dict>
+			<key>Waheed-Zafar-Qasmi</key>
+			<dict>
+				<key>size</key>
+				<real>2461047292</real>
+				<key>name</key>
+				<string>Waheed-Zafar-Qasmi</string>
+				<key>name_ar</key>
+				<string>وحید ظفر قاسمی</string>
+				<key>name_ur</key>
+				<string>وحید ظفر قاسمی</string>
+				<key>creation_date</key>
+				<date>2022-08-31T12:31:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>0</integer>
+			</dict>
+			<key>Wadee-Al-Yamani</key>
+			<dict>
+				<key>size</key>
+				<real>2123422310</real>
+				<key>name</key>
+				<string>Wadee-Al-Yamani</string>
+				<key>name_ar</key>
+				<string>وديع اليمني</string>
+				<key>name_ur</key>
+				<string>وديع اليمني</string>
+				<key>creation_date</key>
+				<date>2022-08-31T12:50:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>52000</real>
+			</dict>
+			<key>Saud-Al-Shuraim</key>
+			<dict>
+				<key>size</key>
+				<real>1053606191</real>
+				<key>name</key>
+				<string>Saud-Al-Shuraim</string>
+				<key>name_ar</key>
+				<string>سعود الشريم</string>
+				<key>name_ur</key>
+				<string>سعود الشريم</string>
+				<key>creation_date</key>
+				<date>2022-11-02T12:50:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>53000</real>
+			</dict>
+			<key>Abdul-Rahman-Al-Sudais</key>
+			<dict>
+				<key>size</key>
+				<real>1215427228</real>
+				<key>name</key>
+				<string>Abdul Rahman Al-Sudais</string>
+				<key>name_ar</key>
+				<string>عبد الرحمن السديس</string>
+				<key>name_ur</key>
+				<string>عبد الرحمن السديس</string>
+				<key>creation_date</key>
+				<date>2022-11-30T12:50:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>54000</real>
+			</dict>
+			<key>Bandar-Baleelah</key>
+			<dict>
+				<key>size</key>
+				<real>1467861143</real>
+				<key>name</key>
+				<string>Bandar Bin Abdul Azeez Baleela</string>
+				<key>name_ar</key>
+				<string>بندر بن عبد العزيز بليله</string>
+				<key>name_ur</key>
+				<string>بندر بن عبد العزيز بليله</string>
+				<key>creation_date</key>
+				<date>2022-12-16T10:30:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>55000</real>
+			</dict>
+			<key>Khalifa-al-Tunaiji</key>
+			<dict>
+				<key>size</key>
+				<real>1585264184</real>
+				<key>name</key>
+				<string>Khalifa-al-Tunaiji</string>
+				<key>name_ar</key>
+				<string>خليفة الطنيجي  </string>
+				<key>name_ur</key>
+				<string>خليفة الطنيجي  </string>
+				<key>creation_date</key>
+				<date>2022-12-22T10:20:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>56000</real>
+			</dict>
+			<key>Qari-Sadaqat-Ali</key>
+			<dict>
+				<key>size</key>
+				<real>1654864352</real>
+				<key>name</key>
+				<string>Qari-Sadaqat-Ali</string>
+				<key>name_ar</key>
+				<string>قارى صداقت علی</string>
+				<key>name_ur</key>
+				<string>قارى صداقت علی</string>
+				<key>creation_date</key>
+				<date>2023-01-12T11:11:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>57000</real>
+			</dict>
+			<key>Hafiz-Muhammad-Danial</key>
+			<dict>
+				<key>size</key>
+				<real>1350669054</real>
+				<key>name</key>
+				<string>Hafiz-Muhammad-Danial</string>
+				<key>name_ar</key>
+				<string>حافظ محمد دانیال</string>
+				<key>name_ur</key>
+				<string>حافظ محمد دانیال</string>
+				<key>creation_date</key>
+				<date>2023-05-05T12:13:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>58000</real>
+			</dict>
+			<key>Shiekh-Ali-Jaber</key>
+			<dict>
+				<key>size</key>
+				<real>1460729669</real>
+				<key>name</key>
+				<string>Shiekh-Ali-Jaber</string>
+				<key>name_ar</key>
+				<string>علي جابر</string>
+				<key>name_ur</key>
+				<string>علي جابر</string>
+				<key>creation_date</key>
+				<date>2023-05-05T12:25:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>59000</real>
+			</dict>
+			<key>Anas-Al-Emaadi</key>
+			<dict>
+				<key>size</key>
+				<real>1267831672</real>
+				<key>name</key>
+				<string>Anas-Al-Emaadi</string>
+				<key>name_ar</key>
+				<string>انس العمادي</string>
+				<key>name_ur</key>
+				<string>انس العمادى</string>
+				<key>creation_date</key>
+				<date>2023-05-05T12:25:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>60000</real>
+			</dict>
+			<key>Qari-Idriss-Abkar</key>
+			<dict>
+				<key>size</key>
+				<real>1706475121</real>
+				<key>name</key>
+				<string>Qari-Idriss-Abkar</string>
+				<key>name_ar</key>
+				<string>ادريس ابكر</string>
+				<key>name_ur</key>
+				<string>ادريس ابكر</string>
+				<key>creation_date</key>
+				<date>2023-05-05T12:25:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>61000</real>
+			</dict>
+			<key>Sheikh-Musa-Bilal</key>
+			<dict>
+				<key>size</key>
+				<real>1204520668</real>
+				<key>name</key>
+				<string>Sheikh-Musa-Bilal</string>
+				<key>name_ar</key>
+				<string>موسى بلال</string>
+				<key>name_ur</key>
+				<string>موسى بلال</string>
+				<key>creation_date</key>
+				<date>2023-05-05T12:25:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>62000</real>
+			</dict>
+			<key>Khalid-Al-Jalil</key>
+			<dict>
+				<key>size</key>
+				<integer>607507297</integer>
+				<key>name</key>
+				<string>Khalid-Al-Jalil</string>
+				<key>name_ar</key>
+				<string>خالد الجلىل</string>
+				<key>name_ur</key>
+				<string>خالد الجلیل</string>
+				<key>creation_date</key>
+				<date>2023-09-25T12:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>63000</real>
+			</dict>
+			<key>Hafiz-Usman-Bin-Arif</key>
+			<dict>
+				<key>size</key>
+				<real>3009296208</real>
+				<key>name</key>
+				<string>Hafiz-Usman-Bin-Arif</string>
+				<key>name_ar</key>
+				<string>حافظ عثمان بن عارف</string>
+				<key>name_ur</key>
+				<string>حافظ عثمان بن عارف</string>
+				<key>creation_date</key>
+				<date>2023-09-25T12:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>64000</real>
+			</dict>
+			<key>Abdul-Rahman-Al-Ossi</key>
+			<dict>
+				<key>size</key>
+				<real>1583098892</real>
+				<key>name</key>
+				<string>Abdul-Rahman-Al-Ossi</string>
+				<key>name_ar</key>
+				<string>عبدالرحمن العوسي</string>
+				<key>name_ur</key>
+				<string>عبدالرحمن العوسي</string>
+				<key>creation_date</key>
+				<date>2023-12-15T11:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>65000</real>
+			</dict>
+			<key>Abdul-Aziz-Az-Zahrani</key>
+			<dict>
+				<key>size</key>
+				<real>1826315461</real>
+				<key>name</key>
+				<string>Abdul-Aziz-Az-Zahrani</string>
+				<key>name_ar</key>
+				<string>عبدالعزيز الزهراني</string>
+				<key>name_ur</key>
+				<string>عبدالعزيز الزهراني</string>
+				<key>creation_date</key>
+				<date>2023-12-15T11:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>66000</real>
+			</dict>
+			<key>Shiekh-Fares-Abbad</key>
+			<dict>
+				<key>size</key>
+				<real>1350568162</real>
+				<key>name</key>
+				<string>Shiekh-Fares-Abbad</string>
+				<key>name_ar</key>
+				<string>فارس عباد</string>
+				<key>name_ur</key>
+				<string>فارس عباد</string>
+				<key>creation_date</key>
+				<date>2024-02-09T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>67000</real>
+			</dict>
+			<key>Shiekh-AbdulHadi-Kanakeri</key>
+			<dict>
+				<key>size</key>
+				<real>1601771982</real>
+				<key>name</key>
+				<string>Shiekh-AbdulHadi-Kanakeri</string>
+				<key>name_ar</key>
+				<string>عبد الهادي كناكري</string>
+				<key>name_ur</key>
+				<string>عبد الهادي كناكري</string>
+				<key>creation_date</key>
+				<date>2024-02-09T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>68000</real>
+			</dict>
+			<key>Abdul-Rashid-Ali-Sufi</key>
+			<dict>
+				<key>size</key>
+				<real>1440708181</real>
+				<key>name</key>
+				<string>Shiekh-Rashid-Ali-Sufi</string>
+				<key>name_ar</key>
+				<string>عبدالرشيد علي صوفي</string>
+				<key>name_ur</key>
+				<string>عبدالرشيد علي صوفي</string>
+				<key>creation_date</key>
+				<date>2024-02-09T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>69000</real>
+			</dict>
+			<key>Badar-Bin-Muhammad-Al-Turki</key>
+			<dict>
+				<key>size</key>
+				<real>1448145132</real>
+				<key>name</key>
+				<string>Badar-Bin-Muhammad-Al-Turki</string>
+				<key>name_ar</key>
+				<string>بدر بن محمد التركي</string>
+				<key>name_ur</key>
+				<string>بدر بن محمد التركي</string>
+				<key>creation_date</key>
+				<date>2024-02-09T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>70000</real>
+			</dict>
+			<key>Hani-Al-Rifai</key>
+			<dict>
+				<key>size</key>
+				<real>1462619354</real>
+				<key>name</key>
+				<string>Hani-Al-Rifai</string>
+				<key>name_ar</key>
+				<string>هاني الرفاعي</string>
+				<key>name_ur</key>
+				<string>ہانی الرفاعی</string>
+				<key>creation_date</key>
+				<date>2024-03-04T04:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>71000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Sheikh-Noreen</key>
+			<dict>
+				<key>size</key>
+				<real>1553851748</real>
+				<key>name</key>
+				<string>Sheikh Noreen Muhammad Siddique</string>
+				<key>name_ar</key>
+				<string>الشيخ نورين محمد صديق</string>
+				<key>name_ur</key>
+				<string>شیخ نورین محمد صدیق</string>
+				<key>creation_date</key>
+				<date>2024-03-14T02:15:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>72000</real>
+				<key>isNew</key>
+				<false/>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Salah-Al-Budair</key>
+			<dict>
+				<key>size</key>
+				<real>1202363528</real>
+				<key>name</key>
+				<string>Salah Al Budair</string>
+				<key>name_ar</key>
+				<string>صلاح البدير</string>
+				<key>name_ur</key>
+				<string>صلاح البدیر</string>
+				<key>creation_date</key>
+				<date>2024-03-15T02:44:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>73000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>AbdulBasit-Murattal</key>
+			<dict>
+				<key>size</key>
+				<real>1789239198</real>
+				<key>name</key>
+				<string>AbdulBasit Murattal</string>
+				<key>name_ar</key>
+				<string>عبدالباسط مرتل</string>
+				<key>name_ur</key>
+				<string>عبدالباسط مرتل</string>
+				<key>creation_date</key>
+				<date>2024-04-08T02:58:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>74000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Ahmed-Khalil</key>
+			<dict>
+				<key>size</key>
+				<real>1657301441</real>
+				<key>name</key>
+				<string>Ahmed Khalil Shaheen</string>
+				<key>name_ar</key>
+				<string>احمد خليل شاهين</string>
+				<key>name_ur</key>
+				<string>احمد خلیل شاہین</string>
+				<key>creation_date</key>
+				<date>2024-04-08T02:58:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>75000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Adel-ALKalbani</key>
+			<dict>
+				<key>size</key>
+				<real>1329376091</real>
+				<key>name</key>
+				<string>Adel Al Kalbani</string>
+				<key>name_ar</key>
+				<string>عادل الكلباني</string>
+				<key>name_ur</key>
+				<string>عادل الکلبانی</string>
+				<key>creation_date</key>
+				<date>2024-04-22T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>75000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Abdul-Wali-Arkani</key>
+			<dict>
+				<key>size</key>
+				<real>1400016567</real>
+				<key>name</key>
+				<string>Abdul Wali Arkani</string>
+				<key>name_ar</key>
+				<string>عبد الولي أركاني</string>
+				<key>name_ur</key>
+				<string>عبدالولی ارکانی</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>76000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Abdullah-Khayat</key>
+			<dict>
+				<key>size</key>
+				<real>1122869312</real>
+				<key>name</key>
+				<string>Abdullah Khayat</string>
+				<key>name_ar</key>
+				<string>عبدالله خياط</string>
+				<key>name_ur</key>
+				<string>عبداللہ خیاط</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<real>77000</real>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Mahmood Ali Albana (Mujawwad)</key>
+			<dict>
+				<key>size</key>
+				<integer>3136797115</integer>
+				<key>name</key>
+				<string>Mahmood Ali Albana (Mujawwad)</string>
+				<key>name_ar</key>
+				<string>محمود علي البنا (مجود)</string>
+				<key>name_ur</key>
+				<string>محمود علی البنا (مجود)</string>
+				<key>creation_date</key>
+				<date>2025-05-06T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>78000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Hisham-Al-Harraz</key>
+			<dict>
+				<key>size</key>
+				<real>1496816037</real>
+				<key>name</key>
+				<string>Hisham Al Harraz</string>
+				<key>name_ar</key>
+				<string>هشام الحراز</string>
+				<key>name_ur</key>
+				<string>ہشام الحراز</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>79000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Mansour-Al-Salemi</key>
+			<dict>
+				<key>size</key>
+				<real>1671233936</real>
+				<key>name</key>
+				<string>Mansour Al Salemi</string>
+				<key>name_ar</key>
+				<string>منصور السالمي</string>
+				<key>name_ur</key>
+				<string>منصور السلیمی</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>80000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Muhammad-Hadi-Toure</key>
+			<dict>
+				<key>size</key>
+				<real>1942549969</real>
+				<key>name</key>
+				<string>Muhammad Hadi Toure</string>
+				<key>name_ar</key>
+				<string>محمد هادي توري</string>
+				<key>name_ur</key>
+				<string>محمد ہادی طور</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>81000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Sheikh-Hatem-Farid</key>
+			<dict>
+				<key>size</key>
+				<real>832187418</real>
+				<key>name</key>
+				<string>Sheikh Hatem Farid</string>
+				<key>name_ar</key>
+				<string>الشيخ حاتم فريد</string>
+				<key>name_ur</key>
+				<string>شیخ حاتم فرید</string>
+				<key>creation_date</key>
+				<date>2024-09-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>82000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Ayman-Swed</key>
+			<dict>
+				<key>size</key>
+				<real>2401403793</real>
+				<key>name</key>
+				<string>Ayman Swed</string>
+				<key>name_ar</key>
+				<string>ایمن سوید</string>
+				<key>name_ur</key>
+				<string>ایمن سوید</string>
+				<key>creation_date</key>
+				<date>2024-11-28T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>83000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Muhammad-Al-Faqih</key>
+			<dict>
+				<key>size</key>
+				<real>1272873077</real>
+				<key>name</key>
+				<string>Muhammad Al Faqih</string>
+				<key>name_ar</key>
+				<string>محمد الفقيه</string>
+				<key>name_ur</key>
+				<string>محمد الفقیہ</string>
+				<key>creation_date</key>
+				<date>2024-12-09T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>84000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Omar-Al-Qazabri</key>
+			<dict>
+				<key>size</key>
+				<integer>1787777241</integer>
+				<key>name</key>
+				<string>Omar-Al-Qazabri</string>
+				<key>name_ar</key>
+				<string>عمر القزابري</string>
+				<key>name_ur</key>
+				<string>عمر القزابری</string>
+				<key>creation_date</key>
+				<date>2025-01-29T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>85000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Ibrahim Ahmed Mir</key>
+			<dict>
+				<key>size</key>
+				<integer>3348154166</integer>
+				<key>name</key>
+				<string>Word by Word (Ibrahim)</string>
+				<key>name_ar</key>
+				<string>إبراهيم أحمد مير</string>
+				<key>name_ur</key>
+				<string>ابراہیم احمد میر</string>
+				<key>creation_date</key>
+				<date>2025-02-12T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>86000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Hassan Saleh Mujawwad</key>
+			<dict>
+				<key>size</key>
+				<integer>822151085</integer>
+				<key>name</key>
+				<string>Hassan Saleh Mujawwad</string>
+				<key>name_ar</key>
+				<string>حسن صالح مجود</string>
+				<key>name_ur</key>
+				<string>حسن صالح مجود</string>
+				<key>creation_date</key>
+				<date>2025-02-21T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>87000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Saleh-Ahmed-Saleh</key>
+			<dict>
+				<key>size</key>
+				<integer>713401877</integer>
+				<key>name</key>
+				<string>Saleh Ahmed Saleh</string>
+				<key>name_ar</key>
+				<string>صالح أحمد صالح</string>
+				<key>name_ur</key>
+				<string>صالح احمد صالح</string>
+				<key>creation_date</key>
+				<date>2025-03-06T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>88000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Adel-Rayyan</key>
+			<dict>
+				<key>size</key>
+				<integer>1367232573</integer>
+				<key>name</key>
+				<string>Adel Rayyan</string>
+				<key>name_ar</key>
+				<string>عادل ريّان</string>
+				<key>name_ur</key>
+				<string>عادل ریّان</string>
+				<key>creation_date</key>
+				<date>2025-04-22T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>89000</integer>
+				<key>isNew</key>
+				<true/>
+				<key>provider</key>
+				<true/>
+			</dict>
+			<key>Raad-Mohammad-Al-Kurdi</key>
+			<dict>
+				<key>size</key>
+				<integer>1849919492</integer>
+				<key>name</key>
+				<string>Raad Mohammad Al Kurdi</string>
+				<key>name_ar</key>
+				<string>رعد محمد الكردي</string>
+				<key>name_ur</key>
+				<string>رعد محمد الکردی</string>
+				<key>creation_date</key>
+				<date>2025-10-20T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>90000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Sheikh-Muhammad-Barhaji</key>
+			<dict>
+				<key>size</key>
+				<integer>1402136960</integer>
+				<key>name</key>
+				<string>Sheikh Muhammad Barhaji</string>
+				<key>name_ar</key>
+				<string>الشيخ محمد برهاجي</string>
+				<key>name_ur</key>
+				<string>شیخ محمد برہاجی</string>
+				<key>creation_date</key>
+				<date>2025-10-20T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>91000</integer>
+				<key>isNew</key>
+				<false/>
+			</dict>
+			<key>Haitham-Al-Dukhin</key>
+			<dict>
+				<key>size</key>
+				<integer>1617182017</integer>
+				<key>name</key>
+				<string>Sheikh Haitham Al Dukhin</string>
+				<key>name_ar</key>
+				<string>الشيخ هيثم الدخين</string>
+				<key>name_ur</key>
+				<string>شیخ ہیثم الدخین</string>
+				<key>creation_date</key>
+				<date>2026-02-09T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>92000</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Abdul-Bari-Ath-Thubaiti</key>
+			<dict>
+				<key>size</key>
+				<integer>1138714294</integer>
+				<key>name</key>
+				<string>Abdul Bari Ath Thubaiti</string>
+				<key>name_ar</key>
+				<string>عبد الباري الثبيتي</string>
+				<key>name_ur</key>
+				<string>عبد الباری الثبیتی</string>
+				<key>creation_date</key>
+				<date>2026-05-19T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>93000</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Sheikh-Abdullah-Al-Buaijan</key>
+			<dict>
+				<key>size</key>
+				<integer>1211859350</integer>
+				<key>name</key>
+				<string>Sheikh Abdullah Al-Buaijan</string>
+				<key>name_ar</key>
+				<string>الشيخ عبدالله البعيجان</string>
+				<key>name_ur</key>
+				<string>شیخ عبداللہ البُعَیجان</string>
+				<key>creation_date</key>
+				<date>2026-06-08T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>94000</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Tariq-Muhammad-Ibrahim</key>
+			<dict>
+				<key>size</key>
+				<integer>1211859350</integer>
+				<key>name</key>
+				<string>Tariq Muhammad Ibrahim</string>
+				<key>name_ar</key>
+				<string>طارق محمد إبراهيم</string>
+				<key>name_ur</key>
+				<string>طارق محمد ابراہیم</string>
+				<key>creation_date</key>
+				<date>2026-06-29T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>95000</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>WordReciters</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Wbw-TafsirCenter</key>
+			<dict>
+				<key>size</key>
+				<integer>1601077616</integer>
+				<key>name</key>
+				<string>Word by Word (Tafsir Center)</string>
+				<key>name_ar</key>
+				<string>كلمة بكلمة (مركز التفسير)</string>
+				<key>name_ur</key>
+				<string>لفظ بہ لفظ (تفسیر سینٹر)</string>
+				<key>creation_date</key>
+				<date>2025-04-21T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>1</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Ibrahim Ahmed Mir</key>
+			<dict>
+				<key>size</key>
+				<integer>1601077616</integer>
+				<key>name</key>
+				<string>Word by Word (Ibrahim Ahmed Mir)</string>
+				<key>name_ar</key>
+				<string>إبراهيم أحمد مير</string>
+				<key>name_ur</key>
+				<string>ابراہیم احمد میر</string>
+				<key>creation_date</key>
+				<date>2025-09-12T04:07:00Z</date>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>freq</key>
+				<integer>2</integer>
+				<key>isNew</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>Sceneries</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Clouds-Sky</key>
+			<dict>
+				<key>name</key>
+				<string>Clouds-Sky</string>
+				<key>freq</key>
+				<real>1000</real>
+				<key>creation_date</key>
+				<date>2015-10-20T11:00:00Z</date>
+			</dict>
+			<key>Clouds-Mountains</key>
+			<dict>
+				<key>name</key>
+				<string>Clouds-Mountains</string>
+				<key>freq</key>
+				<real>1000</real>
+				<key>creation_date</key>
+				<date>2015-10-20T11:00:00Z</date>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>Cosmos</key>
+			<dict>
+				<key>name</key>
+				<string>Cosmos</string>
+				<key>freq</key>
+				<real>1000</real>
+				<key>creation_date</key>
+				<date>2015-10-20T11:00:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF0000FF</string>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>Earth</key>
+			<dict>
+				<key>name</key>
+				<string>Earth</string>
+				<key>freq</key>
+				<real>1000</real>
+				<key>creation_date</key>
+				<date>2015-10-20T11:00:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF0000FF</string>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>Greenery-Plains</key>
+			<dict>
+				<key>name</key>
+				<string>Greenery-Plains</string>
+				<key>freq</key>
+				<real>1000</real>
+				<key>creation_date</key>
+				<date>2015-10-20T11:00:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF000000</string>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>Brown-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Brown-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+			</dict>
+			<key>Silver-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Silver-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+			</dict>
+			<key>White-Color</key>
+			<dict>
+				<key>name</key>
+				<string>White-Color</string>
+				<key>freq</key>
+				<integer>900</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+			</dict>
+			<key>Black-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Black-Color</string>
+				<key>freq</key>
+				<integer>900</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF0000FF</string>
+			</dict>
+			<key>Voilet-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Voilet-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF000000</string>
+			</dict>
+			<key>Blue-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Blue-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+			</dict>
+			<key>Light-Blue-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Light-Blue-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+			</dict>
+			<key>Turquoise-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Turquoise-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>shadowColor</key>
+				<string>#FFFFFFFF</string>
+			</dict>
+			<key>Green-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Green-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>shadowColor</key>
+				<string>#FFFFFFFF</string>
+			</dict>
+			<key>Yellow-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Yellow-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>shadowColor</key>
+				<string>#FFFFFFFF</string>
+			</dict>
+			<key>Orange-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Orange-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>shadowColor</key>
+				<string>#FFFFFFFF</string>
+			</dict>
+			<key>Lavender-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Lavender-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>shadowColor</key>
+				<string>#FFFFFFFF</string>
+			</dict>
+			<key>Rose-Color</key>
+			<dict>
+				<key>name</key>
+				<string>Rose-Color</string>
+				<key>freq</key>
+				<integer>0</integer>
+				<key>creation_date</key>
+				<date>2016-10-18T23:53:00Z</date>
+				<key>textColor</key>
+				<string>#FFFFFFFF</string>
+				<key>shadowColor</key>
+				<string>#FF000000</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>Tafsirs</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Ibn-Katheer</key>
+			<dict>
+				<key>name</key>
+				<string>Ibn-Katheer</string>
+				<key>name_ar</key>
+				<string>ابن كثير</string>
+				<key>name_ur</key>
+				<string>ابن كثير</string>
+				<key>code</key>
+				<string>kthr</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Tabari</key>
+			<dict>
+				<key>name</key>
+				<string>Tabari</string>
+				<key>name_ar</key>
+				<string>الطبري</string>
+				<key>name_ur</key>
+				<string>الطبري</string>
+				<key>code</key>
+				<string>tbry</string>
+				<key>freq</key>
+				<integer>80</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Moyasar</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Moyasar</string>
+				<key>name_ar</key>
+				<string>الميسر</string>
+				<key>name_ur</key>
+				<string>الميسر</string>
+				<key>code</key>
+				<string>mysr</string>
+				<key>freq</key>
+				<integer>90</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Baghwi</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Baghwi</string>
+				<key>name_ar</key>
+				<string>البغوي</string>
+				<key>name_ur</key>
+				<string>البغوي</string>
+				<key>code</key>
+				<string>bgwi</string>
+				<key>freq</key>
+				<integer>60</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>As-Saady</key>
+			<dict>
+				<key>name</key>
+				<string>As-Saady</string>
+				<key>name_ar</key>
+				<string>السعدي</string>
+				<key>name_ur</key>
+				<string>السعدي</string>
+				<key>code</key>
+				<string>sady</string>
+				<key>freq</key>
+				<integer>70</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>English-Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>English-Usmani</string>
+				<key>name_ar</key>
+				<string>الإنجليزية-عثماني</string>
+				<key>name_ur</key>
+				<string>انگریزی-عثمانی</string>
+				<key>code</key>
+				<string>eusm</string>
+				<key>freq</key>
+				<integer>120</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Usmani</string>
+				<key>name_ar</key>
+				<string>الاردية-عثماني</string>
+				<key>name_ur</key>
+				<string>اردو-عثماني</string>
+				<key>code</key>
+				<string>usmn</string>
+				<key>freq</key>
+				<integer>110</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+		</dict>
+	</dict>
+	<key>Tafsirs_v2</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>English-TaqiUsmani</key>
+			<dict>
+				<key>name</key>
+				<string>English-TaqiUsmani</string>
+				<key>name_ar</key>
+				<string>الإنجليزية-تقي عثماني</string>
+				<key>name_ur</key>
+				<string>انگریزی-تقی عثمانی</string>
+				<key>code</key>
+				<string>tqus</string>
+				<key>freq</key>
+				<integer>120</integer>
+				<key>creation_date</key>
+				<date>2023-03-13T11:00:00Z</date>
+			</dict>
+			<key>Urdu-TaqiUsmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-TaqiUsmani</string>
+				<key>name_ar</key>
+				<string>الأردية-تقي عثماني</string>
+				<key>name_ur</key>
+				<string>اردو-تقی عثمانی</string>
+				<key>code</key>
+				<string>utqu</string>
+				<key>freq</key>
+				<integer>125</integer>
+				<key>creation_date</key>
+				<date>2013-05-05T09:00:00Z</date>
+			</dict>
+			<key>Ibn-Katheer</key>
+			<dict>
+				<key>name</key>
+				<string>Ibn-Katheer</string>
+				<key>name_ar</key>
+				<string>ابن كثير</string>
+				<key>name_ur</key>
+				<string>ابن كثير</string>
+				<key>code</key>
+				<string>kthr</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Tabari</key>
+			<dict>
+				<key>name</key>
+				<string>Tabari</string>
+				<key>name_ar</key>
+				<string>الطبري</string>
+				<key>name_ur</key>
+				<string>الطبري</string>
+				<key>code</key>
+				<string>tbry</string>
+				<key>freq</key>
+				<integer>80</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Moyasar</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Moyasar</string>
+				<key>name_ar</key>
+				<string>الميسر</string>
+				<key>name_ur</key>
+				<string>الميسر</string>
+				<key>code</key>
+				<string>mysr</string>
+				<key>freq</key>
+				<integer>90</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Baghwi</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Baghwi</string>
+				<key>name_ar</key>
+				<string>البغوي</string>
+				<key>name_ur</key>
+				<string>البغوي</string>
+				<key>code</key>
+				<string>bgwi</string>
+				<key>freq</key>
+				<integer>60</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>As-Saady</key>
+			<dict>
+				<key>name</key>
+				<string>As-Saady</string>
+				<key>name_ar</key>
+				<string>السعدي</string>
+				<key>name_ur</key>
+				<string>السعدي</string>
+				<key>code</key>
+				<string>sady</string>
+				<key>freq</key>
+				<integer>70</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>English-Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>English-Usmani</string>
+				<key>name_ar</key>
+				<string>الإنجليزية-عثماني</string>
+				<key>name_ur</key>
+				<string>انگریزی-عثمانی</string>
+				<key>code</key>
+				<string>eusm</string>
+				<key>freq</key>
+				<integer>120</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Usmani</string>
+				<key>name_ar</key>
+				<string>الاردية-عثماني</string>
+				<key>name_ur</key>
+				<string>اردو-عثماني</string>
+				<key>code</key>
+				<string>usmn</string>
+				<key>freq</key>
+				<integer>110</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+		</dict>
+	</dict>
+	<key>Tafsirs_v3</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Indonesian-Wajiz</key>
+			<dict>
+				<key>name</key>
+				<string>Indonesian-Wajiz</string>
+				<key>name_ar</key>
+				<string>الاندونيسية-الوجبز</string>
+				<key>name_ur</key>
+				<string>انڈونیشین-الوجبز</string>
+				<key>code</key>
+				<string>Idwj</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2025-01-03T09:00:00Z</date>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Urdu-Maariful-Quran</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Maariful Quran</string>
+				<key>name_ar</key>
+				<string>الأردية-معارف القرآن</string>
+				<key>name_ur</key>
+				<string>اردو-معارف القرآن</string>
+				<key>code</key>
+				<string>umrf</string>
+				<key>freq</key>
+				<integer>130</integer>
+				<key>creation_date</key>
+				<date>2025-01-03T09:00:00Z</date>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>Urdu-Mazhari</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Mazhari-Dahlvi</string>
+				<key>name_ar</key>
+				<string>الأردية-مَظهَري دِهلَوي</string>
+				<key>name_ur</key>
+				<string>اردو-مظہری دہلوی</string>
+				<key>code</key>
+				<string>umaz</string>
+				<key>freq</key>
+				<integer>125</integer>
+				<key>creation_date</key>
+				<date>2025-01-03T09:00:00Z</date>
+				<key>isNew</key>
+				<true/>
+			</dict>
+			<key>English-TaqiUsmani</key>
+			<dict>
+				<key>name</key>
+				<string>English-TaqiUsmani</string>
+				<key>name_ar</key>
+				<string>الإنجليزية-تقي عثماني</string>
+				<key>name_ur</key>
+				<string>انگریزی-تقی عثمانی</string>
+				<key>code</key>
+				<string>tqus</string>
+				<key>freq</key>
+				<integer>120</integer>
+				<key>creation_date</key>
+				<date>2023-03-13T11:00:00Z</date>
+			</dict>
+			<key>Urdu-TaqiUsmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-TaqiUsmani</string>
+				<key>name_ar</key>
+				<string>الأردية-تقي عثماني</string>
+				<key>name_ur</key>
+				<string>اردو-تقی عثمانی</string>
+				<key>code</key>
+				<string>utqu</string>
+				<key>freq</key>
+				<integer>125</integer>
+				<key>creation_date</key>
+				<date>2013-05-05T09:00:00Z</date>
+			</dict>
+			<key>Ibn-Katheer</key>
+			<dict>
+				<key>name</key>
+				<string>Ibn-Katheer</string>
+				<key>name_ar</key>
+				<string>ابن كثير</string>
+				<key>name_ur</key>
+				<string>ابن كثير</string>
+				<key>code</key>
+				<string>kthr</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Tabari</key>
+			<dict>
+				<key>name</key>
+				<string>Tabari</string>
+				<key>name_ar</key>
+				<string>الطبري</string>
+				<key>name_ur</key>
+				<string>الطبري</string>
+				<key>code</key>
+				<string>tbry</string>
+				<key>freq</key>
+				<integer>80</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Moyasar</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Moyasar</string>
+				<key>name_ar</key>
+				<string>الميسر</string>
+				<key>name_ur</key>
+				<string>الميسر</string>
+				<key>code</key>
+				<string>mysr</string>
+				<key>freq</key>
+				<integer>90</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Al-Baghwi</key>
+			<dict>
+				<key>name</key>
+				<string>Al-Baghwi</string>
+				<key>name_ar</key>
+				<string>البغوي</string>
+				<key>name_ur</key>
+				<string>البغوي</string>
+				<key>code</key>
+				<string>bgwi</string>
+				<key>freq</key>
+				<integer>60</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>As-Saady</key>
+			<dict>
+				<key>name</key>
+				<string>As-Saady</string>
+				<key>name_ar</key>
+				<string>السعدي</string>
+				<key>name_ur</key>
+				<string>السعدي</string>
+				<key>code</key>
+				<string>sady</string>
+				<key>freq</key>
+				<integer>70</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>English-Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>English-Usmani</string>
+				<key>name_ar</key>
+				<string>الإنجليزية-عثماني</string>
+				<key>name_ur</key>
+				<string>انگریزی-عثمانی</string>
+				<key>code</key>
+				<string>eusm</string>
+				<key>freq</key>
+				<integer>120</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+			<key>Usmani</key>
+			<dict>
+				<key>name</key>
+				<string>Urdu-Usmani</string>
+				<key>name_ar</key>
+				<string>الاردية-عثماني</string>
+				<key>name_ur</key>
+				<string>اردو-عثماني</string>
+				<key>code</key>
+				<string>usmn</string>
+				<key>freq</key>
+				<integer>110</integer>
+				<key>creation_date</key>
+				<date>2016-01-05T11:00:00Z</date>
+			</dict>
+		</dict>
+	</dict>
+	<key>Themes</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>QM</key>
+			<dict>
+				<key>name</key>
+				<string>Green|Theme of Quran Majeed app</string>
+				<key>name_ar</key>
+				<string>الاخضر|اللون التطبيق  قرآن مجيد</string>
+				<key>name_ur</key>
+				<string>سبز|قرآن مجيد ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Grün|Theme der Quran Majeed App</string>
+				<key>name_id</key>
+				<string>Hijau|Tema aplikasi Quran Majeed</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QM-Classic</key>
+			<dict>
+				<key>name</key>
+				<string>Classic-Green|Theme of Quran Majeed old app</string>
+				<key>name_ar</key>
+				<string>الكلاسيكية الخضراء|اللون التطبيق القديم  قرآن مجيد</string>
+				<key>name_ur</key>
+				<string>کلاسک سبز|قرآن مجيد پرانی ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Klassisches Grün|Theme der Quran Majeed App</string>
+				<key>name_id</key>
+				<string>Hijau Klasik|Tema aplikasi Quran Majeed lama</string>
+				<key>freq</key>
+				<integer>70</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QPak</key>
+			<dict>
+				<key>name</key>
+				<string>Brown|Theme of Quran Pak / Quran Tafsir app</string>
+				<key>name_ar</key>
+				<string>البني|اللون التطبيق  قرآن پاک / تفسير القرآن</string>
+				<key>name_ur</key>
+				<string>بھوری|قرآن پاک / تفسير القرآن ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Braun|Theme der Quran Pak / Quran Tafsir app</string>
+				<key>name_id</key>
+				<string>Cokelat|Tema aplikasi Quran Pak / Quran Tafsir app</string>
+				<key>freq</key>
+				<integer>50</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QCmnt</key>
+			<dict>
+				<key>name</key>
+				<string>Light|Theme of Quran Commentary app</string>
+				<key>name_ar</key>
+				<string>الفاتح|Quran Commentary اللون التطبيق</string>
+				<key>name_ur</key>
+				<string>هلکی|ایپ کی تھیم Quran Commentary</string>
+				<key>name_de</key>
+				<string>Hell|Theme der Quran Commentary app</string>
+				<key>name_id</key>
+				<string>Terang|Tema aplikasi Quran Commentary</string>
+				<key>freq</key>
+				<integer>90</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>iHifz</key>
+			<dict>
+				<key>name</key>
+				<string>Blue|Theme of iHifz app</string>
+				<key>name_ar</key>
+				<string>الأزرق|iHifz اللون التطبيق</string>
+				<key>name_ur</key>
+				<string>نیلی|ایپ کی تھیم iHifz</string>
+				<key>name_de</key>
+				<string>Hellblau|Theme der iHifz app</string>
+				<key>name_id</key>
+				<string>Biru Muda|Tema aplikasi iHifz</string>
+				<key>freq</key>
+				<integer>80</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>Night</key>
+			<dict>
+				<key>name</key>
+				<string>Night Mode|Theme for Night Mode</string>
+				<key>name_ar</key>
+				<string>الوضع الليلي|اللون لوضع الليل</string>
+				<key>name_ur</key>
+				<string>اندھیرے کیلیئے|اندھیرے کیلیئے</string>
+				<key>name_de</key>
+				<string>Nachtmodus|Theme für den Nachtmodus</string>
+				<key>name_id</key>
+				<string>Mode Malam|Tema untuk mode malam</string>
+				<key>freq</key>
+				<integer>95</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+		</dict>
+	</dict>
+	<key>Themes_v2</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>Emerald</key>
+			<dict>
+				<key>name</key>
+				<string>Emerald|Emerald theme</string>
+				<key>name_ar</key>
+				<string>الزمرد|اللون الزمرد</string>
+				<key>name_ur</key>
+				<string>زمرد|زمرد تھیم</string>
+				<key>name_de</key>
+				<string>Smaragd|Smaragd Thema</string>
+				<key>name_id</key>
+				<string>Zamrud|Tema Zamrud</string>
+				<key>freq</key>
+				<integer>94</integer>
+				<key>creation_date</key>
+				<date>2020-07-24T05:36:27Z</date>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>Golden</key>
+			<dict>
+				<key>name</key>
+				<string>Golden|Golden theme</string>
+				<key>name_ar</key>
+				<string>الذهبي|اللون الذهبي</string>
+				<key>name_ur</key>
+				<string>سنہرى|سنہرى تھیم</string>
+				<key>name_de</key>
+				<string>Gold|Goldenes Thema</string>
+				<key>name_id</key>
+				<string>Emas|Tema Emas</string>
+				<key>freq</key>
+				<integer>93</integer>
+				<key>creation_date</key>
+				<date>2020-07-24T05:36:27Z</date>
+				<key>isPremium</key>
+				<true/>
+			</dict>
+			<key>QM</key>
+			<dict>
+				<key>name</key>
+				<string>Green|Theme of Quran Majeed app</string>
+				<key>name_ar</key>
+				<string>الاخضر|اللون التطبيق  قرآن مجيد</string>
+				<key>name_ur</key>
+				<string>سبز|قرآن مجيد ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Grün|Theme der Quran Majeed App</string>
+				<key>name_id</key>
+				<string>Hijau|Tema aplikasi Quran Majeed</string>
+				<key>freq</key>
+				<integer>100</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QM-Classic</key>
+			<dict>
+				<key>name</key>
+				<string>Classic-Green|Theme of Quran Majeed old app</string>
+				<key>name_ar</key>
+				<string>الكلاسيكية الخضراء|اللون التطبيق القديم  قرآن مجيد</string>
+				<key>name_ur</key>
+				<string>کلاسک سبز|قرآن مجيد پرانی ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Klassisches Grün|Theme der Quran Majeed App</string>
+				<key>name_id</key>
+				<string>Hijau Klasik|Tema aplikasi Quran Majeed lama</string>
+				<key>freq</key>
+				<integer>70</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QPak</key>
+			<dict>
+				<key>name</key>
+				<string>Brown|Theme of Quran Pak / Quran Tafsir app</string>
+				<key>name_ar</key>
+				<string>البني|اللون التطبيق  قرآن پاک / تفسير القرآن</string>
+				<key>name_ur</key>
+				<string>بھوری|قرآن پاک / تفسير القرآن ایپ کی تھیم</string>
+				<key>name_de</key>
+				<string>Braun|Theme der Quran Pak / Quran Tafsir app</string>
+				<key>name_id</key>
+				<string>Cokelat|Tema aplikasi Quran Pak / Quran Tafsir app</string>
+				<key>freq</key>
+				<integer>50</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>QCmnt</key>
+			<dict>
+				<key>name</key>
+				<string>Light|Theme of Quran Commentary app</string>
+				<key>name_ar</key>
+				<string>الفاتح|Quran Commentary اللون التطبيق</string>
+				<key>name_ur</key>
+				<string>هلکی|ایپ کی تھیم Quran Commentary</string>
+				<key>name_de</key>
+				<string>Hell|Theme der Quran Commentary app</string>
+				<key>name_id</key>
+				<string>Terang|Tema aplikasi Quran Commentary</string>
+				<key>freq</key>
+				<integer>90</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>iHifz</key>
+			<dict>
+				<key>name</key>
+				<string>Blue|Theme of iHifz app</string>
+				<key>name_ar</key>
+				<string>الأزرق|iHifz اللون التطبيق</string>
+				<key>name_ur</key>
+				<string>نیلی|ایپ کی تھیم iHifz</string>
+				<key>name_de</key>
+				<string>Hellblau|Theme der iHifz app</string>
+				<key>name_id</key>
+				<string>Biru Muda|Tema aplikasi iHifz</string>
+				<key>freq</key>
+				<integer>80</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+			<key>Night</key>
+			<dict>
+				<key>name</key>
+				<string>Night Mode|Theme for Night Mode</string>
+				<key>name_ar</key>
+				<string>الوضع الليلي|اللون لوضع الليل</string>
+				<key>name_ur</key>
+				<string>اندھیرے کیلیئے|اندھیرے کیلیئے</string>
+				<key>name_de</key>
+				<string>Nachtmodus|Theme für den Nachtmodus</string>
+				<key>name_id</key>
+				<string>Mode Malam|Tema untuk mode malam</string>
+				<key>freq</key>
+				<integer>95</integer>
+				<key>creation_date</key>
+				<date>2016-01-20T06:27:48Z</date>
+			</dict>
+		</dict>
+	</dict>
+	<key>Adhan</key>
+	<dict>
+		<key>Items</key>
+		<dict>
+			<key>vibrate</key>
+			<dict>
+				<key>title</key>
+				<string>Vibration Only</string>
+				<key>file_name</key>
+				<string>vibrate</string>
+				<key>old_key</key>
+				<string>11</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>4</integer>
+			</dict>
+			<key>silent</key>
+			<dict>
+				<key>title</key>
+				<string>Silent Notification</string>
+				<key>file_name</key>
+				<string></string>
+				<key>old_key</key>
+				<string>1</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>1</integer>
+			</dict>
+			<key>default_sound</key>
+			<dict>
+				<key>title</key>
+				<string>Default Sound</string>
+				<key>file_name</key>
+				<string>default_sound</string>
+				<key>old_key</key>
+				<string>2</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>2</integer>
+			</dict>
+			<key>Tick</key>
+			<dict>
+				<key>title</key>
+				<string>Long Beep</string>
+				<key>file_name</key>
+				<string>Tick</string>
+				<key>old_key</key>
+				<string>3</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>2</integer>
+			</dict>
+			<key>MishariAlafasy</key>
+			<dict>
+				<key>title</key>
+				<string>Mishari Alafasy</string>
+				<key>time_offset</key>
+				<array>
+					<integer>19</integer>
+					<integer>30</integer>
+					<integer>29</integer>
+					<integer>24</integer>
+					<integer>24</integer>
+					<integer>29</integer>
+					<integer>25</integer>
+				</array>
+				<key>old_key</key>
+				<string>4</string>
+				<key>file_name</key>
+				<string>MishariAlafasy</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>is_fajr_available</key>
+				<true/>
+			</dict>
+			<key>nabwi</key>
+			<dict>
+				<key>title</key>
+				<string>Madinah</string>
+				<key>time_offset</key>
+				<array>
+					<integer>30</integer>
+					<integer>27</integer>
+					<integer>26</integer>
+					<integer>24</integer>
+					<integer>22</integer>
+					<integer>25</integer>
+					<integer>23</integer>
+				</array>
+				<key>old_key</key>
+				<string>5</string>
+				<key>file_name</key>
+				<string>nabwi</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>is_fajr_available</key>
+				<true/>
+			</dict>
+			<key>Makkah</key>
+			<dict>
+				<key>title</key>
+				<string>Makkah</string>
+				<key>time_offset</key>
+				<array>
+					<integer>30</integer>
+					<integer>27</integer>
+					<integer>28</integer>
+					<integer>29</integer>
+					<integer>29</integer>
+					<integer>28</integer>
+					<integer>19</integer>
+				</array>
+				<key>old_key</key>
+				<string>6</string>
+				<key>file_name</key>
+				<string>Makkah</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>is_fajr_available</key>
+				<true/>
+			</dict>
+			<key>Istanbul</key>
+			<dict>
+				<key>title</key>
+				<string>Istanbul</string>
+				<key>time_offset</key>
+				<array>
+					<integer>23</integer>
+					<integer>29</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>11</integer>
+					<integer>30</integer>
+					<integer>28</integer>
+				</array>
+				<key>old_key</key>
+				<string>7</string>
+				<key>file_name</key>
+				<string>Istanbul</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>is_fajr_available</key>
+				<false/>
+			</dict>
+			<key>Alaqsa</key>
+			<dict>
+				<key>title</key>
+				<string>Alaqsa masjid</string>
+				<key>time_offset</key>
+				<array>
+					<integer>30</integer>
+					<integer>27</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>29</integer>
+					<integer>20</integer>
+				</array>
+				<key>old_key</key>
+				<string>8</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>file_name</key>
+				<string>Alaqsa</string>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>is_fajr_available</key>
+				<false/>
+			</dict>
+			<key>MishariIramaKurdi</key>
+			<dict>
+				<key>title</key>
+				<string>Mishari Irama Kurdi</string>
+				<key>time_offset</key>
+				<array>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>28</integer>
+					<integer>27</integer>
+					<integer>25</integer>
+				</array>
+				<key>old_key</key>
+				<string>9</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>file_name</key>
+				<string>MishariIramaKurdi</string>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>isNew</key>
+				<true/>
+				<key>is_fajr_available</key>
+				<true/>
+			</dict>
+			<key>Indonesian</key>
+			<dict>
+				<key>title</key>
+				<string>Abdul Rahman (Indonesian)</string>
+				<key>time_offset</key>
+				<array>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>30</integer>
+					<integer>29</integer>
+					<integer>29</integer>
+				</array>
+				<key>old_key</key>
+				<string>10</string>
+				<key>sort</key>
+				<integer>0</integer>
+				<key>file_name</key>
+				<string>Indonesian</string>
+				<key>alarm_type</key>
+				<integer>3</integer>
+				<key>isNew</key>
+				<true/>
+				<key>is_fajr_available</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape android:dither="true" android:visible="true" android:shape="oval" android:useLevel="false">
+            <gradient android:startColor="@color/on_surface_qm" android:endColor="@color/on_surface_qm" android:angle="90.0" android:centerColor="@color/on_surface_qm" />
+            <size android:height="25.0dip" android:width="25.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape android:dither="true" android:visible="true" android:shape="oval" android:useLevel="false">
+            <gradient android:startColor="#ffececec" android:endColor="#ffd4d4d4" android:angle="90.0" android:centerColor="#ffececec" />
+            <size android:height="25.0dip" android:width="25.0dip" />
+        </shape>
+    </item>
+</selector>
